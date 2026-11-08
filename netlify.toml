@@ -1,12 +1,13 @@
-{
-  "$schema": "https://openapi.netlify.com/netlify.schema.json",
-  "framework": "nextjs",
-  "build": {
-    "command": "npm run build",
-    "publish": ".next"
-  },
-  "functions": {
-    "app/render/**": { "maxDuration": 60 },
-    "app/api/bundle/**": { "maxDuration": 60 }
-  }
-}
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[functions]
+  "app/render/**" = { maxDuration = 60 }
+  "app/api/bundle/**" = { maxDuration = 60 }

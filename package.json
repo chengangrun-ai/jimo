@@ -29,7 +29,7 @@
     "lucide-react": "0.468.0",
     "matter-js": "^0.20.0",
     "motion": "^14.9.0",
-    "next": "15.1.0",
+    "next": "^15.5.29",
     "ogl": "^1.0.11",
     "react": "19.0.0",
     "react-dom": "19.0.0",
@@ -39,6 +39,7 @@
     "vgpu": "^0.6.0"
   },
   "devDependencies": {
+    "@netlify/plugin-nextjs": "^5.16.6",
     "@tailwindcss/postcss": "^4.3.4",
     "@types/node": "22.10.2",
     "@types/react": "19.0.2",
