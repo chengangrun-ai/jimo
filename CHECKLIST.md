@@ -62,10 +62,15 @@
 ## 实测数据
 
 - 三档宽度（390 / 768 / 1280）横向溢出均为 false
-- 首页高 4642px，无 JS 报错
+- 首页无 JS 报错
+- 首页单边边框实测 **0 处**、斜体 0 处、字重超 700 的 0 处、背景渐变 0 处
+- 标题 60px、行高 60px（1:1）、段宽 680px；字体 Manrope
 - `/` 200、`/terms` 200、`/privacy` 200、`/docs/components` 200、`/docs/templates` 200
-- `/this-page-does-not-exist` 返回 404（不是 200，正确）
-- `/og-image.png` 200（26.5KB）、`/favicon.svg` 200
+- `/nope-404` 返回 404（不是 200，正确）
+- `/og-image.png` 200、`/favicon.svg` 200、`/fonts/manrope-400.woff2` 200、`/previews/**` 200
+- **线上组件实时编译打通**：`/api/bundle/components/ai-blob` 返回 3.7MB 编译产物；
+  `/render/components/ai-blob` 出 951px 画布、零预览图兜底
+- 线上地址全部页面与静态资源返回 200（EGO 浏览器截图确认没白屏没串版）
 
 ---
 
@@ -76,3 +81,21 @@
 3. **按钮没有按下缩放**（第 19 条）：只有 hover 和 focus 环，没加 `active:scale-[0.98]`。
 
 这三条如果要我改，说一声就动。
+
+---
+
+## 线上地址
+
+**https://bucolic-fox-40a1b5.netlify.app**
+
+GitHub 仓库：https://github.com/chengangrun-ai/jimo
+
+部署过程中修掉的问题（都已验证）：
+- Vercel 要外国手机号 → 换 Netlify
+- Netlify 新建站点默认开单点登录，外部访客 401 → 通过 API 关闭
+- Next.js 15.1.0 有 CVE-2025-55182，Netlify 拒部署 → 升到 15.5.29
+- 函数包 602MB 超 250MB 上限 → 移除开发期备份、压缩源码文本、精简函数包到 240MB
+- 云端 esbuild 是 Windows 版跑不了 → 加入 Linux 二进制并设置 ESBUILD_BINARY_PATH
+- react-dom/client 被 tree-shake 掉 → 补齐运行时依赖
+- 静态资源 404 → 合并 .next/static 与 public 成发布目录
+- 首页残留单边边框 → 全部改成整圈卡片边框
