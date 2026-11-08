@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/pricing-2",
+ "slug": "pricing-2",
+ "name": "Pricing 2",
+ "description": "Bento pricing with animated prices",
+ "category": "Pricing",
+ "categorySlug": "pricing",
+ "exportName": "Pricing2",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/pricing/pricing-2.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/pricing-2",
+ "lang": "jsx",
+ "codeFile": "code/blocks/pricing-2.txt",
+ "codeLen": 156581,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "pricing",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/pricing/pricing-2.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

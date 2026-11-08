@@ -1,0 +1,51 @@
+{
+ "id": "pro:block/social-proof-6",
+ "slug": "social-proof-6",
+ "name": "Social Proof 6",
+ "description": "Vertical logo carousel with a glass overlay",
+ "category": "Social Proof",
+ "categorySlug": "social-proof",
+ "exportName": "SocialProof6",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/social-proof/social-proof-6.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/social-proof-6",
+ "lang": "jsx",
+ "codeFile": "code/blocks/social-proof-6.txt",
+ "codeLen": 147034,
+ "role": "section",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/mock-logos/acmecorp.svg",
+  "/mock-logos/boltshift.svg",
+  "/mock-logos/capsule.svg",
+  "/mock-logos/catalog.svg",
+  "/mock-logos/cloudwatch.svg",
+  "/mock-logos/commandr.svg",
+  "/mock-logos/epicurious.svg",
+  "/mock-logos/galileo.svg",
+  "/mock-logos/globalbank.svg",
+  "/mock-logos/interlock.svg",
+  "/mock-logos/layers.svg",
+  "/mock-logos/lightbox.svg",
+  "/mock-logos/nietzsche.svg",
+  "/mock-logos/polymath.svg",
+  "/mock-logos/quotient.svg",
+  "/mock-logos/sisyphus.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "social-proof",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/social-proof/social-proof-6.tsx",
+ "needInline": []
+}

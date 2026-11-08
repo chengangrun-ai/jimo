@@ -1,0 +1,49 @@
+{
+ "id": "pro:block/about-14",
+ "slug": "about-14",
+ "name": "About 14",
+ "description": "Portrait studio story where prints develop as they stream out",
+ "category": "About",
+ "categorySlug": "about",
+ "exportName": "About14",
+ "deps": [
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/about/about-14.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/about-14",
+ "lang": "jsx",
+ "codeFile": "code/blocks/about-14.txt",
+ "codeLen": 917612,
+ "role": "section",
+ "previewHeight": 832,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/demo-media/portrait-indigo.webp",
+  "/demo-media/portrait-ochre.webp",
+  "/demo-media/portrait-olive.webp",
+  "/demo-media/portrait-pearl.webp",
+  "/demo-media/portrait-rose.webp",
+  "/demo-media/portrait-sienna.webp",
+  "/demo-media/portrait-silver.webp",
+  "/demo-media/portrait-teal.webp"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "about",
+ "dependencies": [
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/about/about-14.tsx",
+ "needInline": [
+  "50969",
+  "12246",
+  "2253"
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/download-7",
+ "slug": "download-7",
+ "name": "Download 7",
+ "description": "Mobile app hero with store badges",
+ "category": "Download",
+ "categorySlug": "download",
+ "exportName": "Download7",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/download/download-7.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/download-7",
+ "lang": "jsx",
+ "codeFile": "code/blocks/download-7.txt",
+ "codeLen": 156486,
+ "role": "section",
+ "previewHeight": 940,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "download",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/download/download-7.tsx",
+ "needInline": []
+}

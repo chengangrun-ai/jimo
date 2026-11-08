@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/cta-12",
+ "slug": "cta-12",
+ "name": "CTA 12",
+ "description": "Launch CTA over a blueprint grid",
+ "category": "Call To Action",
+ "categorySlug": "cta",
+ "exportName": "CTA12",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/cta/cta-12.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/cta-12",
+ "lang": "jsx",
+ "codeFile": "code/blocks/cta-12.txt",
+ "codeLen": 150345,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "cta",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/cta/cta-12.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "id": "pro:block/ecommerce-11",
+ "slug": "ecommerce-11",
+ "name": "Ecommerce 11",
+ "description": "Cart review with a shipping progress bar",
+ "category": "Ecommerce",
+ "categorySlug": "ecommerce",
+ "exportName": "Ecommerce11",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/ecommerce/ecommerce-11.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/ecommerce-11",
+ "lang": "jsx",
+ "codeFile": "code/blocks/ecommerce-11.txt",
+ "codeLen": 160535,
+ "role": "section",
+ "previewHeight": 850,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "ecommerce",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/ecommerce/ecommerce-11.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

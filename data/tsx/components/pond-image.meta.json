@@ -1,0 +1,30 @@
+{
+ "id": "pro:component/pond-image",
+ "slug": "pond-image",
+ "name": "Pond Image",
+ "description": "A photo you can stir like liquid",
+ "category": "image",
+ "tier": "starter",
+ "tags": [
+  "image",
+  "liquid",
+  "fluid",
+  "distortion",
+  "webgl",
+  "shader",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/pond-image",
+ "lang": "jsx",
+ "codeFile": "code/components/pond-image.txt",
+ "codeLen": 31683,
+ "needInline": [
+  "56388",
+  "86049",
+  "45949",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

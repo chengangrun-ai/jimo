@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/elastic-sticker",
+ "slug": "elastic-sticker",
+ "name": "Elastic Sticker",
+ "description": "A sticker you can peel off the page and paste back",
+ "category": "interactive",
+ "tier": "starter",
+ "tags": [
+  "interactive",
+  "drag",
+  "sticker",
+  "paper",
+  "webgl",
+  "3d"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/elastic-sticker",
+ "lang": "jsx",
+ "codeFile": "code/components/elastic-sticker.txt",
+ "codeLen": 45213,
+ "needInline": [
+  "56388",
+  "86049",
+  "45949",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

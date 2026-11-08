@@ -1,0 +1,31 @@
+{
+ "id": "pro:component/inverted-dome",
+ "slug": "inverted-dome",
+ "name": "Inverted Dome",
+ "description": "A draggable image grid curved like the inside of a dome",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "grid",
+  "images",
+  "webgl",
+  "drag",
+  "infinite",
+  "lens"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/inverted-dome",
+ "lang": "jsx",
+ "codeFile": "code/components/inverted-dome.txt",
+ "codeLen": 22017,
+ "needInline": [
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "50969",
+  "47962",
+  "2253",
+  "90650"
+ ]
+}

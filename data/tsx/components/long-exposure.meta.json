@@ -1,0 +1,30 @@
+{
+ "id": "pro:component/long-exposure",
+ "slug": "long-exposure",
+ "name": "Long Exposure",
+ "description": "Light trails streaming along a road at night",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "webgl",
+  "light",
+  "trails",
+  "glow"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/long-exposure",
+ "lang": "jsx",
+ "codeFile": "code/components/long-exposure.txt",
+ "codeLen": 16070,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "50969",
+  "2253",
+  "90650"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/stats-6",
+ "slug": "stats-6",
+ "name": "Stats 6",
+ "description": "Phone mockups with parallax stat circles",
+ "category": "Stats",
+ "categorySlug": "stats",
+ "exportName": "Stats6",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/stats/stats-6.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/stats-6",
+ "lang": "jsx",
+ "codeFile": "code/blocks/stats-6.txt",
+ "codeLen": 150580,
+ "role": "section",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "stats",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/stats/stats-6.tsx",
+ "needInline": [
+  "32923",
+  "75272",
+  "17192"
+ ]
+}

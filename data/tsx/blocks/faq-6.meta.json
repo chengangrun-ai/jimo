@@ -1,0 +1,39 @@
+{
+ "id": "pro:block/faq-6",
+ "slug": "faq-6",
+ "name": "FAQ 6",
+ "description": "Numbered FAQ with contact channels",
+ "category": "FAQ",
+ "categorySlug": "faq",
+ "exportName": "FAQ6",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/faq/faq-6.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/faq-6",
+ "lang": "jsx",
+ "codeFile": "code/blocks/faq-6.txt",
+ "codeLen": 155790,
+ "role": "section",
+ "previewHeight": 820,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "faq",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/faq/faq-6.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

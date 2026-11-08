@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/features-5",
+ "slug": "features-5",
+ "name": "Features 5",
+ "description": "Six-card grid with icons and CTAs",
+ "category": "Features",
+ "categorySlug": "features",
+ "exportName": "Features5",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/features/features-5.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/features-5",
+ "lang": "jsx",
+ "codeFile": "code/blocks/features-5.txt",
+ "codeLen": 153499,
+ "role": "section",
+ "previewHeight": 1100,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "features",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/features/features-5.tsx",
+ "needInline": []
+}

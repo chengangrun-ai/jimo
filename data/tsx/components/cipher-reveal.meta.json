@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/cipher-reveal",
+ "slug": "cipher-reveal",
+ "name": "Cipher Reveal",
+ "description": "A headline that decodes out of scrambled characters",
+ "category": "text",
+ "tier": "starter",
+ "tags": [
+  "text",
+  "animation",
+  "reveal",
+  "scramble",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/cipher-reveal",
+ "lang": "jsx",
+ "codeFile": "code/components/cipher-reveal.txt",
+ "codeLen": 18567,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "90650"
+ ]
+}

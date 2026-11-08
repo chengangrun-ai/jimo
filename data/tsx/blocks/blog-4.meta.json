@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/blog-4",
+ "slug": "blog-4",
+ "name": "Blog 4",
+ "description": "Article page with author details",
+ "category": "Blog",
+ "categorySlug": "blog",
+ "exportName": "Blog4",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/blog/blog-4.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/blog-4",
+ "lang": "jsx",
+ "codeFile": "code/blocks/blog-4.txt",
+ "codeLen": 151972,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "blog",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/blog/blog-4.tsx",
+ "needInline": []
+}

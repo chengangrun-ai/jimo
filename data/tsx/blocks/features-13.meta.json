@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/features-13",
+ "slug": "features-13",
+ "name": "Features 13",
+ "description": "Accordion list with a preview panel",
+ "category": "Features",
+ "categorySlug": "features",
+ "exportName": "Features13",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/features/features-13.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/features-13",
+ "lang": "jsx",
+ "codeFile": "code/blocks/features-13.txt",
+ "codeLen": 163286,
+ "role": "section",
+ "previewHeight": 940,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "features",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/features/features-13.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

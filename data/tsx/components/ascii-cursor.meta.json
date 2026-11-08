@@ -1,0 +1,22 @@
+{
+ "id": "pro:component/ascii-cursor",
+ "slug": "ascii-cursor",
+ "name": "Ascii Cursor",
+ "description": "A cursor that leaves a trail of ASCII characters",
+ "category": "cursor",
+ "tier": "starter",
+ "tags": [
+  "cursor",
+  "ascii"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/ascii-cursor",
+ "lang": "jsx",
+ "codeFile": "code/components/ascii-cursor.txt",
+ "codeLen": 18795,
+ "needInline": [
+  "2253",
+  "81712",
+  "90745",
+  "77870"
+ ]
+}

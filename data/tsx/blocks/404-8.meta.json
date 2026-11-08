@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/404-8",
+ "slug": "404-8",
+ "name": "404 8",
+ "description": "Terminal 404 with an ASCII numeral",
+ "category": "404",
+ "categorySlug": "404",
+ "exportName": "NotFound8",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/404/404-8.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/404-8",
+ "lang": "jsx",
+ "codeFile": "code/blocks/404-8.txt",
+ "codeLen": 151362,
+ "role": "page",
+ "previewHeight": 780,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "nimbus.app"
+ ],
+ "categoryDir": "404",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/404/404-8.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

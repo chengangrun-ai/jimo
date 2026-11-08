@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/neon-reveal",
+ "slug": "neon-reveal",
+ "name": "Neon Reveal",
+ "description": "A neon tube that lights up and reveals the content below",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "background",
+  "neon",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/neon-reveal",
+ "lang": "jsx",
+ "codeFile": "code/components/neon-reveal.txt",
+ "codeLen": 32582,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

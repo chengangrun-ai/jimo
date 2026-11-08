@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/contact-7",
+ "slug": "contact-7",
+ "name": "Contact 7",
+ "description": "Narrow form with a serif italic headline",
+ "category": "Contact",
+ "categorySlug": "contact",
+ "exportName": "Contact7",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/contact/contact-7.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/contact-7",
+ "lang": "jsx",
+ "codeFile": "code/blocks/contact-7.txt",
+ "codeLen": 150440,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "contact",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/contact/contact-7.tsx",
+ "needInline": []
+}

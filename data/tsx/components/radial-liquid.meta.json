@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/radial-liquid",
+ "slug": "radial-liquid",
+ "name": "Radial Liquid",
+ "description": "Liquid ripples spreading from a center",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/radial-liquid",
+ "lang": "jsx",
+ "codeFile": "code/components/radial-liquid.txt",
+ "codeLen": 22731,
+ "needInline": [
+  "30701",
+  "56388",
+  "48543",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

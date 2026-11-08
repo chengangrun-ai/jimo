@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/aurora-beam",
+ "slug": "aurora-beam",
+ "name": "Aurora Beam",
+ "description": "A sweeping beam of aurora light",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "aurora",
+  "glow",
+  "webgl",
+  "ambient"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/aurora-beam",
+ "lang": "jsx",
+ "codeFile": "code/components/aurora-beam.txt",
+ "codeLen": 19381,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

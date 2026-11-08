@@ -1,0 +1,41 @@
+{
+ "id": "pro:block/social-proof-15",
+ "slug": "social-proof-15",
+ "name": "Social Proof 15",
+ "description": "Rotating customer story spotlight",
+ "category": "Social Proof",
+ "categorySlug": "social-proof",
+ "exportName": "SocialProof15",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/social-proof/social-proof-15.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/social-proof-15",
+ "lang": "jsx",
+ "codeFile": "code/blocks/social-proof-15.txt",
+ "codeLen": 155914,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "social-proof",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/social-proof/social-proof-15.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

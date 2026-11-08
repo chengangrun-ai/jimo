@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/portal",
+ "slug": "portal",
+ "name": "Portal",
+ "description": "A glowing portal of warp-speed light you can click to jump through",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "shader",
+  "portal",
+  "warp",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/portal",
+ "lang": "jsx",
+ "codeFile": "code/components/portal.txt",
+ "codeLen": 23745,
+ "needInline": [
+  "56388",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

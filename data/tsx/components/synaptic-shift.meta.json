@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/synaptic-shift",
+ "slug": "synaptic-shift",
+ "name": "Synaptic Shift",
+ "description": "Glowing neural tendrils that pulse and shift",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "particles",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/synaptic-shift",
+ "lang": "jsx",
+ "codeFile": "code/components/synaptic-shift.txt",
+ "codeLen": 7059,
+ "needInline": [
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

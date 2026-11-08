@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/rising-ink",
+ "slug": "rising-ink",
+ "name": "Rising Ink",
+ "description": "Letters that lift off the page in 3D near the cursor",
+ "category": "text",
+ "tier": "starter",
+ "tags": [
+  "text",
+  "animation",
+  "3d",
+  "extrude",
+  "hover",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/rising-ink",
+ "lang": "jsx",
+ "codeFile": "code/components/rising-ink.txt",
+ "codeLen": 17129,
+ "needInline": [
+  "86049",
+  "56388",
+  "90761",
+  "90650"
+ ]
+}

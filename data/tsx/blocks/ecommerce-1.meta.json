@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/ecommerce-1",
+ "slug": "ecommerce-1",
+ "name": "Ecommerce 1",
+ "description": "Sneaker product page with a fit toggle",
+ "category": "Ecommerce",
+ "categorySlug": "ecommerce",
+ "exportName": "Ecommerce1",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/ecommerce/ecommerce-1.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/ecommerce-1",
+ "lang": "jsx",
+ "codeFile": "code/blocks/ecommerce-1.txt",
+ "codeLen": 157019,
+ "role": "section",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "ecommerce",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/ecommerce/ecommerce-1.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

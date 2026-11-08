@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/cta-1",
+ "slug": "cta-1",
+ "name": "CTA 1",
+ "description": "Sign-up form with floating parallax cards",
+ "category": "Call To Action",
+ "categorySlug": "cta",
+ "exportName": "CTA1",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/cta/cta-1.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/cta-1",
+ "lang": "jsx",
+ "codeFile": "code/blocks/cta-1.txt",
+ "codeLen": 151012,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "cta",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/cta/cta-1.tsx",
+ "needInline": [
+  "32923",
+  "75272",
+  "17192"
+ ]
+}

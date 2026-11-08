@@ -1,0 +1,671 @@
+{
+  "base": "https://rbp-ai-saas-template.vercel.app",
+  "generatedAt": "2026-11-01T06:44:47.335Z",
+  "pages": [
+    "/"
+  ],
+  "assets": [
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2",
+      "path": "_next/static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "path": "_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/74eb12ccba9dbf15.css",
+      "path": "_next/static/chunks/74eb12ccba9dbf15.css"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/1776702b6e3c63ca.js",
+      "path": "_next/static/chunks/1776702b6e3c63ca.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/aa0a7c5c022cbeb9.js",
+      "path": "_next/static/chunks/aa0a7c5c022cbeb9.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/30ea11065999f7ac.js",
+      "path": "_next/static/chunks/30ea11065999f7ac.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/a7dd6310ecf9fded.js",
+      "path": "_next/static/chunks/a7dd6310ecf9fded.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/turbopack-4a8fce9b15b78c12.js",
+      "path": "_next/static/chunks/turbopack-4a8fce9b15b78c12.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/89ff9c92de0fe936.js",
+      "path": "_next/static/chunks/89ff9c92de0fe936.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/ff1a16fafef87110.js",
+      "path": "_next/static/chunks/ff1a16fafef87110.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/7340adf74ff47ec0.js",
+      "path": "_next/static/chunks/7340adf74ff47ec0.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/da9dcf70f60b472f.js",
+      "path": "_next/static/chunks/da9dcf70f60b472f.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/a6dad97d9634a72d.js",
+      "path": "_next/static/chunks/a6dad97d9634a72d.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/describe-4680d588332d.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/describe-b8024e941910.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/describe-7cbd6c3811d6.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/describe-228cf34aa239.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/describe-62d62f436253.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/describe-18348d4f2156.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/describe-ebf69eeb4226.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/describe-0e5894f020ef.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/describe-8c0ce41bf7ec.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/describe-4ebbd60d7049.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/describe-83ed53119a12.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/describe-664eb2a4103e.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/describe-32e3a763fd32.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/describe-5a4acfe877d2.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/describe-a4cbe9e46532.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/generate-03ecad8f87d8.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/generate-ddedaeb1cc39.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/generate-5623011cc902.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/generate-f9cca75a7131.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/generate-7fba61dfb539.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/generate-8f3cd01da4c4.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/generate-8208134cfacd.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/generate-2c17f06389da.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/generate-f00e7a4c7e86.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/generate-3e6cfd79a4b8.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/generate-58b9b49e14a5.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/generate-b2e07a014a09.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/generate-0de878ec02b2.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/generate-b21534ef0e46.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/generate-22cfe5b9aa72.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/refine-dff6e0e311a1.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/refine-4f5ab7a39ad3.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/refine-404254368d88.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/refine-b3f7ebecdda1.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/refine-81d4e74ebe5f.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/refine-48ca6e4de11c.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/refine-9ae24be0d1c5.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/refine-7c873d337b90.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/refine-686fa6829850.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/refine-c9232187ee5d.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/refine-646775d5bf7a.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/refine-19b877357bab.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/refine-0fe629c12d20.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/refine-dd950ccc26dc.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/refine-2f399a48cc62.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/ship-0790847b552e.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/ship-766a7ba87615.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/ship-0b8b660ecb31.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/ship-331a16f05c8b.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/ship-106b567c40cc.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/ship-a7c0f52d7e4d.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/ship-abb25a884db1.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/ship-bef977e49329.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/ship-01318869b06a.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/ship-f1263275fb95.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/ship-c947c6e67914.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/ship-44b2cb7a1e31.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/ship-0794e04d0e2e.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/ship-1fc76def2bdc.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/ship-c5e159be98b2.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1574108233269-86d1199d28de_q_80_w_774_auto_format_fit_crop_ixlib_rb-4.1-cdec3c881f51.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1574108233269-86d1199d28de_q_80_w_774_auto_format_fit_crop_ixlib_rb-4.1-ac7f8051da5c.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1574108233269-86d1199d28de_q_80_w_774_auto_format_fit_crop_ixlib_rb-4.1-a427ac007d7a.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1574108233269-86d1199d28de_q_80_w_774_auto_format_fit_crop_ixlib_rb-4.1-76c1aef26d28.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1574108233269-86d1199d28de_q_80_w_774_auto_format_fit_crop_ixlib_rb-4.1-fad6dc4601d3.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1574108233269-86d1199d28de_q_80_w_774_auto_format_fit_crop_ixlib_rb-4.1-bfda4c746f97.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1574108233269-86d1199d28de_q_80_w_774_auto_format_fit_crop_ixlib_rb-4.1-69feebb2350c.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1574108233269-86d1199d28de_q_80_w_774_auto_format_fit_crop_ixlib_rb-4.1-dbf5298fbc0d.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1574108233269-86d1199d28de_q_80_w_774_auto_format_fit_crop_ixlib_rb-4.1-83e6cbcde72c.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1574108233269-86d1199d28de_q_80_w_774_auto_format_fit_crop_ixlib_rb-4.1-860a197ebb46.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1530268729831-4b0b9e170218_q_80_w_1740_auto_format_fit_crop_ixlib_rb-4.1-d8c0203fc89a.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1530268729831-4b0b9e170218_q_80_w_1740_auto_format_fit_crop_ixlib_rb-4.1-b6a70afb8980.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1530268729831-4b0b9e170218_q_80_w_1740_auto_format_fit_crop_ixlib_rb-4.1-c78a58e1e54e.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1530268729831-4b0b9e170218_q_80_w_1740_auto_format_fit_crop_ixlib_rb-4.1-a1efc6d644bd.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1530268729831-4b0b9e170218_q_80_w_1740_auto_format_fit_crop_ixlib_rb-4.1-e2d759e18bdf.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1530268729831-4b0b9e170218_q_80_w_1740_auto_format_fit_crop_ixlib_rb-4.1-4e6193c7a084.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1530268729831-4b0b9e170218_q_80_w_1740_auto_format_fit_crop_ixlib_rb-4.1-605e7e613fb2.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1530268729831-4b0b9e170218_q_80_w_1740_auto_format_fit_crop_ixlib_rb-4.1-216d067a76d9.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1530268729831-4b0b9e170218_q_80_w_1740_auto_format_fit_crop_ixlib_rb-4.1-4007046f8759.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1530268729831-4b0b9e170218_q_80_w_1740_auto_format_fit_crop_ixlib_rb-4.1-f1de419cb764.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1540569014015-19a7be504e3a_q_80_w_870_auto_format_fit_crop_ixlib_rb-4.1-6810442b7904.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1540569014015-19a7be504e3a_q_80_w_870_auto_format_fit_crop_ixlib_rb-4.1-93fbccbb5b72.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1540569014015-19a7be504e3a_q_80_w_870_auto_format_fit_crop_ixlib_rb-4.1-3c101ffd734b.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1540569014015-19a7be504e3a_q_80_w_870_auto_format_fit_crop_ixlib_rb-4.1-4c3dcecbf6f9.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1540569014015-19a7be504e3a_q_80_w_870_auto_format_fit_crop_ixlib_rb-4.1-820f249ccce7.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1540569014015-19a7be504e3a_q_80_w_870_auto_format_fit_crop_ixlib_rb-4.1-7dcd99f6f034.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1540569014015-19a7be504e3a_q_80_w_870_auto_format_fit_crop_ixlib_rb-4.1-d3233701981c.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1540569014015-19a7be504e3a_q_80_w_870_auto_format_fit_crop_ixlib_rb-4.1-9135989d9852.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1540569014015-19a7be504e3a_q_80_w_870_auto_format_fit_crop_ixlib_rb-4.1-19b9489aaf52.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_img/describe-ebf69eeb4226.webp",
+      "path": "_img/photo-1540569014015-19a7be504e3a_q_80_w_870_auto_format_fit_crop_ixlib_rb-4.1-07cb5028b5a8.0_ixid_M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA__"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/svg/logo.svg?dpl=dpl_DaJbsjApKwfHbDRte9eXpZz46URh",
+      "path": "svg/logo.svg-3d01aa849d2e.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/svg/gradient-fade.svg?dpl=dpl_DaJbsjApKwfHbDRte9eXpZz46URh",
+      "path": "svg/gradient-fade.svg-a210c30c3149.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/74eb12ccba9dbf15.css",
+      "path": "_next/static/chunks/74eb12ccba9dbf15.css-bed8f684bf64.css"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/1776702b6e3c63ca.js",
+      "path": "_next/static/chunks/1776702b6e3c63ca.js-b5fcc269cf25.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/aa0a7c5c022cbeb9.js",
+      "path": "_next/static/chunks/aa0a7c5c022cbeb9.js-bed89d15ca7d.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/30ea11065999f7ac.js",
+      "path": "_next/static/chunks/30ea11065999f7ac.js-50b1b9895897.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/a7dd6310ecf9fded.js",
+      "path": "_next/static/chunks/a7dd6310ecf9fded.js-8d01c62586b3.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/turbopack-4a8fce9b15b78c12.js",
+      "path": "_next/static/chunks/turbopack-4a8fce9b15b78c12.js-ff9be1b66078.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/89ff9c92de0fe936.js",
+      "path": "_next/static/chunks/89ff9c92de0fe936.js-83c7779a8134.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/ff1a16fafef87110.js",
+      "path": "_next/static/chunks/ff1a16fafef87110.js-e138c790252b.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/7340adf74ff47ec0.js",
+      "path": "_next/static/chunks/7340adf74ff47ec0.js-ea1067195680.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/da9dcf70f60b472f.js",
+      "path": "_next/static/chunks/da9dcf70f60b472f.js-3d74c301fafe.js"
+    },
+    {
+      "url": "https://nexus-ai.com",
+      "path": "https:/nexus-ai.com"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/site.webmanifest",
+      "path": "site.webmanifest"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/favicon-16x16.png",
+      "path": "favicon-16x16.png"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/favicon.ico?favicon.0b3bf435.ico",
+      "path": "favicon.ico-0cede0f85870.ico"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/favicon.ico",
+      "path": "favicon.ico"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/apple-icon.png",
+      "path": "apple-icon.png"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/a6dad97d9634a72d.js",
+      "path": "_next/static/chunks/a6dad97d9634a72d.js-fa3c9a2e7565.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/",
+      "path": "index.html"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/mock-logos/acmecorp.svg?dpl=dpl_DaJbsjApKwfHbDRte9eXpZz46URh",
+      "path": "mock-logos/acmecorp.svg-e9bd8f56630b.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/mock-logos/boltshift.svg?dpl=dpl_DaJbsjApKwfHbDRte9eXpZz46URh",
+      "path": "mock-logos/boltshift.svg-1886fba5fc76.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/mock-logos/capsule.svg?dpl=dpl_DaJbsjApKwfHbDRte9eXpZz46URh",
+      "path": "mock-logos/capsule.svg-b0c7fe226984.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/mock-logos/catalog.svg?dpl=dpl_DaJbsjApKwfHbDRte9eXpZz46URh",
+      "path": "mock-logos/catalog.svg-9348a6834722.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/mock-logos/cloudwatch.svg?dpl=dpl_DaJbsjApKwfHbDRte9eXpZz46URh",
+      "path": "mock-logos/cloudwatch.svg-e2a556ac34ce.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/mock-logos/featherdev.svg?dpl=dpl_DaJbsjApKwfHbDRte9eXpZz46URh",
+      "path": "mock-logos/featherdev.svg-23294f530eb2.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/svg/logo-text.svg?dpl=dpl_DaJbsjApKwfHbDRte9eXpZz46URh",
+      "path": "svg/logo-text.svg-802be2567b7f.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/_next/static/chunks/ff1a16fafef87110.js",
+      "path": "_next/static/chunks/ff1a16fafef87110.js-a86defebc24a.js"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/svg/logo-text.svg",
+      "path": "svg/logo-text.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/svg/logo.svg",
+      "path": "svg/logo.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/svg/gradient-fade.svg",
+      "path": "svg/gradient-fade.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/img/mock1_compressed.webp",
+      "path": "img/mock1_compressed.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/img/mock2_compressed.webp",
+      "path": "img/mock2_compressed.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/img/mock3_compressed.webp",
+      "path": "img/mock3_compressed.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/img/mock4_compressed.webp",
+      "path": "img/mock4_compressed.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/img/mock5_compressed.webp",
+      "path": "img/mock5_compressed.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/img/mock6_compressed.webp",
+      "path": "img/mock6_compressed.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/img/mock7_compressed.webp",
+      "path": "img/mock7_compressed.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/img/mock8_compressed.webp",
+      "path": "img/mock8_compressed.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/img/mock9_compressed.webp",
+      "path": "img/mock9_compressed.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/img/mock10_compressed.webp",
+      "path": "img/mock10_compressed.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/img/mock11_compressed.webp",
+      "path": "img/mock11_compressed.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/img/mock12_compressed.webp",
+      "path": "img/mock12_compressed.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/img/describe.webp",
+      "path": "img/describe.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/img/generate.webp",
+      "path": "img/generate.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/img/refine.webp",
+      "path": "img/refine.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/img/ship.webp",
+      "path": "img/ship.webp"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/mock-logos/acmecorp.svg",
+      "path": "mock-logos/acmecorp.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/mock-logos/boltshift.svg",
+      "path": "mock-logos/boltshift.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/mock-logos/capsule.svg",
+      "path": "mock-logos/capsule.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/mock-logos/catalog.svg",
+      "path": "mock-logos/catalog.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/mock-logos/cloudwatch.svg",
+      "path": "mock-logos/cloudwatch.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/mock-logos/featherdev.svg",
+      "path": "mock-logos/featherdev.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/mock-logos/altshift.svg",
+      "path": "mock-logos/altshift.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/mock-logos/biosynthesis.svg",
+      "path": "mock-logos/biosynthesis.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/mock-logos/commandr.svg",
+      "path": "mock-logos/commandr.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/mock-logos/epicurious.svg",
+      "path": "mock-logos/epicurious.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/mock-logos/focalpoint.svg",
+      "path": "mock-logos/focalpoint.svg"
+    },
+    {
+      "url": "https://rbp-ai-saas-template.vercel.app/mock-logos/galileo.svg",
+      "path": "mock-logos/galileo.svg"
+    }
+  ],
+  "failures": [
+    {
+      "u": "https://nexus-ai.com",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://rbp-ai-saas-template.vercel.app/favicon-16x16.png",
+      "s": 404
+    },
+    {
+      "u": "https://rbp-ai-saas-template.vercel.app/apple-icon.png",
+      "s": 404
+    }
+  ]
+}

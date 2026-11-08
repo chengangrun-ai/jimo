@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/auth-2",
+ "slug": "auth-2",
+ "name": "Auth 2",
+ "description": "Split sign-in with OAuth buttons",
+ "category": "Auth",
+ "categorySlug": "auth",
+ "exportName": "Auth2",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/auth/auth-2.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/auth-2",
+ "lang": "jsx",
+ "codeFile": "code/blocks/auth-2.txt",
+ "codeLen": 152921,
+ "role": "page",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "div",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "auth",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/auth/auth-2.tsx",
+ "needInline": []
+}

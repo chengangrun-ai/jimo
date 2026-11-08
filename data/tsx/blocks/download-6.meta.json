@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/download-6",
+ "slug": "download-6",
+ "name": "Download 6",
+ "description": "Release manifest with checksums",
+ "category": "Download",
+ "categorySlug": "download",
+ "exportName": "Download6",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/download/download-6.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/download-6",
+ "lang": "jsx",
+ "codeFile": "code/blocks/download-6.txt",
+ "codeLen": 156941,
+ "role": "section",
+ "previewHeight": 820,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "download",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/download/download-6.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

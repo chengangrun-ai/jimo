@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/features-6",
+ "slug": "features-6",
+ "name": "Features 6",
+ "description": "Four cards with gradient blobs on hover",
+ "category": "Features",
+ "categorySlug": "features",
+ "exportName": "Features6",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/features/features-6.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/features-6",
+ "lang": "jsx",
+ "codeFile": "code/blocks/features-6.txt",
+ "codeLen": 149690,
+ "role": "section",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "features",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/features/features-6.tsx",
+ "needInline": []
+}

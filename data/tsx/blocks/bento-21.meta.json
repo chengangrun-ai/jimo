@@ -1,0 +1,39 @@
+{
+ "id": "pro:block/bento-21",
+ "slug": "bento-21",
+ "name": "Bento 21",
+ "description": "Command palette with self-pressing keys",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento21",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-21.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-21",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-21.txt",
+ "codeLen": 158814,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-21.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

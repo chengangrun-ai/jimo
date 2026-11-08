@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/ascii-ripple",
+ "slug": "ascii-ripple",
+ "name": "ASCII Ripple",
+ "description": "Text that ripples like water under the cursor",
+ "category": "ascii",
+ "tier": "starter",
+ "tags": [
+  "ascii",
+  "text",
+  "liquid",
+  "ripple",
+  "canvas",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/ascii-ripple",
+ "lang": "jsx",
+ "codeFile": "code/components/ascii-ripple.txt",
+ "codeLen": 20909,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "90650"
+ ]
+}

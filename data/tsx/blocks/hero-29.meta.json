@@ -1,0 +1,42 @@
+{
+ "id": "pro:block/hero-29",
+ "slug": "hero-29",
+ "name": "Hero 29",
+ "description": "Analytics hero with a light vortex funnel that spills visitors at each drop-off",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero29",
+ "deps": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-29.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-29",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-29.txt",
+ "codeLen": 926055,
+ "role": "hero",
+ "previewHeight": 860,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "hero",
+ "dependencies": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-29.tsx",
+ "needInline": [
+  "50969",
+  "2253",
+  "12246"
+ ]
+}

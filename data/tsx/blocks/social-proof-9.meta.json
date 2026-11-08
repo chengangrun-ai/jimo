@@ -1,0 +1,51 @@
+{
+ "id": "pro:block/social-proof-9",
+ "slug": "social-proof-9",
+ "name": "Social Proof 9",
+ "description": "Minimal logo marquees in two directions",
+ "category": "Social Proof",
+ "categorySlug": "social-proof",
+ "exportName": "SocialProof9",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/social-proof/social-proof-9.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/social-proof-9",
+ "lang": "jsx",
+ "codeFile": "code/blocks/social-proof-9.txt",
+ "codeLen": 148331,
+ "role": "section",
+ "previewHeight": 400,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/mock-logos/acmecorp.svg",
+  "/mock-logos/boltshift.svg",
+  "/mock-logos/capsule.svg",
+  "/mock-logos/featherdev.svg",
+  "/mock-logos/globalbank.svg",
+  "/mock-logos/interlock.svg",
+  "/mock-logos/lightbox.svg",
+  "/mock-logos/luminous.svg",
+  "/mock-logos/polymath.svg",
+  "/mock-logos/quotient.svg",
+  "/mock-logos/sisyphus.svg",
+  "/mock-logos/spherule.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "social-proof",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/social-proof/social-proof-9.tsx",
+ "needInline": [
+  "75272",
+  "32923",
+  "26"
+ ]
+}

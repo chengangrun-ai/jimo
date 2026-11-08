@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/elastic-reel",
+ "slug": "elastic-reel",
+ "name": "Elastic Reel",
+ "description": "A dock of photo slices that swell open into full images",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "images",
+  "carousel",
+  "webgl",
+  "interactive",
+  "showcase"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/elastic-reel",
+ "lang": "jsx",
+ "codeFile": "code/components/elastic-reel.txt",
+ "codeLen": 36866,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

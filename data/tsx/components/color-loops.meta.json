@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/color-loops",
+ "slug": "color-loops",
+ "name": "Color Loops",
+ "description": "Concentric rings of color looping out from a center",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "background",
+  "shader",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/color-loops",
+ "lang": "jsx",
+ "codeFile": "code/components/color-loops.txt",
+ "codeLen": 24675,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

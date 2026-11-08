@@ -1,0 +1,44 @@
+{
+ "id": "pro:block/hero-13",
+ "slug": "hero-13",
+ "name": "Hero 13",
+ "description": "Glow divider hero with floating icons",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero13",
+ "deps": [
+  "@react-three/fiber",
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-13.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-13",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-13.txt",
+ "codeLen": 1106098,
+ "role": "hero",
+ "previewHeight": 860,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "hero",
+ "dependencies": [
+  "@react-three/fiber",
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-13.tsx",
+ "needInline": [
+  "81712",
+  "3907",
+  "2253"
+ ]
+}

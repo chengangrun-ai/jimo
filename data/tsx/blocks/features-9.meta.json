@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/features-9",
+ "slug": "features-9",
+ "name": "Features 9",
+ "description": "Persona tabs with animated illustrations",
+ "category": "Features",
+ "categorySlug": "features",
+ "exportName": "Features9",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/features/features-9.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/features-9",
+ "lang": "jsx",
+ "codeFile": "code/blocks/features-9.txt",
+ "codeLen": 152316,
+ "role": "section",
+ "previewHeight": 850,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "features",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/features/features-9.tsx",
+ "needInline": []
+}

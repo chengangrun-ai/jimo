@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/rotating-cards",
+ "slug": "rotating-cards",
+ "name": "Rotating Cards",
+ "description": "A draggable ring of cards rotating in 3D",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "cards",
+  "3d"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/rotating-cards",
+ "lang": "jsx",
+ "codeFile": "code/components/rotating-cards.txt",
+ "codeLen": 16627,
+ "needInline": [
+  "56388",
+  "45949",
+  "90761",
+  "75272",
+  "17192",
+  "90650"
+ ]
+}

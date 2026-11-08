@@ -1,0 +1,25 @@
+{
+ "id": "pro:app-ui/sorbet/tool-calls-5",
+ "slug": "tool-calls-5",
+ "name": "Tool Calls 5",
+ "description": "",
+ "category": "tool-calls",
+ "style": "sorbet",
+ "href": "https://pro.reactbits.dev/docs/app-ui/tool-calls-5",
+ "lang": "jsx",
+ "codeFile": "code/app-ui/tool-calls-5.txt",
+ "codeLen": 8988,
+ "needInline": [
+  "50969",
+  "22728",
+  "63163",
+  "5042",
+  "54345",
+  "89289",
+  "99199",
+  "90987",
+  "59157",
+  "1497",
+  "62714"
+ ]
+}

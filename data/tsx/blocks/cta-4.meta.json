@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/cta-4",
+ "slug": "cta-4",
+ "name": "CTA 4",
+ "description": "Centered CTA with scrolling cards",
+ "category": "Call To Action",
+ "categorySlug": "cta",
+ "exportName": "Cta4",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/cta/cta-4.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/cta-4",
+ "lang": "jsx",
+ "codeFile": "code/blocks/cta-4.txt",
+ "codeLen": 148320,
+ "role": "section",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "cta",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/cta/cta-4.tsx",
+ "needInline": []
+}

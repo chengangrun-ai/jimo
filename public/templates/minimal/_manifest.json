@@ -1,0 +1,259 @@
+{
+  "base": "https://rbp-minimal-template.vercel.app",
+  "generatedAt": "2026-11-01T06:47:04.104Z",
+  "pages": [
+    "/"
+  ],
+  "assets": [
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2",
+      "path": "_next/static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "path": "_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_next/static/chunks/d15f60878621c72c.css",
+      "path": "_next/static/chunks/d15f60878621c72c.css"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_next/static/chunks/0813c03bc9df66c8.js",
+      "path": "_next/static/chunks/0813c03bc9df66c8.js"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_next/static/chunks/aa0a7c5c022cbeb9.js",
+      "path": "_next/static/chunks/aa0a7c5c022cbeb9.js"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_next/static/chunks/30ea11065999f7ac.js",
+      "path": "_next/static/chunks/30ea11065999f7ac.js"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_next/static/chunks/ed432eccdaca5a7e.js",
+      "path": "_next/static/chunks/ed432eccdaca5a7e.js"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_next/static/chunks/turbopack-8b394e01933898ae.js",
+      "path": "_next/static/chunks/turbopack-8b394e01933898ae.js"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_next/static/chunks/ff1a16fafef87110.js",
+      "path": "_next/static/chunks/ff1a16fafef87110.js"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_next/static/chunks/59afb024939187d3.js",
+      "path": "_next/static/chunks/59afb024939187d3.js"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_next/static/chunks/59fa7d3525fdf3a1.js",
+      "path": "_next/static/chunks/59fa7d3525fdf3a1.js"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_next/static/chunks/7340adf74ff47ec0.js",
+      "path": "_next/static/chunks/7340adf74ff47ec0.js"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_next/static/chunks/75ef99e1d5fd951d.js",
+      "path": "_next/static/chunks/75ef99e1d5fd951d.js"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_next/static/chunks/a6dad97d9634a72d.js",
+      "path": "_next/static/chunks/a6dad97d9634a72d.js"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/article-summary-5534e1093907.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/article-summary-6270b8888572.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/article-summary-3e2c525eaaee.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/article-summary-2293ff350369.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/article-summary-5d695f7f6d0e.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/article-summary-c7e738303e49.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/article-summary-178d2a079bd0.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/article-summary-6b208f5f0dd4.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/article-summary-ecd9e4eba762.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/research-papers-6433c8eb2724.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/research-papers-6d5050172c03.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/research-papers-ca8b5dd3290c.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/research-papers-4935faab9ca5.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/research-papers-80fd6b18a5c7.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/research-papers-8edabed3f232.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/research-papers-8e3a3df16b03.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/research-papers-40f6d749d691.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/research-papers-4ce0e871a64d.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/book-summary-badb794a8f18.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/book-summary-707ac7cabd9a.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/book-summary-5bb94a30ce3b.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/book-summary-36420c9ee212.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/book-summary-5fd05bead073.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/book-summary-512b32985473.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/book-summary-4b50893cce03.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/book-summary-ed40557b4e95.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/_img/article-summary-ecd9e4eba762.webp",
+      "path": "_img/book-summary-e80412eeb98e.webp"
+    },
+    {
+      "url": "https://example.com",
+      "path": "https:/example.com"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/site.webmanifest",
+      "path": "site.webmanifest"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/favicon-16x16.png",
+      "path": "favicon-16x16.png"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/favicon.ico?favicon.0b3bf435.ico",
+      "path": "favicon.ico-23ec30d7a7b6.ico"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/favicon.ico",
+      "path": "favicon.ico"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/apple-icon.png",
+      "path": "apple-icon.png"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/",
+      "path": "index.html"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/img/article-summary.webp",
+      "path": "img/article-summary.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/img/research-papers.webp",
+      "path": "img/research-papers.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/img/book-summary.webp",
+      "path": "img/book-summary.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/img/chrome-extension.webp",
+      "path": "img/chrome-extension.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/img/safari-extension.webp",
+      "path": "img/safari-extension.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/img/api-access.webp",
+      "path": "img/api-access.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/img/video-summary.webp",
+      "path": "img/video-summary.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/img/podcast-summary.webp",
+      "path": "img/podcast-summary.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/img/pdf-summary.webp",
+      "path": "img/pdf-summary.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/img/social-threads.webp",
+      "path": "img/social-threads.webp"
+    },
+    {
+      "url": "https://rbp-minimal-template.vercel.app/img/email-digest.webp",
+      "path": "img/email-digest.webp"
+    }
+  ],
+  "failures": [
+    {
+      "u": "https://example.com",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://rbp-minimal-template.vercel.app/favicon-16x16.png",
+      "s": 404
+    },
+    {
+      "u": "https://rbp-minimal-template.vercel.app/apple-icon.png",
+      "s": 404
+    }
+  ]
+}

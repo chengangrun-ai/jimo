@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/gravity-letters",
+ "slug": "gravity-letters",
+ "name": "Gravity Letters",
+ "description": "A headline of glyph sand you can slice; cut pieces fall, shatter and pour back",
+ "category": "text",
+ "tier": "starter",
+ "tags": [
+  "text",
+  "animation",
+  "physics",
+  "sand",
+  "interactive",
+  "webgl"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/gravity-letters",
+ "lang": "jsx",
+ "codeFile": "code/components/gravity-letters.txt",
+ "codeLen": 32350,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

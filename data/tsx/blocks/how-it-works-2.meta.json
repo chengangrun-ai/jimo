@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/how-it-works-2",
+ "slug": "how-it-works-2",
+ "name": "How It Works 2",
+ "description": "Step cards with an image hover",
+ "category": "How It Works",
+ "categorySlug": "how-it-works",
+ "exportName": "HowItWorks2",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/how-it-works/how-it-works-2.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/how-it-works-2",
+ "lang": "jsx",
+ "codeFile": "code/blocks/how-it-works-2.txt",
+ "codeLen": 149013,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "how-it-works",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/how-it-works/how-it-works-2.tsx",
+ "needInline": []
+}

@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/404-7",
+ "slug": "404-7",
+ "name": "404 7",
+ "description": "Radar sweep 404 with inline search",
+ "category": "404",
+ "categorySlug": "404",
+ "exportName": "NotFound7",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/404/404-7.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/404-7",
+ "lang": "jsx",
+ "codeFile": "code/blocks/404-7.txt",
+ "codeLen": 154125,
+ "role": "page",
+ "previewHeight": 780,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "404",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/404/404-7.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

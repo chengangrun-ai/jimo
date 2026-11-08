@@ -1,0 +1,30 @@
+{
+ "id": "pro:component/glowing-ridges",
+ "slug": "glowing-ridges",
+ "name": "Glowing Ridges",
+ "description": "Iridescent ridges of light rolling like folded silk",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "webgl",
+  "iridescent",
+  "waves",
+  "color"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/glowing-ridges",
+ "lang": "jsx",
+ "codeFile": "code/components/glowing-ridges.txt",
+ "codeLen": 15005,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "50969",
+  "2253",
+  "90650"
+ ]
+}

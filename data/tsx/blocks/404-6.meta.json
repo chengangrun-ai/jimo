@@ -1,0 +1,42 @@
+{
+ "id": "pro:block/404-6",
+ "slug": "404-6",
+ "name": "404 6",
+ "description": "404 with TV static and a glitch",
+ "category": "404",
+ "categorySlug": "404",
+ "exportName": "NotFound6",
+ "deps": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/404/404-6.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/404-6",
+ "lang": "jsx",
+ "codeFile": "code/blocks/404-6.txt",
+ "codeLen": 903140,
+ "role": "page",
+ "previewHeight": 780,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "404",
+ "dependencies": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/404/404-6.tsx",
+ "needInline": [
+  "50969",
+  "2253",
+  "12246"
+ ]
+}

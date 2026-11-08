@@ -1,0 +1,23 @@
+{
+ "id": "pro:component/modal-cards",
+ "slug": "modal-cards",
+ "name": "Modal Cards",
+ "description": "Cards that expand into full-screen modals",
+ "category": "modal",
+ "tier": "starter",
+ "tags": [
+  "modal",
+  "cards"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/modal-cards",
+ "lang": "jsx",
+ "codeFile": "code/components/modal-cards.txt",
+ "codeLen": 12308,
+ "needInline": [
+  "56388",
+  "90761",
+  "47962",
+  "47650",
+  "90650"
+ ]
+}

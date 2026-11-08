@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/signal-type",
+ "slug": "signal-type",
+ "name": "Signal Type",
+ "description": "A headline that flickers on like a neon sign",
+ "category": "text",
+ "tier": "starter",
+ "tags": [
+  "text",
+  "animation",
+  "flicker",
+  "neon",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/signal-type",
+ "lang": "jsx",
+ "codeFile": "code/components/signal-type.txt",
+ "codeLen": 21328,
+ "needInline": [
+  "86049",
+  "56388",
+  "90761",
+  "90650"
+ ]
+}

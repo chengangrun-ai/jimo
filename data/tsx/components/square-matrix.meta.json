@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/square-matrix",
+ "slug": "square-matrix",
+ "name": "Square Matrix",
+ "description": "A crisp LED grid rippling in waves of light",
+ "category": "shader",
+ "tier": "starter",
+ "tags": [
+  "shader",
+  "background",
+  "grid",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/square-matrix",
+ "lang": "jsx",
+ "codeFile": "code/components/square-matrix.txt",
+ "codeLen": 34105,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/landscape",
+ "slug": "landscape",
+ "name": "Landscape",
+ "description": "An endless landscape rolling toward the horizon",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "landscape",
+  "terrain",
+  "webgl",
+  "3d"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/landscape",
+ "lang": "jsx",
+ "codeFile": "code/components/landscape.txt",
+ "codeLen": 21720,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

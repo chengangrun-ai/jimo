@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/social-proof-13",
+ "slug": "social-proof-13",
+ "name": "Social Proof 13",
+ "description": "Global coverage with tilted flag chips",
+ "category": "Social Proof",
+ "categorySlug": "social-proof",
+ "exportName": "SocialProof13",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/social-proof/social-proof-13.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/social-proof-13",
+ "lang": "jsx",
+ "codeFile": "code/blocks/social-proof-13.txt",
+ "codeLen": 149496,
+ "role": "section",
+ "previewHeight": 860,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "social-proof",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/social-proof/social-proof-13.tsx",
+ "needInline": []
+}

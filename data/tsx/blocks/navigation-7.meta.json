@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/navigation-7",
+ "slug": "navigation-7",
+ "name": "Navigation 7",
+ "description": "Rounded top nav with dropdowns",
+ "category": "Navigation",
+ "categorySlug": "navigation",
+ "exportName": "Navigation7",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/navigation/navigation-7.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/navigation-7",
+ "lang": "jsx",
+ "codeFile": "code/blocks/navigation-7.txt",
+ "codeLen": 158703,
+ "role": "navigation",
+ "previewHeight": 650,
+ "layout": {
+  "rootTag": "null",
+  "heightMode": "auto",
+  "isOpaque": false,
+  "rootIsFixed": false,
+  "containsFixedPositioning": true
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "navigation",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/navigation/navigation-7.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

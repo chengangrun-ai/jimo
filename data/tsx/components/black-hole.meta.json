@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/black-hole",
+ "slug": "black-hole",
+ "name": "Black Hole",
+ "description": "Smoky light bending around a black hole and its photon ring",
+ "category": "shader",
+ "tier": "starter",
+ "tags": [
+  "shader",
+  "effect",
+  "background",
+  "space",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/black-hole",
+ "lang": "jsx",
+ "codeFile": "code/components/black-hole.txt",
+ "codeLen": 27765,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

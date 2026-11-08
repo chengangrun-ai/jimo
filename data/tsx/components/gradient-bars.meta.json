@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/gradient-bars",
+ "slug": "gradient-bars",
+ "name": "Gradient Bars",
+ "description": "Vertical gradient bars shifting in waves",
+ "category": "3d",
+ "tier": "starter",
+ "tags": [
+  "3d",
+  "shader",
+  "effect",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/gradient-bars",
+ "lang": "jsx",
+ "codeFile": "code/components/gradient-bars.txt",
+ "codeLen": 11786,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "90650",
+  "2253"
+ ]
+}

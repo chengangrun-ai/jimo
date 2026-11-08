@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/photon-knot",
+ "slug": "photon-knot",
+ "name": "Photon Knot",
+ "description": "A translucent ribbon of light tied into a slowly turning knot",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "3d",
+  "webgl",
+  "ribbon",
+  "light",
+  "interactive",
+  "knot"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/photon-knot",
+ "lang": "jsx",
+ "codeFile": "code/components/photon-knot.txt",
+ "codeLen": 34127,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

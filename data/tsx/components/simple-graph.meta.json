@@ -1,0 +1,24 @@
+{
+ "id": "pro:component/simple-graph",
+ "slug": "simple-graph",
+ "name": "Simple Graph",
+ "description": "A smooth animated line graph",
+ "category": "visualization",
+ "tier": "starter",
+ "tags": [
+  "visualization",
+  "graph",
+  "ui"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/simple-graph",
+ "lang": "jsx",
+ "codeFile": "code/components/simple-graph.txt",
+ "codeLen": 15286,
+ "needInline": [
+  "56388",
+  "90761",
+  "81106",
+  "47962",
+  "90650"
+ ]
+}

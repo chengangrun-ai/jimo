@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/flame-paths",
+ "slug": "flame-paths",
+ "name": "Flame Paths",
+ "description": "Glowing flame tongues that gust and flare up",
+ "category": "shader",
+ "tier": "starter",
+ "tags": [
+  "shader",
+  "effect",
+  "background",
+  "flame",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/flame-paths",
+ "lang": "jsx",
+ "codeFile": "code/components/flame-paths.txt",
+ "codeLen": 31392,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

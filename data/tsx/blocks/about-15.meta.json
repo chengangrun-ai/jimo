@@ -1,0 +1,49 @@
+{
+ "id": "pro:block/about-15",
+ "slug": "about-15",
+ "name": "About 15",
+ "description": "Record label story above a fan of sleeves with a spinning record",
+ "category": "About",
+ "categorySlug": "about",
+ "exportName": "About15",
+ "deps": [
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/about/about-15.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/about-15",
+ "lang": "jsx",
+ "codeFile": "code/blocks/about-15.txt",
+ "codeLen": 927289,
+ "role": "section",
+ "previewHeight": 895,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/demo-media/abstract-amber-loop.webp",
+  "/demo-media/abstract-coral-fold.webp",
+  "/demo-media/abstract-fuchsia-wave.webp",
+  "/demo-media/abstract-orchid-orbit.webp",
+  "/demo-media/abstract-pink-eclipse.webp",
+  "/demo-media/abstract-plum-ribbon.webp",
+  "/demo-media/abstract-rose-balance.webp",
+  "/demo-media/abstract-violet-steps.webp"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "about",
+ "dependencies": [
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/about/about-15.tsx",
+ "needInline": [
+  "50969",
+  "12246",
+  "2253"
+ ]
+}

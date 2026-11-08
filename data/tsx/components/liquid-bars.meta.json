@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/liquid-bars",
+ "slug": "liquid-bars",
+ "name": "Liquid Bars",
+ "description": "Glossy bars of liquid color rippling in waves",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/liquid-bars",
+ "lang": "jsx",
+ "codeFile": "code/components/liquid-bars.txt",
+ "codeLen": 17164,
+ "needInline": [
+  "56388",
+  "48543",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "pro:block/navigation-15",
+ "slug": "navigation-15",
+ "name": "Navigation 15",
+ "description": "Quiet nav with a traveling underline",
+ "category": "Navigation",
+ "categorySlug": "navigation",
+ "exportName": "Navigation15",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/navigation/navigation-15.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/navigation-15",
+ "lang": "jsx",
+ "codeFile": "code/blocks/navigation-15.txt",
+ "codeLen": 156490,
+ "role": "navigation",
+ "previewHeight": 600,
+ "layout": {
+  "rootTag": "header",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": true
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "navigation",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/navigation/navigation-15.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

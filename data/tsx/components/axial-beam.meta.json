@@ -1,0 +1,30 @@
+{
+ "id": "pro:component/axial-beam",
+ "slug": "axial-beam",
+ "name": "Axial Beam",
+ "description": "Soft rays of light rising from beyond the frame",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "webgl",
+  "light",
+  "rays",
+  "3d",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/axial-beam",
+ "lang": "jsx",
+ "codeFile": "code/components/axial-beam.txt",
+ "codeLen": 23848,
+ "needInline": [
+  "86049",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

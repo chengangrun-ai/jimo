@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/glyph-ember",
+ "slug": "glyph-ember",
+ "name": "Glyph Ember",
+ "description": "ASCII fire licking up from a white-hot bed of glyphs",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "fire",
+  "flame",
+  "ascii",
+  "glyphs",
+  "webgl"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/glyph-ember",
+ "lang": "jsx",
+ "codeFile": "code/components/glyph-ember.txt",
+ "codeLen": 34982,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

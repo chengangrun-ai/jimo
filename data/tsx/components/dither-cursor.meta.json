@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/dither-cursor",
+ "slug": "dither-cursor",
+ "name": "Dither Cursor",
+ "description": "A cursor trail drawn in pixelated dither",
+ "category": "cursor",
+ "tier": "starter",
+ "tags": [
+  "cursor",
+  "effect"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/dither-cursor",
+ "lang": "jsx",
+ "codeFile": "code/components/dither-cursor.txt",
+ "codeLen": 12632,
+ "needInline": [
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "90822",
+  "40859",
+  "2253",
+  "90650"
+ ]
+}

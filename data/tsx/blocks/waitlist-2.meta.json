@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/waitlist-2",
+ "slug": "waitlist-2",
+ "name": "Waitlist 2",
+ "description": "Centered waitlist with a fading card",
+ "category": "Waitlist",
+ "categorySlug": "waitlist",
+ "exportName": "Waitlist2",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/waitlist/waitlist-2.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/waitlist-2",
+ "lang": "jsx",
+ "codeFile": "code/blocks/waitlist-2.txt",
+ "codeLen": 148830,
+ "role": "section",
+ "previewHeight": 750,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "waitlist",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/waitlist/waitlist-2.tsx",
+ "needInline": []
+}

@@ -1,0 +1,30 @@
+{
+ "id": "pro:component/depth-image",
+ "slug": "depth-image",
+ "name": "Depth Image",
+ "description": "A photo relit with depth by a light that follows the cursor",
+ "category": "image",
+ "tier": "starter",
+ "tags": [
+  "image",
+  "shader",
+  "webgl",
+  "lighting",
+  "3d",
+  "depth",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/depth-image",
+ "lang": "jsx",
+ "codeFile": "code/components/depth-image.txt",
+ "codeLen": 23340,
+ "needInline": [
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "50969",
+  "2253",
+  "90650"
+ ]
+}

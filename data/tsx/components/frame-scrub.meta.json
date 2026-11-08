@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/frame-scrub",
+ "slug": "frame-scrub",
+ "name": "Frame Scrub",
+ "description": "An image sequence that plays as you scroll",
+ "category": "scroll",
+ "tier": "starter",
+ "tags": [
+  "scroll",
+  "canvas",
+  "sequence",
+  "sticky",
+  "cinematic",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/frame-scrub",
+ "lang": "jsx",
+ "codeFile": "code/components/frame-scrub.txt",
+ "codeLen": 21257,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "90650"
+ ]
+}

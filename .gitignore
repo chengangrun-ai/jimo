@@ -1,0 +1,86 @@
+# 依赖
+node_modules/
+.pnp
+.pnp.js
+
+# 构建产物
+.next/
+out/
+build/
+dist/
+
+# 临时文件（本项目调试时留下很多）
+.tmp-*
+*.tmp
+*.bak
+*.bak-*
+*.backup*
+
+# 日志
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.tmp-server.log
+
+# 本地环境
+.env
+.env*.local
+.env.production.local
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 素材目录的历史备份（这些是开发过程中的快照，不参与运行）
+data/tsx.backup-default-103856/
+data/tsx.backup-hoist-112751/
+data/tsx/*.bak*
+data/tsx/components.bak-*/
+data/tsx/app-ui.bak-*/
+data/tsx/blocks.bak-*/
+data/tsx/_helpers.backup-*/
+data/tsx/_helpers.after-*/
+data/tsx/_helpers.safe-*/
+data/tsx/_helpers.backup-20261103-161343/
+data/tsx/_helpers.backup-defprop-155349/
+data/tsx/_helpers.backup-exports-105413/
+data/tsx/_helpers.backup-pre-safe-164555/
+data/tsx/_helpers.backup-v2-185313/
+data/tsx/_helpers.backup-alias-160841/
+data/tsx/_helpers.safe-attempt-164626/
+data/tsx/components.bak-canvas-183801/
+data/tsx/components.bak-lc-183020/
+data/tsx/components.bak-protag-*/
+data/tsx/components.bak-three-182233/
+data/tsx/components.bak-round38-185840/
+data/tsx/components.bak-r41-191924/
+data/tsx/components.bak-r46-193639/
+data/tsx/components.bak-r49-204734/
+data/tsx/components.bak-bind2-*/
+data/tsx/components.bak-inner-*/
+data/tsx/components.bak-tags* 
+data/tsx/components.bak-real-*/
+data/tsx/components.bak-*/
+
+# 分析过程产物（本地记录，不参与运行）
+analysis/*.jsonl
+analysis/*.cjs
+analysis/*.js
+analysis/tmp-*
+screenshots/*.png
+preview/*.png
+
+# 本地调试脚本
+scripts/tmp-*
+scripts/_tmp-*
+scripts/debug-*
+scripts/probe-album*
+scripts/check-album*
+
+# 文档里的大图
+preview-manifest.csv
+preview-download-errors.txt

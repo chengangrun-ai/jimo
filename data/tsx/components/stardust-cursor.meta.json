@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/stardust-cursor",
+ "slug": "stardust-cursor",
+ "name": "Stardust Cursor",
+ "description": "Fine dust carried on a fluid wake behind the cursor, with a mushroom puff on click",
+ "category": "cursor",
+ "tier": "starter",
+ "tags": [
+  "cursor",
+  "trail",
+  "particles",
+  "fluid",
+  "interactive",
+  "stardust cursor"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/stardust-cursor",
+ "lang": "jsx",
+ "codeFile": "code/components/stardust-cursor.txt",
+ "codeLen": 42599,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

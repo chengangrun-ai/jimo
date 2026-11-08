@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/rolling-blinds",
+ "slug": "rolling-blinds",
+ "name": "Rolling Blinds",
+ "description": "Vertical blinds of light rolling across the frame",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "blinds",
+  "stripes",
+  "webgl",
+  "motion"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/rolling-blinds",
+ "lang": "jsx",
+ "codeFile": "code/components/rolling-blinds.txt",
+ "codeLen": 13492,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/ecommerce-6",
+ "slug": "ecommerce-6",
+ "name": "Ecommerce 6",
+ "description": "Shop-all grid with category tabs",
+ "category": "Ecommerce",
+ "categorySlug": "ecommerce",
+ "exportName": "Ecommerce6",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/ecommerce/ecommerce-6.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/ecommerce-6",
+ "lang": "jsx",
+ "codeFile": "code/blocks/ecommerce-6.txt",
+ "codeLen": 151074,
+ "role": "section",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "ecommerce",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/ecommerce/ecommerce-6.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

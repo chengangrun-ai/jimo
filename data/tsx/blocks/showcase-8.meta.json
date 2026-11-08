@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/showcase-8",
+ "slug": "showcase-8",
+ "name": "Showcase 8",
+ "description": "Snap carousel of project cards",
+ "category": "Showcase",
+ "categorySlug": "showcase",
+ "exportName": "Showcase8",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/showcase/showcase-8.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/showcase-8",
+ "lang": "jsx",
+ "codeFile": "code/blocks/showcase-8.txt",
+ "codeLen": 152875,
+ "role": "section",
+ "previewHeight": 840,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "showcase",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/showcase/showcase-8.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

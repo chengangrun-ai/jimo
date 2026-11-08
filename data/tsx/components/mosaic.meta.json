@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/mosaic",
+ "slug": "mosaic",
+ "name": "Mosaic",
+ "description": "A tiled mosaic over a moving wave or video",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/mosaic",
+ "lang": "jsx",
+ "codeFile": "code/components/mosaic.txt",
+ "codeLen": 12955,
+ "needInline": [
+  "56388",
+  "48543",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

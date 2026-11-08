@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/how-it-works-1",
+ "slug": "how-it-works-1",
+ "name": "How It Works 1",
+ "description": "Step carousel with images",
+ "category": "How It Works",
+ "categorySlug": "how-it-works",
+ "exportName": "HowItWorks1",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/how-it-works/how-it-works-1.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/how-it-works-1",
+ "lang": "jsx",
+ "codeFile": "code/blocks/how-it-works-1.txt",
+ "codeLen": 151405,
+ "role": "section",
+ "previewHeight": 950,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "how-it-works",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/how-it-works/how-it-works-1.tsx",
+ "needInline": []
+}

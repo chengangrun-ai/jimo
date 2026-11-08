@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/404-4",
+ "slug": "404-4",
+ "name": "404 4",
+ "description": "Editorial 404 with a three-card grid",
+ "category": "404",
+ "categorySlug": "404",
+ "exportName": "NotFound4",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/404/404-4.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/404-4",
+ "lang": "jsx",
+ "codeFile": "code/blocks/404-4.txt",
+ "codeLen": 148270,
+ "role": "page",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "404",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/404/404-4.tsx",
+ "needInline": []
+}

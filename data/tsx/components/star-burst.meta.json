@@ -1,0 +1,23 @@
+{
+ "id": "pro:component/star-burst",
+ "slug": "star-burst",
+ "name": "Star Burst",
+ "description": "A burst of stars streaming out from a point",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "particles"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/star-burst",
+ "lang": "jsx",
+ "codeFile": "code/components/star-burst.txt",
+ "codeLen": 11498,
+ "needInline": [
+  "56388",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

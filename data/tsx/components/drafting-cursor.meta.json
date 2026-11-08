@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/drafting-cursor",
+ "slug": "drafting-cursor",
+ "name": "Drafting Cursor",
+ "description": "Hairline crosshairs with edge rulers, a coordinate readout and drag-to-measure",
+ "category": "cursor",
+ "tier": "starter",
+ "tags": [
+  "cursor",
+  "crosshair",
+  "ruler",
+  "measure",
+  "interactive",
+  "drafting cursor"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/drafting-cursor",
+ "lang": "jsx",
+ "codeFile": "code/components/drafting-cursor.txt",
+ "codeLen": 46523,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "90650"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/contact-11",
+ "slug": "contact-11",
+ "name": "Contact 11",
+ "description": "Team desks with an inquiry form",
+ "category": "Contact",
+ "categorySlug": "contact",
+ "exportName": "Contact11",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/contact/contact-11.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/contact-11",
+ "lang": "jsx",
+ "codeFile": "code/blocks/contact-11.txt",
+ "codeLen": 153956,
+ "role": "section",
+ "previewHeight": 880,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "contact",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/contact/contact-11.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

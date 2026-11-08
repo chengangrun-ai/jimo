@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/fog-sphere",
+ "slug": "fog-sphere",
+ "name": "Fog Sphere",
+ "description": "A soft, swirling sphere of fog",
+ "category": "shader",
+ "tier": "starter",
+ "tags": [
+  "shader",
+  "3d",
+  "background",
+  "effect"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/fog-sphere",
+ "lang": "jsx",
+ "codeFile": "code/components/fog-sphere.txt",
+ "codeLen": 15582,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "id": "pro:component/globe",
+ "slug": "globe",
+ "name": "Globe",
+ "description": "A dotted 3D globe with animated arcs",
+ "category": "3d",
+ "tier": "starter",
+ "tags": [
+  "3d",
+  "visualization"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/globe",
+ "lang": "jsx",
+ "codeFile": "code/components/globe.txt",
+ "codeLen": 14296,
+ "needInline": [
+  "56388",
+  "90761",
+  "30701",
+  "90650"
+ ]
+}

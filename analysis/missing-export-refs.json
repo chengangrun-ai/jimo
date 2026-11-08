@@ -1,0 +1,1679 @@
+[
+ {
+  "from": "data\\tsx\\components\\3d-letter-swap.tsx",
+  "target": "56388",
+  "member": "yt",
+  "inReal": true,
+  "realLocal": "i",
+  "targetExists": true,
+  "count": 2779
+ },
+ {
+  "from": "data\\tsx\\components\\3d-letter-swap.tsx",
+  "target": "56388",
+  "member": "tl",
+  "inReal": true,
+  "realLocal": "i",
+  "targetExists": true,
+  "count": 626
+ },
+ {
+  "from": "data\\tsx\\components\\3d-letter-swap.tsx",
+  "target": "56388",
+  "member": "VX",
+  "inReal": true,
+  "realLocal": "n",
+  "targetExists": true,
+  "count": 450
+ },
+ {
+  "from": "data\\tsx\\components\\3d-letter-swap.tsx",
+  "target": "56388",
+  "member": "Ec",
+  "inReal": true,
+  "realLocal": "n",
+  "targetExists": true,
+  "count": 450
+ },
+ {
+  "from": "data\\tsx\\components\\3d-letter-swap.tsx",
+  "target": "56388",
+  "member": "Ch",
+  "inReal": true,
+  "realLocal": "l",
+  "targetExists": true,
+  "count": 450
+ },
+ {
+  "from": "data\\tsx\\components\\3d-letter-swap.tsx",
+  "target": "56388",
+  "member": "IH",
+  "inReal": true,
+  "realLocal": "r",
+  "targetExists": true,
+  "count": 450
+ },
+ {
+  "from": "data\\tsx\\components\\3d-letter-swap.tsx",
+  "target": "56388",
+  "member": "lT",
+  "inReal": true,
+  "realLocal": "n",
+  "targetExists": true,
+  "count": 450
+ },
+ {
+  "from": "data\\tsx\\components\\agentic-ball.tsx",
+  "target": "56388",
+  "member": "W7",
+  "inReal": true,
+  "realLocal": "i",
+  "targetExists": true,
+  "count": 426
+ },
+ {
+  "from": "data\\tsx\\components\\3d-letter-swap.tsx",
+  "target": "56388",
+  "member": "bg",
+  "inReal": true,
+  "realLocal": "i",
+  "targetExists": true,
+  "count": 317
+ },
+ {
+  "from": "data\\tsx\\components\\3d-letter-swap.tsx",
+  "target": "56388",
+  "member": "Bg",
+  "inReal": true,
+  "realLocal": "o",
+  "targetExists": true,
+  "count": 225
+ },
+ {
+  "from": "data\\tsx\\components\\3d-letter-swap.tsx",
+  "target": "56388",
+  "member": "Ub",
+  "inReal": true,
+  "realLocal": "u",
+  "targetExists": true,
+  "count": 225
+ },
+ {
+  "from": "data\\tsx\\components\\3d-letter-swap.tsx",
+  "target": "56388",
+  "member": "Gv",
+  "inReal": true,
+  "realLocal": "s",
+  "targetExists": true,
+  "count": 225
+ },
+ {
+  "from": "data\\tsx\\blocks\\about-13.tsx",
+  "target": "2253",
+  "member": "k6q",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 203
+ },
+ {
+  "from": "data\\tsx\\blocks\\about-14.tsx",
+  "target": "2253",
+  "member": "jf0",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 108
+ },
+ {
+  "from": "data\\tsx\\blocks\\about-13.tsx",
+  "target": "2253",
+  "member": "GWd",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 96
+ },
+ {
+  "from": "data\\tsx\\blocks\\about-13.tsx",
+  "target": "2253",
+  "member": "hxR",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 89
+ },
+ {
+  "from": "data\\tsx\\blocks\\features-14.tsx",
+  "target": "2253",
+  "member": "Wdf",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 73
+ },
+ {
+  "from": "data\\tsx\\blocks\\about-13.tsx",
+  "target": "2253",
+  "member": "ix0",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 70
+ },
+ {
+  "from": "data\\tsx\\components\\3d-letter-swap.tsx",
+  "target": "56388",
+  "member": "UD",
+  "inReal": true,
+  "realLocal": "i",
+  "targetExists": true,
+  "count": 59
+ },
+ {
+  "from": "data\\tsx\\blocks\\about-13.tsx",
+  "target": "2253",
+  "member": "Zr2",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 58
+ },
+ {
+  "from": "data\\tsx\\blocks\\features-14.tsx",
+  "target": "2253",
+  "member": "OUM",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 56
+ },
+ {
+  "from": "data\\tsx\\blocks\\hero-27.tsx",
+  "target": "2253",
+  "member": "ghU",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 56
+ },
+ {
+  "from": "data\\tsx\\blocks\\about-13.tsx",
+  "target": "2253",
+  "member": "RQf",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 52
+ },
+ {
+  "from": "data\\tsx\\blocks\\about-14.tsx",
+  "target": "2253",
+  "member": "$_I",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 50
+ },
+ {
+  "from": "data\\tsx\\blocks\\about-15.tsx",
+  "target": "2253",
+  "member": "$EB",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 46
+ },
+ {
+  "from": "data\\tsx\\blocks\\hero-27.tsx",
+  "target": "2253",
+  "member": "Vnu",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 43
+ },
+ {
+  "from": "data\\tsx\\blocks\\hero-32.tsx",
+  "target": "2253",
+  "member": "er$",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 43
+ },
+ {
+  "from": "data\\tsx\\components\\tumble-wall.tsx",
+  "target": "47686",
+  "member": "Body",
+  "realLocal": null,
+  "targetExists": false,
+  "count": 41
+ },
+ {
+  "from": "data\\tsx\\blocks\\download-3.tsx",
+  "target": "2253",
+  "member": "EZo",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 32
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "KLL",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 25
+ },
+ {
+  "from": "data\\tsx\\components\\chrome-orbit.tsx",
+  "target": "2253",
+  "member": "hsX",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 17
+ },
+ {
+  "from": "data\\tsx\\components\\tumble-wall.tsx",
+  "target": "47686",
+  "member": "Composite",
+  "realLocal": null,
+  "targetExists": false,
+  "count": 13
+ },
+ {
+  "from": "data\\tsx\\components\\ascii-cursor.tsx",
+  "target": "2253",
+  "member": "y_p",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 11
+ },
+ {
+  "from": "data\\tsx\\blocks\\about-13.tsx",
+  "target": "2253",
+  "member": "paN",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 10
+ },
+ {
+  "from": "data\\tsx\\components\\tumble-wall.tsx",
+  "target": "47686",
+  "member": "Sleeping",
+  "realLocal": null,
+  "targetExists": false,
+  "count": 10
+ },
+ {
+  "from": "data\\tsx\\blocks\\hero-25.tsx",
+  "target": "2253",
+  "member": "VT0",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 8
+ },
+ {
+  "from": "data\\tsx\\blocks\\hero-27.tsx",
+  "target": "2253",
+  "member": "GJx",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 8
+ },
+ {
+  "from": "data\\tsx\\components\\modal-cards.tsx",
+  "target": "47650",
+  "member": "createPortal",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 6
+ },
+ {
+  "from": "data\\tsx\\components\\tumble-wall.tsx",
+  "target": "47686",
+  "member": "Bodies",
+  "realLocal": null,
+  "targetExists": false,
+  "count": 6
+ },
+ {
+  "from": "data\\tsx\\_helpers\\10236.tsx",
+  "target": "39318",
+  "member": "usePathname",
+  "inReal": false,
+  "realLocal": null,
+  "targetExists": true,
+  "count": 6
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "xFO",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 6
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "bkx",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 6
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "V3x",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 6
+ },
+ {
+  "from": "data\\tsx\\_helpers\\90745.tsx",
+  "target": "2253",
+  "member": "Rkk",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 6
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "hy7",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 5
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "dcC",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 5
+ },
+ {
+  "from": "data\\tsx\\components\\tumble-wall.tsx",
+  "target": "47686",
+  "member": "Engine",
+  "realLocal": null,
+  "targetExists": false,
+  "count": 4
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "Om",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 4
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "lGu",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 4
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "xSv",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 4
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "cHt",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 4
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "Cfg",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 4
+ },
+ {
+  "from": "data\\tsx\\_helpers\\31781.tsx",
+  "target": "56825",
+  "member": "bm",
+  "inReal": true,
+  "realLocal": "el",
+  "targetExists": true,
+  "count": 4
+ },
+ {
+  "from": "data\\tsx\\_helpers\\32963.tsx",
+  "target": "91690",
+  "member": "Bk",
+  "inReal": true,
+  "realLocal": "ez",
+  "targetExists": true,
+  "count": 4
+ },
+ {
+  "from": "data\\tsx\\_helpers\\32963.tsx",
+  "target": "91690",
+  "member": "bL",
+  "inReal": true,
+  "realLocal": "e9",
+  "targetExists": true,
+  "count": 4
+ },
+ {
+  "from": "data\\tsx\\_helpers\\48023.tsx",
+  "target": "47650",
+  "member": "flushSync",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 4
+ },
+ {
+  "from": "data\\tsx\\_helpers\\69833.tsx",
+  "target": "32963",
+  "member": "ZL",
+  "inReal": true,
+  "realLocal": "J",
+  "targetExists": true,
+  "count": 4
+ },
+ {
+  "from": "data\\tsx\\_helpers\\74405.tsx",
+  "target": "52069",
+  "member": "RG",
+  "inReal": true,
+  "realLocal": "A",
+  "targetExists": true,
+  "count": 4
+ },
+ {
+  "from": "data\\tsx\\_helpers\\74405.tsx",
+  "target": "52069",
+  "member": "bL",
+  "inReal": true,
+  "realLocal": "N",
+  "targetExists": true,
+  "count": 4
+ },
+ {
+  "from": "data\\tsx\\components\\chrome-orbit.tsx",
+  "target": "2253",
+  "member": "FV",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "wfO",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "uV5",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "eHc",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "brA",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "K52",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "U3G",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "bw0",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "Gwm",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "kRr",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "zdS",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "IE4",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "Nz6",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "jR7",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "BXX",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\32963.tsx",
+  "target": "91690",
+  "member": "Mz",
+  "inReal": true,
+  "realLocal": "e6",
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\32963.tsx",
+  "target": "91690",
+  "member": "UC",
+  "inReal": true,
+  "realLocal": "e7",
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\69833.tsx",
+  "target": "32963",
+  "member": "Kq",
+  "inReal": true,
+  "realLocal": "G",
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\69833.tsx",
+  "target": "32963",
+  "member": "bL",
+  "inReal": true,
+  "realLocal": "Q",
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\69833.tsx",
+  "target": "32963",
+  "member": "l9",
+  "inReal": true,
+  "realLocal": "Y",
+  "targetExists": true,
+  "count": 3
+ },
+ {
+  "from": "data\\tsx\\_helpers\\10236.tsx",
+  "target": "454",
+  "member": "L",
+  "realLocal": null,
+  "targetExists": false,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "Yuy",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "TiK",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "VxR",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "Wew",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "gJ2",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "ZQM",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "TkQ",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "c90",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "k6Q",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "kTp",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "HXV",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "pBf",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "CVz",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "Riy",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "KDk",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "qa3",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "B_h",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "czI",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "rSH",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "Qrf",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "psI",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "a5J",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "_QJ",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "uB5",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "lyL",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "bC7",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "y3Z",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "ojs",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "S$4",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "Fn",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "H23",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "W9U",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "Kef",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "XG_",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "HO_",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "CWW",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "TdN",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\31781.tsx",
+  "target": "56825",
+  "member": "bL",
+  "inReal": true,
+  "realLocal": "ee",
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\31781.tsx",
+  "target": "56825",
+  "member": "ZL",
+  "inReal": true,
+  "realLocal": "en",
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\31781.tsx",
+  "target": "56825",
+  "member": "UC",
+  "inReal": true,
+  "realLocal": "eo",
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\31781.tsx",
+  "target": "56825",
+  "member": "hE",
+  "inReal": true,
+  "realLocal": "ei",
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\31781.tsx",
+  "target": "56825",
+  "member": "VY",
+  "inReal": true,
+  "realLocal": "ea",
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\32963.tsx",
+  "target": "91690",
+  "member": "i3",
+  "inReal": true,
+  "realLocal": "e4",
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\46518.tsx",
+  "target": "79071",
+  "member": "ZL",
+  "inReal": true,
+  "realLocal": "e3",
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\46518.tsx",
+  "target": "79071",
+  "member": "H_",
+  "inReal": true,
+  "realLocal": "e9",
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\46518.tsx",
+  "target": "79071",
+  "member": "VF",
+  "inReal": true,
+  "realLocal": "e6",
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\_helpers\\59581.tsx",
+  "target": "98713",
+  "member": "bL",
+  "inReal": true,
+  "realLocal": "j",
+  "targetExists": true,
+  "count": 2
+ },
+ {
+  "from": "data\\tsx\\components\\ascii-cursor.tsx",
+  "target": "90745",
+  "member": "Xe",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\components\\ascii-cursor.tsx",
+  "target": "90745",
+  "member": "SP",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\components\\ascii-cursor.tsx",
+  "target": "90745",
+  "member": "bv",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\components\\ascii-cursor.tsx",
+  "target": "90745",
+  "member": "t$",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\components\\ascii-cursor.tsx",
+  "target": "90745",
+  "member": "hH",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\components\\ascii-cursor.tsx",
+  "target": "90745",
+  "member": "To",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\components\\tumble-wall.tsx",
+  "target": "47686",
+  "member": "Constraint",
+  "realLocal": null,
+  "targetExists": false,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\components\\tumble-wall.tsx",
+  "target": "45949",
+  "member": "ny",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "caT",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "KRh",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "XrR",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "kyO",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "Mjd",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "nNL",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "LAk",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "aJ8",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "g7M",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "vyJ",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "bI3",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "N5j",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "nST",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "znC",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "ojh",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "hgQ",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "wn6",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "hdd",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "aEY",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "RrE",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "$Yl",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "e0p",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "ov9",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "kTW",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "pHI",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "amv",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "FFZ",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "vim",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "kO0",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "gWB",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "eoi",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "jzd",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "Dmk",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "yT7",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "tJf",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "fBL",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "wrO",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "HIg",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\12246.tsx",
+  "target": "2253",
+  "member": "a55",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\15825.tsx",
+  "target": "74405",
+  "member": "bL",
+  "inReal": true,
+  "realLocal": "I",
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\15825.tsx",
+  "target": "74405",
+  "member": "B8",
+  "inReal": true,
+  "realLocal": "C",
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\15825.tsx",
+  "target": "74405",
+  "member": "l9",
+  "inReal": true,
+  "realLocal": "M",
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\15825.tsx",
+  "target": "74405",
+  "member": "UC",
+  "inReal": true,
+  "realLocal": "T",
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\17828.tsx",
+  "target": "64054",
+  "member": "createAsyncLocalStorage",
+  "realLocal": null,
+  "targetExists": false,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\2010.tsx",
+  "target": "52710",
+  "member": "b",
+  "inReal": true,
+  "realLocal": "u",
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\21211.tsx",
+  "target": "72498",
+  "member": "style",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\29963.tsx",
+  "target": "2980",
+  "member": "k",
+  "inReal": true,
+  "realLocal": "n",
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\31781.tsx",
+  "target": "56825",
+  "member": "hJ",
+  "inReal": true,
+  "realLocal": "er",
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\43408.tsx",
+  "target": "39318",
+  "member": "useRouter",
+  "inReal": false,
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\46518.tsx",
+  "target": "79071",
+  "member": "bL",
+  "inReal": true,
+  "realLocal": "e0",
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\46518.tsx",
+  "target": "79071",
+  "member": "l9",
+  "inReal": true,
+  "realLocal": "e1",
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\46518.tsx",
+  "target": "79071",
+  "member": "UC",
+  "inReal": true,
+  "realLocal": "e5",
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\46518.tsx",
+  "target": "79071",
+  "member": "YJ",
+  "inReal": true,
+  "realLocal": "e2",
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\46518.tsx",
+  "target": "79071",
+  "member": "q7",
+  "inReal": true,
+  "realLocal": "e8",
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\46518.tsx",
+  "target": "79071",
+  "member": "JU",
+  "inReal": true,
+  "realLocal": "e7",
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\46518.tsx",
+  "target": "79071",
+  "member": "wv",
+  "inReal": true,
+  "realLocal": "e4",
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\73350.tsx",
+  "target": "19543",
+  "member": "Yz",
+  "inReal": true,
+  "realLocal": "l",
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\73542.tsx",
+  "target": "32963",
+  "member": "i3",
+  "inReal": true,
+  "realLocal": "et",
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\74328.tsx",
+  "target": "21757",
+  "member": "HTTP_ERROR_FALLBACK_ERROR_CODE",
+  "realLocal": null,
+  "targetExists": false,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\79901.tsx",
+  "target": "39318",
+  "member": "useSearchParams",
+  "inReal": false,
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\81712.tsx",
+  "target": "80929",
+  "member": "unstable_scheduleCallback",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\81712.tsx",
+  "target": "80929",
+  "member": "unstable_IdlePriority",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\81712.tsx",
+  "target": "55236",
+  "member": "DiscreteEventPriority",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\81712.tsx",
+  "target": "55236",
+  "member": "ContinuousEventPriority",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\81712.tsx",
+  "target": "55236",
+  "member": "DefaultEventPriority",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\81712.tsx",
+  "target": "55236",
+  "member": "ConcurrentRoot",
+  "realLocal": null,
+  "targetExists": true,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\8664.tsx",
+  "target": "99726",
+  "member": "qg",
+  "realLocal": null,
+  "targetExists": false,
+  "count": 1
+ },
+ {
+  "from": "data\\tsx\\_helpers\\8664.tsx",
+  "target": "99726",
+  "member": "lK",
+  "realLocal": null,
+  "targetExists": false,
+  "count": 1
+ }
+]

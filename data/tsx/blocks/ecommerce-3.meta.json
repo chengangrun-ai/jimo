@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/ecommerce-3",
+ "slug": "ecommerce-3",
+ "name": "Ecommerce 3",
+ "description": "Bag product page with color swatches",
+ "category": "Ecommerce",
+ "categorySlug": "ecommerce",
+ "exportName": "Ecommerce3",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/ecommerce/ecommerce-3.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/ecommerce-3",
+ "lang": "jsx",
+ "codeFile": "code/blocks/ecommerce-3.txt",
+ "codeLen": 154953,
+ "role": "section",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "ecommerce",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/ecommerce/ecommerce-3.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

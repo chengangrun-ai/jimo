@@ -1,0 +1,31 @@
+{
+ "id": "pro:app-ui/sorbet/app-dialog-7",
+ "slug": "app-dialog-7",
+ "name": "App Dialog 7",
+ "description": "",
+ "category": "app-dialog",
+ "style": "sorbet",
+ "href": "https://pro.reactbits.dev/docs/app-ui/app-dialog-7",
+ "lang": "jsx",
+ "codeFile": "code/app-ui/app-dialog-7.txt",
+ "codeLen": 167125,
+ "needInline": [
+  "50969",
+  "47962",
+  "22728",
+  "89289",
+  "31517",
+  "90987",
+  "27476",
+  "18976",
+  "22670",
+  "92752",
+  "66654",
+  "62714",
+  "31964",
+  "33786",
+  "96037",
+  "20148",
+  "5042"
+ ]
+}

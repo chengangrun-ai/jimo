@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/stats-16",
+ "slug": "stats-16",
+ "name": "Stats 16",
+ "description": "Spiral galaxy with one star per team and an arm for each region",
+ "category": "Stats",
+ "categorySlug": "stats",
+ "exportName": "Stats16",
+ "deps": [
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/stats/stats-16.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/stats-16",
+ "lang": "jsx",
+ "codeFile": "code/blocks/stats-16.txt",
+ "codeLen": 913729,
+ "role": "section",
+ "previewHeight": 866,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "stats",
+ "dependencies": [
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/stats/stats-16.tsx",
+ "needInline": [
+  "50969",
+  "2253",
+  "12246"
+ ]
+}

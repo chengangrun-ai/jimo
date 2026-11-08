@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/hero-6",
+ "slug": "hero-6",
+ "name": "Hero 6",
+ "description": "Rotating carousel with a progress line",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero6",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-6.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-6",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-6.txt",
+ "codeLen": 153252,
+ "role": "hero",
+ "previewHeight": 750,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "hero",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-6.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

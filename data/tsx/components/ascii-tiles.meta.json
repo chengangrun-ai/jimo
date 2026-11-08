@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/ascii-tiles",
+ "slug": "ascii-tiles",
+ "name": "ASCII Tiles",
+ "description": "Glassy tiles made of glowing ASCII characters",
+ "category": "shader",
+ "tier": "starter",
+ "tags": [
+  "shader",
+  "3d",
+  "background",
+  "ascii",
+  "effect"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/ascii-tiles",
+ "lang": "jsx",
+ "codeFile": "code/components/ascii-tiles.txt",
+ "codeLen": 15384,
+ "needInline": [
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

@@ -1,0 +1,351 @@
+{
+ "kind": "components",
+ "total": 231,
+ "pass": 182,
+ "fail": 49,
+ "failures": [
+  {
+   "kind": "components",
+   "slug": "ai-blob",
+   "ok": false,
+   "stage": "empty",
+   "len": 174
+  },
+  {
+   "kind": "components",
+   "slug": "ascii-tiles",
+   "ok": false,
+   "stage": "empty",
+   "len": 449
+  },
+  {
+   "kind": "components",
+   "slug": "card-spread",
+   "ok": false,
+   "stage": "empty",
+   "len": 3247
+  },
+  {
+   "kind": "components",
+   "slug": "blinking-dots",
+   "ok": false,
+   "stage": "empty",
+   "len": 379
+  },
+  {
+   "kind": "components",
+   "slug": "chroma-blinds",
+   "ok": false,
+   "stage": "empty",
+   "len": 395
+  },
+  {
+   "kind": "components",
+   "slug": "blinking-squares",
+   "ok": false,
+   "stage": "empty",
+   "len": 318
+  },
+  {
+   "kind": "components",
+   "slug": "color-loops",
+   "ok": false,
+   "stage": "empty",
+   "len": 85
+  },
+  {
+   "kind": "components",
+   "slug": "credit-card",
+   "ok": false,
+   "stage": "empty",
+   "len": 283
+  },
+  {
+   "kind": "components",
+   "slug": "depth-card",
+   "ok": false,
+   "stage": "empty",
+   "len": 995
+  },
+  {
+   "kind": "components",
+   "slug": "domino-lettering",
+   "ok": false,
+   "stage": "empty",
+   "len": 436
+  },
+  {
+   "kind": "components",
+   "slug": "dot-shift",
+   "ok": false,
+   "stage": "empty",
+   "len": 69
+  },
+  {
+   "kind": "components",
+   "slug": "elastic-sticker",
+   "ok": false,
+   "stage": "empty",
+   "len": 401
+  },
+  {
+   "kind": "components",
+   "slug": "falling-rays",
+   "ok": false,
+   "stage": "empty",
+   "len": 166
+  },
+  {
+   "kind": "components",
+   "slug": "globe",
+   "ok": false,
+   "stage": "empty",
+   "len": 322
+  },
+  {
+   "kind": "components",
+   "slug": "glitch-text",
+   "ok": false,
+   "stage": "empty",
+   "len": 253
+  },
+  {
+   "kind": "components",
+   "slug": "glass-tiles",
+   "ok": false,
+   "stage": "empty",
+   "len": 260
+  },
+  {
+   "kind": "components",
+   "slug": "gradient-carousel",
+   "ok": false,
+   "stage": "empty",
+   "len": 568
+  },
+  {
+   "kind": "components",
+   "slug": "gradient-bars",
+   "ok": false,
+   "stage": "empty",
+   "len": 320
+  },
+  {
+   "kind": "components",
+   "slug": "grid-rise",
+   "ok": false,
+   "stage": "empty",
+   "len": 379
+  },
+  {
+   "kind": "components",
+   "slug": "hover-preview",
+   "ok": false,
+   "stage": "empty",
+   "len": 536
+  },
+  {
+   "kind": "components",
+   "slug": "liquid-ascii",
+   "ok": false,
+   "stage": "empty",
+   "len": 311
+  },
+  {
+   "kind": "components",
+   "slug": "magic-transform",
+   "ok": false,
+   "stage": "empty",
+   "len": 838
+  },
+  {
+   "kind": "components",
+   "slug": "neural-float",
+   "ok": false,
+   "stage": "empty",
+   "len": 597
+  },
+  {
+   "kind": "components",
+   "slug": "page-flip",
+   "ok": false,
+   "stage": "empty",
+   "len": 2732
+  },
+  {
+   "kind": "components",
+   "slug": "particle-text",
+   "ok": false,
+   "stage": "empty",
+   "len": 298
+  },
+  {
+   "kind": "components",
+   "slug": "pixel-rain",
+   "ok": false,
+   "stage": "empty",
+   "len": 328
+  },
+  {
+   "kind": "components",
+   "slug": "portal",
+   "ok": false,
+   "stage": "empty",
+   "len": 36
+  },
+  {
+   "kind": "components",
+   "slug": "reel-gallery",
+   "ok": false,
+   "stage": "empty",
+   "len": 467
+  },
+  {
+   "kind": "components",
+   "slug": "rising-ink",
+   "ok": false,
+   "stage": "empty",
+   "len": 441
+  },
+  {
+   "kind": "components",
+   "slug": "retro-lines",
+   "ok": false,
+   "stage": "empty",
+   "len": 397
+  },
+  {
+   "kind": "components",
+   "slug": "rising-lines",
+   "ok": false,
+   "stage": "empty",
+   "len": 52
+  },
+  {
+   "kind": "components",
+   "slug": "rotating-cards",
+   "ok": false,
+   "stage": "empty",
+   "len": 380
+  },
+  {
+   "kind": "components",
+   "slug": "simple-graph",
+   "ok": false,
+   "stage": "empty",
+   "len": 331
+  },
+  {
+   "kind": "components",
+   "slug": "silk-waves",
+   "ok": false,
+   "stage": "empty",
+   "len": 111
+  },
+  {
+   "kind": "components",
+   "slug": "specter-orb",
+   "ok": false,
+   "stage": "empty",
+   "len": 511
+  },
+  {
+   "kind": "components",
+   "slug": "star-burst",
+   "ok": false,
+   "stage": "empty",
+   "len": 111
+  },
+  {
+   "kind": "components",
+   "slug": "spring-lettering",
+   "ok": false,
+   "stage": "empty",
+   "len": 420
+  },
+  {
+   "kind": "components",
+   "slug": "star-swipe",
+   "ok": false,
+   "stage": "empty",
+   "len": 328
+  },
+  {
+   "kind": "components",
+   "slug": "synaptic-shift",
+   "ok": false,
+   "stage": "empty",
+   "len": 103
+  },
+  {
+   "kind": "components",
+   "slug": "text-scatter",
+   "ok": false,
+   "stage": "empty",
+   "len": 248
+  },
+  {
+   "kind": "components",
+   "slug": "tilted-tiles",
+   "ok": false,
+   "stage": "empty",
+   "len": 45810
+  },
+  {
+   "kind": "components",
+   "slug": "vortex",
+   "ok": false,
+   "stage": "empty",
+   "len": 361
+  },
+  {
+   "kind": "components",
+   "slug": "watercolor",
+   "ok": false,
+   "stage": "empty",
+   "len": 306
+  },
+  {
+   "kind": "components",
+   "slug": "wireframe-ball",
+   "ok": false,
+   "stage": "empty",
+   "len": 202
+  },
+  {
+   "kind": "components",
+   "slug": "3d-text-reveal",
+   "ok": false,
+   "stage": "render",
+   "err": "this.init is not a function"
+  },
+  {
+   "kind": "components",
+   "slug": "ascii-cursor",
+   "ok": false,
+   "stage": "render",
+   "err": "Cannot read properties of undefined (reading 'name')"
+  },
+  {
+   "kind": "components",
+   "slug": "circles",
+   "ok": false,
+   "stage": "render",
+   "err": "c2(...).dynamic is not a function"
+  },
+  {
+   "kind": "components",
+   "slug": "scroll-stack",
+   "ok": false,
+   "stage": "render",
+   "err": "Minified React error #130; visit https://react.dev/errors/130?args[]=object&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+  },
+  {
+   "kind": "components",
+   "slug": "pond-image",
+   "ok": false,
+   "stage": "throw",
+   "err": "Cannot read properties of undefined (reading 'src')"
+  }
+ ]
+}

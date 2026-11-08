@@ -1,0 +1,24 @@
+{
+ "id": "pro:component/luminous-type",
+ "slug": "luminous-type",
+ "name": "Luminous Type",
+ "description": "A drifting spotlight that brings dimmed text into the light",
+ "category": "text",
+ "tier": "starter",
+ "tags": [
+  "text",
+  "animation",
+  "spotlight",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/luminous-type",
+ "lang": "jsx",
+ "codeFile": "code/components/luminous-type.txt",
+ "codeLen": 14617,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "90650"
+ ]
+}

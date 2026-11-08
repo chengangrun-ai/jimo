@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/liquid-swap",
+ "slug": "liquid-swap",
+ "name": "Liquid Swap",
+ "description": "Images that swap through a liquid glass ball",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "transition",
+  "ui"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/liquid-swap",
+ "lang": "jsx",
+ "codeFile": "code/components/liquid-swap.txt",
+ "codeLen": 13780,
+ "needInline": [
+  "56388",
+  "48543",
+  "90761",
+  "2253",
+  "12246",
+  "82637",
+  "90650"
+ ]
+}

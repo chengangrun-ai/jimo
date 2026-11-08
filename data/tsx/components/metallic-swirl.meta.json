@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/metallic-swirl",
+ "slug": "metallic-swirl",
+ "name": "Metallic Swirl",
+ "description": "A swirl of liquid metal",
+ "category": "shader",
+ "tier": "starter",
+ "tags": [
+  "shader",
+  "3d",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/metallic-swirl",
+ "lang": "jsx",
+ "codeFile": "code/components/metallic-swirl.txt",
+ "codeLen": 11997,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "90650",
+  "2253"
+ ]
+}

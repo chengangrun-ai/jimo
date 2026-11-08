@@ -1,0 +1,82 @@
+{
+ "kind": "components",
+ "total": 8,
+ "counts": {
+  "live": 7,
+  "fallback": 1
+ },
+ "rows": [
+  {
+   "slug": "3d-letter-swap",
+   "fallback": false,
+   "vis": 3,
+   "canvasH": 0,
+   "len": 339,
+   "txtLen": 8,
+   "state": "live"
+  },
+  {
+   "slug": "3d-text-reveal",
+   "fallback": false,
+   "vis": 1,
+   "canvasH": 0,
+   "len": 177,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "agentic-ball",
+   "fallback": false,
+   "vis": 1,
+   "canvasH": 0,
+   "len": 371,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "ai-blob",
+   "fallback": false,
+   "vis": 1,
+   "canvasH": 0,
+   "len": 480,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "album-rail",
+   "fallback": true,
+   "vis": 2,
+   "canvasH": 0,
+   "len": 242,
+   "txtLen": 0,
+   "state": "fallback"
+  },
+  {
+   "slug": "animated-list",
+   "fallback": false,
+   "vis": 1,
+   "canvasH": 0,
+   "len": 541,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "arc-cursor",
+   "fallback": false,
+   "vis": 6,
+   "canvasH": 0,
+   "len": 440,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "ascii-cursor",
+   "fallback": false,
+   "vis": 1,
+   "canvasH": 0,
+   "len": 177,
+   "txtLen": 4,
+   "state": "live"
+  }
+ ]
+}

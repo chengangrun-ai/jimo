@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/chroma-current",
+ "slug": "chroma-current",
+ "name": "Chroma Current",
+ "description": "Currents of light flowing across a grid of glowing dots",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "webgl",
+  "dots",
+  "flow",
+  "particles",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/chroma-current",
+ "lang": "jsx",
+ "codeFile": "code/components/chroma-current.txt",
+ "codeLen": 36340,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

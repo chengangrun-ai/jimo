@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/falling-rays",
+ "slug": "falling-rays",
+ "name": "Falling Rays",
+ "description": "Pulses of light falling down fanning rays",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "particles",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/falling-rays",
+ "lang": "jsx",
+ "codeFile": "code/components/falling-rays.txt",
+ "codeLen": 13701,
+ "needInline": [
+  "81712",
+  "3907",
+  "2253",
+  "90650",
+  "56388",
+  "90761"
+ ]
+}

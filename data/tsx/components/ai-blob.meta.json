@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/ai-blob",
+ "slug": "ai-blob",
+ "name": "AI Blob",
+ "description": "A glowing glass orb that listens, thinks and speaks with your AI",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "3d",
+  "ai",
+  "voice",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/ai-blob",
+ "lang": "jsx",
+ "codeFile": "code/components/ai-blob.txt",
+ "codeLen": 27252,
+ "needInline": [
+  "56388",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

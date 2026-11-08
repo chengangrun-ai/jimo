@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/stats-3",
+ "slug": "stats-3",
+ "name": "Stats 3",
+ "description": "Stats with an animated marquee mask",
+ "category": "Stats",
+ "categorySlug": "stats",
+ "exportName": "Stats3",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/stats/stats-3.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/stats-3",
+ "lang": "jsx",
+ "codeFile": "code/blocks/stats-3.txt",
+ "codeLen": 148223,
+ "role": "section",
+ "previewHeight": 845,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "stats",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/stats/stats-3.tsx",
+ "needInline": []
+}

@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/features-8",
+ "slug": "features-8",
+ "name": "Features 8",
+ "description": "Three centered columns with serif titles",
+ "category": "Features",
+ "categorySlug": "features",
+ "exportName": "Features8",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/features/features-8.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/features-8",
+ "lang": "jsx",
+ "codeFile": "code/blocks/features-8.txt",
+ "codeLen": 147427,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "features",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/features/features-8.tsx",
+ "needInline": []
+}

@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/halftone-vortex",
+ "slug": "halftone-vortex",
+ "name": "Halftone Vortex",
+ "description": "A spiraling vortex of halftone dots",
+ "category": "shader",
+ "tier": "starter",
+ "tags": [
+  "shader",
+  "background",
+  "halftone",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/halftone-vortex",
+ "lang": "jsx",
+ "codeFile": "code/components/halftone-vortex.txt",
+ "codeLen": 26997,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

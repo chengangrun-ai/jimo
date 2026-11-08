@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/halftone-wave",
+ "slug": "halftone-wave",
+ "name": "Halftone Wave",
+ "description": "A halftone dot grid rippling with soft noise",
+ "category": "3d",
+ "tier": "starter",
+ "tags": [
+  "3d",
+  "shader",
+  "effect",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/halftone-wave",
+ "lang": "jsx",
+ "codeFile": "code/components/halftone-wave.txt",
+ "codeLen": 12499,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "90650",
+  "2253"
+ ]
+}

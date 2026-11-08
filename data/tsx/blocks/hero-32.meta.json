@@ -1,0 +1,42 @@
+{
+ "id": "pro:block/hero-32",
+ "slug": "hero-32",
+ "name": "Hero 32",
+ "description": "Camera app hero where a shutter dial stretches traffic into light trails",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero32",
+ "deps": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-32.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-32",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-32.txt",
+ "codeLen": 906061,
+ "role": "hero",
+ "previewHeight": 860,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "hero",
+ "dependencies": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-32.tsx",
+ "needInline": [
+  "50969",
+  "12246",
+  "2253"
+ ]
+}

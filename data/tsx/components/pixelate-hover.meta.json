@@ -1,0 +1,24 @@
+{
+ "id": "pro:component/pixelate-hover",
+ "slug": "pixelate-hover",
+ "name": "Pixelate Hover",
+ "description": "An image that pixelates or sharpens under the cursor",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "shader"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/pixelate-hover",
+ "lang": "jsx",
+ "codeFile": "code/components/pixelate-hover.txt",
+ "codeLen": 18164,
+ "needInline": [
+  "56388",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/scroll-stack",
+ "slug": "scroll-stack",
+ "name": "Scroll Stack",
+ "description": "Cards that stack and fade away as you scroll",
+ "category": "scroll",
+ "tier": "starter",
+ "tags": [
+  "scroll",
+  "cards",
+  "stack",
+  "sticky",
+  "storytelling",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/scroll-stack",
+ "lang": "jsx",
+ "codeFile": "code/components/scroll-stack.txt",
+ "codeLen": 16207,
+ "needInline": [
+  "56388",
+  "90761",
+  "90650"
+ ]
+}

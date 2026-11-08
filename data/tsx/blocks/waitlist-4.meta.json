@@ -1,0 +1,43 @@
+{
+ "id": "pro:block/waitlist-4",
+ "slug": "waitlist-4",
+ "name": "Waitlist 4",
+ "description": "Fintech waitlist with a live queue count",
+ "category": "Waitlist",
+ "categorySlug": "waitlist",
+ "exportName": "Waitlist4",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/waitlist/waitlist-4.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/waitlist-4",
+ "lang": "jsx",
+ "codeFile": "code/blocks/waitlist-4.txt",
+ "codeLen": 155724,
+ "role": "section",
+ "previewHeight": 820,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [
+  "i.pravatar.cc"
+ ],
+ "categoryDir": "waitlist",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/waitlist/waitlist-4.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

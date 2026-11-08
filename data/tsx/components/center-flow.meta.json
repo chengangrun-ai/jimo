@@ -1,0 +1,23 @@
+{
+ "id": "pro:component/center-flow",
+ "slug": "center-flow",
+ "name": "Center Flow",
+ "description": "A hub with pulses flowing out to connected nodes",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "ui"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/center-flow",
+ "lang": "jsx",
+ "codeFile": "code/components/center-flow.txt",
+ "codeLen": 14101,
+ "needInline": [
+  "56388",
+  "48543",
+  "90761",
+  "30701"
+ ]
+}

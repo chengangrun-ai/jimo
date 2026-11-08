@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/prismatic-slats",
+ "slug": "prismatic-slats",
+ "name": "Prismatic Slats",
+ "description": "Colored liquid refracted through fluted glass",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "webgl",
+  "glass",
+  "refraction",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/prismatic-slats",
+ "lang": "jsx",
+ "codeFile": "code/components/prismatic-slats.txt",
+ "codeLen": 31974,
+ "needInline": [
+  "86049",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

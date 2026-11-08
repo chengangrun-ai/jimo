@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/prism-carousel",
+ "slug": "prism-carousel",
+ "name": "Prism Carousel",
+ "description": "A coverflow that sweeps color into each new image",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "images",
+  "carousel",
+  "webgl",
+  "interactive",
+  "showcase"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/prism-carousel",
+ "lang": "jsx",
+ "codeFile": "code/components/prism-carousel.txt",
+ "codeLen": 30220,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

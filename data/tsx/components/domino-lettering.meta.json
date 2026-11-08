@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/domino-lettering",
+ "slug": "domino-lettering",
+ "name": "Domino Lettering",
+ "description": "Letters that topple like dominoes and rebuild",
+ "category": "text",
+ "tier": "starter",
+ "tags": [
+  "text",
+  "animation",
+  "physics",
+  "spring",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/domino-lettering",
+ "lang": "jsx",
+ "codeFile": "code/components/domino-lettering.txt",
+ "codeLen": 19986,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "90650"
+ ]
+}

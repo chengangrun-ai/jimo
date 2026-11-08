@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/social-proof-12",
+ "slug": "social-proof-12",
+ "name": "Social Proof 12",
+ "description": "Video story cards with member quotes",
+ "category": "Social Proof",
+ "categorySlug": "social-proof",
+ "exportName": "SocialProof12",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/social-proof/social-proof-12.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/social-proof-12",
+ "lang": "jsx",
+ "codeFile": "code/blocks/social-proof-12.txt",
+ "codeLen": 148427,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "social-proof",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/social-proof/social-proof-12.tsx",
+ "needInline": []
+}

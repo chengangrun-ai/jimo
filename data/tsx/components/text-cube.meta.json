@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/text-cube",
+ "slug": "text-cube",
+ "name": "Text Cube",
+ "description": "A 3D cube of text that follows the cursor",
+ "category": "canvas",
+ "tier": "starter",
+ "tags": [
+  "canvas",
+  "cursor",
+  "3d",
+  "text",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/text-cube",
+ "lang": "jsx",
+ "codeFile": "code/components/text-cube.txt",
+ "codeLen": 34502,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "90650"
+ ]
+}

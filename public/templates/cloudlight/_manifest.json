@@ -1,0 +1,723 @@
+{
+  "base": "https://rbp-cloudlight-template.vercel.app",
+  "generatedAt": "2026-11-01T06:51:15.445Z",
+  "pages": [
+    "/"
+  ],
+  "assets": [
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_next/static/immutable/media/797e433ab948586e-s.p.1v5bejj26fx9h.woff2",
+      "path": "_next/static/immutable/media/797e433ab948586e-s.p.1v5bejj26fx9h.woff2"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_next/static/immutable/media/caa3a2e1cccd8315-s.p.0zr6hhvz-h9nw.woff2",
+      "path": "_next/static/immutable/media/caa3a2e1cccd8315-s.p.0zr6hhvz-h9nw.woff2"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_next/static/immutable/chunks/0zfrfa8pvzmmd.css",
+      "path": "_next/static/immutable/chunks/0zfrfa8pvzmmd.css"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_next/static/immutable/chunks/1lor8e0tix90f.js",
+      "path": "_next/static/immutable/chunks/1lor8e0tix90f.js"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_next/static/immutable/chunks/1s-_81lndbn1g.js",
+      "path": "_next/static/immutable/chunks/1s-_81lndbn1g.js"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_next/static/immutable/chunks/3sehtyhn4u4zd.js",
+      "path": "_next/static/immutable/chunks/3sehtyhn4u4zd.js"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_next/static/immutable/chunks/turbopack-0umw9gafr6xnk.js",
+      "path": "_next/static/immutable/chunks/turbopack-0umw9gafr6xnk.js"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_next/static/immutable/chunks/00ikohup7da8i.js",
+      "path": "_next/static/immutable/chunks/00ikohup7da8i.js"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_next/static/immutable/chunks/44gwqxf8kbuut.js",
+      "path": "_next/static/immutable/chunks/44gwqxf8kbuut.js"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_next/static/immutable/chunks/0c0hxoamwjsbw.js",
+      "path": "_next/static/immutable/chunks/0c0hxoamwjsbw.js"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-651b5fceb43e.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-f6388e18798a.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-60ee82f23e6a.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-6095499d2d4c.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-5a27e523d6d9.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-cca5de063ed1.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-f0b7609915a0.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_640_q_75_auto_format_fit_crop-272d1f5a7f88.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_640_q_75_auto_format_fit_crop-5fff111b4712.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_640_q_75_auto_format_fit_crop-23f5030b89af.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_640_q_75_auto_format_fit_crop-78e3e189508f.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_640_q_75_auto_format_fit_crop-ec95f799be02.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_640_q_75_auto_format_fit_crop-c26008c1f139.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_640_q_75_auto_format_fit_crop-33a064566ca4.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_640_q_75_auto_format_fit_crop-52a58a8c524d.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1450101499163-c8848c66ca85_w_640_q_75_auto_format_fit_crop-04d3563bc8a0.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1450101499163-c8848c66ca85_w_640_q_75_auto_format_fit_crop-4a79ae89318d.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1450101499163-c8848c66ca85_w_640_q_75_auto_format_fit_crop-4e12646a95c7.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1450101499163-c8848c66ca85_w_640_q_75_auto_format_fit_crop-d85f0c619cce.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1450101499163-c8848c66ca85_w_640_q_75_auto_format_fit_crop-31f73361ea0f.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1450101499163-c8848c66ca85_w_640_q_75_auto_format_fit_crop-901c63c6a22d.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1450101499163-c8848c66ca85_w_640_q_75_auto_format_fit_crop-f5f3cfff7f9e.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1450101499163-c8848c66ca85_w_640_q_75_auto_format_fit_crop-85dfbd398c7a.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_160_h_160_q_70_auto_format_fit_crop-fc446e394943.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_160_h_160_q_70_auto_format_fit_crop-a820cf0bf1c9.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_160_h_160_q_70_auto_format_fit_crop-e6172afcca98.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_160_h_160_q_70_auto_format_fit_crop-9b1f36f7ef35.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_160_h_160_q_70_auto_format_fit_crop-ab569edfbe84.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_160_h_160_q_70_auto_format_fit_crop-df288ad55a79.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_160_h_160_q_70_auto_format_fit_crop-fa81b79b5525.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_160_h_160_q_70_auto_format_fit_crop-37990a9da61e.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_160_h_160_q_70_auto_format_fit_crop-4ca2708c90f5.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_160_h_160_q_70_auto_format_fit_crop-d76829a3c41b.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_160_h_160_q_70_auto_format_fit_crop-ce76ca9abf57.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_160_h_160_q_70_auto_format_fit_crop-8adcc43803c1.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_160_h_160_q_70_auto_format_fit_crop-0c5b35338e04.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_160_h_160_q_70_auto_format_fit_crop-526df11bea64.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1485846234645-a62644f84728_w_160_h_160_q_70_auto_format_fit_crop-0ec4d3af0592.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_160_h_160_q_70_auto_format_fit_crop-cb451b758e10.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_160_h_160_q_70_auto_format_fit_crop-ca52b44f9727.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_160_h_160_q_70_auto_format_fit_crop-fa5901bb912a.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_160_h_160_q_70_auto_format_fit_crop-35811344000c.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_160_h_160_q_70_auto_format_fit_crop-08daea15eb64.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_160_h_160_q_70_auto_format_fit_crop-5c796a5849aa.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_160_h_160_q_70_auto_format_fit_crop-9703c3bbe22f.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_160_h_160_q_70_auto_format_fit_crop-bcd7a3dab9b0.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_160_h_160_q_70_auto_format_fit_crop-fe782db1058d.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_160_h_160_q_70_auto_format_fit_crop-3142f0de33b4.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_160_h_160_q_70_auto_format_fit_crop-c1c3368e87f5.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_160_h_160_q_70_auto_format_fit_crop-ea36ea099e40.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_160_h_160_q_70_auto_format_fit_crop-064210efdd93.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_160_h_160_q_70_auto_format_fit_crop-b4eff71e27c5.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1561070791-2526d30994b5_w_160_h_160_q_70_auto_format_fit_crop-a5508952a312.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1500530855697-b586d89ba3ee_w_160_h_160_q_70_auto_format_fit_crop-583cc250bea0.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1500530855697-b586d89ba3ee_w_160_h_160_q_70_auto_format_fit_crop-36a623d9ed45.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1500530855697-b586d89ba3ee_w_160_h_160_q_70_auto_format_fit_crop-52894ba57a24.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1500530855697-b586d89ba3ee_w_160_h_160_q_70_auto_format_fit_crop-c3dea2b34b2b.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1500530855697-b586d89ba3ee_w_160_h_160_q_70_auto_format_fit_crop-c2ff23c07be4.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1500530855697-b586d89ba3ee_w_160_h_160_q_70_auto_format_fit_crop-ba38966a5d07.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1500530855697-b586d89ba3ee_w_160_h_160_q_70_auto_format_fit_crop-a73d1213f088.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1500530855697-b586d89ba3ee_w_160_h_160_q_70_auto_format_fit_crop-2ab96c164490.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1500530855697-b586d89ba3ee_w_160_h_160_q_70_auto_format_fit_crop-f2bd419a344e.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1500530855697-b586d89ba3ee_w_160_h_160_q_70_auto_format_fit_crop-906c6b335fa9.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1500530855697-b586d89ba3ee_w_160_h_160_q_70_auto_format_fit_crop-755660021afe.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1500530855697-b586d89ba3ee_w_160_h_160_q_70_auto_format_fit_crop-4b1148e0d10c.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1500530855697-b586d89ba3ee_w_160_h_160_q_70_auto_format_fit_crop-084fd899e6f9.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1500530855697-b586d89ba3ee_w_160_h_160_q_70_auto_format_fit_crop-dc64a3b184f4.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1500530855697-b586d89ba3ee_w_160_h_160_q_70_auto_format_fit_crop-ce3a0d17b3e6.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1517048676732-d65bc937f952_w_160_h_160_q_70_auto_format_fit_crop-9d1a4921539b.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1517048676732-d65bc937f952_w_160_h_160_q_70_auto_format_fit_crop-b465752e4336.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1517048676732-d65bc937f952_w_160_h_160_q_70_auto_format_fit_crop-72dbeb0e17b7.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1517048676732-d65bc937f952_w_160_h_160_q_70_auto_format_fit_crop-215f6a7b4c8f.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1517048676732-d65bc937f952_w_160_h_160_q_70_auto_format_fit_crop-f404bdfc51fd.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1517048676732-d65bc937f952_w_160_h_160_q_70_auto_format_fit_crop-a415059becbb.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1517048676732-d65bc937f952_w_160_h_160_q_70_auto_format_fit_crop-462a32e174f5.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1517048676732-d65bc937f952_w_160_h_160_q_70_auto_format_fit_crop-b123a41bddd1.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1517048676732-d65bc937f952_w_160_h_160_q_70_auto_format_fit_crop-fe103b1e1ccd.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1517048676732-d65bc937f952_w_160_h_160_q_70_auto_format_fit_crop-0c5a338e1382.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1517048676732-d65bc937f952_w_160_h_160_q_70_auto_format_fit_crop-5912a5a4bf85.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1517048676732-d65bc937f952_w_160_h_160_q_70_auto_format_fit_crop-d26185b9fb5e.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1517048676732-d65bc937f952_w_160_h_160_q_70_auto_format_fit_crop-789b33e1b1a7.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1517048676732-d65bc937f952_w_160_h_160_q_70_auto_format_fit_crop-f95e0bdf0368.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1517048676732-d65bc937f952_w_160_h_160_q_70_auto_format_fit_crop-29e3fb08cedf.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1492691527719-9d1e07e534b4_w_800_q_75_auto_format_fit_crop-719639a0a5e3.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1492691527719-9d1e07e534b4_w_800_q_75_auto_format_fit_crop-0664d698dbb5.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1492691527719-9d1e07e534b4_w_800_q_75_auto_format_fit_crop-622f8118b5ed.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1492691527719-9d1e07e534b4_w_800_q_75_auto_format_fit_crop-69e2f737fea4.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1492691527719-9d1e07e534b4_w_800_q_75_auto_format_fit_crop-6588f5e90766.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1492691527719-9d1e07e534b4_w_800_q_75_auto_format_fit_crop-8b00c6c12c49.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1492691527719-9d1e07e534b4_w_800_q_75_auto_format_fit_crop-2492cd1c53c5.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1492691527719-9d1e07e534b4_w_800_q_75_auto_format_fit_crop-cd1719b44498.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1492691527719-9d1e07e534b4_w_800_q_75_auto_format_fit_crop-73a51ebf939a.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1492691527719-9d1e07e534b4_w_800_q_75_auto_format_fit_crop-d7601f8c54ae.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1492691527719-9d1e07e534b4_w_800_q_75_auto_format_fit_crop-cac1965ae51a.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1492691527719-9d1e07e534b4_w_800_q_75_auto_format_fit_crop-14a166233237.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1492691527719-9d1e07e534b4_w_800_q_75_auto_format_fit_crop-c46f884aea73.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1492691527719-9d1e07e534b4_w_800_q_75_auto_format_fit_crop-b7e8f8b454f1.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1492691527719-9d1e07e534b4_w_800_q_75_auto_format_fit_crop-40a0b413fa79.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1548142813-c348350df52b_w_900_h_1125_q_75_auto_format_fit_crop_crop_faces-b50da18da0de.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1548142813-c348350df52b_w_900_h_1125_q_75_auto_format_fit_crop_crop_faces-2d3c8f046869.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1548142813-c348350df52b_w_900_h_1125_q_75_auto_format_fit_crop_crop_faces-be2756e5828a.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1548142813-c348350df52b_w_900_h_1125_q_75_auto_format_fit_crop_crop_faces-40752ff8b882.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1548142813-c348350df52b_w_900_h_1125_q_75_auto_format_fit_crop_crop_faces-6b92b14c1851.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1548142813-c348350df52b_w_900_h_1125_q_75_auto_format_fit_crop_crop_faces-347448197d26.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1548142813-c348350df52b_w_900_h_1125_q_75_auto_format_fit_crop_crop_faces-e44610bd9a1c.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1548142813-c348350df52b_w_900_h_1125_q_75_auto_format_fit_crop_crop_faces-950ed50eb42c.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1548142813-c348350df52b_w_900_h_1125_q_75_auto_format_fit_crop_crop_faces-c9968b1f6972.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1548142813-c348350df52b_w_900_h_1125_q_75_auto_format_fit_crop_crop_faces-ce406ac27629.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1548142813-c348350df52b_w_96_h_96_q_70_auto_format_fit_crop_crop_faces-272fc9869871.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1548142813-c348350df52b_w_96_h_96_q_70_auto_format_fit_crop_crop_faces-a4eddd1d8eca.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1566492031773-4f4e44671857_w_96_h_96_q_70_auto_format_fit_crop_crop_faces-0212dc1b79f3.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1566492031773-4f4e44671857_w_96_h_96_q_70_auto_format_fit_crop_crop_faces-ef770e36eba6.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1592621385612-4d7129426394_w_96_h_96_q_70_auto_format_fit_crop_crop_faces-5f916d372adb.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1592621385612-4d7129426394_w_96_h_96_q_70_auto_format_fit_crop_crop_faces-2f85972fd0bb.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1517070208541-6ddc4d3efbcb_w_96_h_96_q_70_auto_format_fit_crop_crop_faces-8442cb99a1ea.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1517070208541-6ddc4d3efbcb_w_96_h_96_q_70_auto_format_fit_crop_crop_faces-265aba62c55c.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1601412436009-d964bd02edbc_w_96_h_96_q_70_auto_format_fit_crop_crop_faces-fb0234979399.bin"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_img/photo-1485846234645-a62644f84728_w_640_q_75_auto_format_fit_crop-ffad00f93ee4.bin",
+      "path": "_img/photo-1601412436009-d964bd02edbc_w_96_h_96_q_70_auto_format_fit_crop_crop_faces-6ef188f3517e.bin"
+    },
+    {
+      "url": "https://cloudlight.example.com",
+      "path": "https:/cloudlight.example.com"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/site.webmanifest",
+      "path": "site.webmanifest"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/favicon.ico?favicon.3fpu2ql9ns1a0.ico",
+      "path": "favicon.ico-f79abd550f6f.ico"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/icon.svg?icon.2idc4tqnqlkl5.svg",
+      "path": "icon.svg-a6b82cfcc9b0.svg"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/apple-icon.png?apple-icon.0zvofeey0xoz6.png",
+      "path": "apple-icon.png-8e773d635d1a.png"
+    },
+    {
+      "url": "https://app.cloudlight.example.com/sign-in",
+      "path": "https:/app.cloudlight.example.com/sign-in/index.html"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/logos/northwind.svg?dpl=dpl_9vFkpJNHXagGo3Y14wYALXJGTb6A",
+      "path": "logos/northwind.svg-8995f2791826.svg"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/logos/halcyon.svg?dpl=dpl_9vFkpJNHXagGo3Y14wYALXJGTb6A",
+      "path": "logos/halcyon.svg-581326e11ba1.svg"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/logos/monostudio.svg?dpl=dpl_9vFkpJNHXagGo3Y14wYALXJGTb6A",
+      "path": "logos/monostudio.svg-0db0a7e81ac5.svg"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/logos/fieldnotes.svg?dpl=dpl_9vFkpJNHXagGo3Y14wYALXJGTb6A",
+      "path": "logos/fieldnotes.svg-75515f5f9711.svg"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/logos/arcline.svg?dpl=dpl_9vFkpJNHXagGo3Y14wYALXJGTb6A",
+      "path": "logos/arcline.svg-90f64c8509b6.svg"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/logos/bloomco.svg?dpl=dpl_9vFkpJNHXagGo3Y14wYALXJGTb6A",
+      "path": "logos/bloomco.svg-3a804ebe6e7f.svg"
+    },
+    {
+      "url": "https://app.cloudlight.example.com/sign-up",
+      "path": "https:/app.cloudlight.example.com/sign-up/index.html"
+    },
+    {
+      "url": "https://app.cloudlight.example.com/sign-up?plan=pro",
+      "path": "https:/app.cloudlight.example.com/sign-up-a3cf2442aa45.bin"
+    },
+    {
+      "url": "https://cloudlight.example.com/blog",
+      "path": "https:/cloudlight.example.com/blog/index.html"
+    },
+    {
+      "url": "https://cloudlight.example.com/changelog",
+      "path": "https:/cloudlight.example.com/changelog/index.html"
+    },
+    {
+      "url": "https://status.cloudlight.example.com",
+      "path": "https:/status.cloudlight.example.com"
+    },
+    {
+      "url": "https://cloudlight.example.com/about",
+      "path": "https:/cloudlight.example.com/about/index.html"
+    },
+    {
+      "url": "https://cloudlight.example.com/careers",
+      "path": "https:/cloudlight.example.com/careers/index.html"
+    },
+    {
+      "url": "https://cloudlight.example.com/terms",
+      "path": "https:/cloudlight.example.com/terms/index.html"
+    },
+    {
+      "url": "https://cloudlight.example.com/privacy",
+      "path": "https:/cloudlight.example.com/privacy/index.html"
+    },
+    {
+      "url": "https://cloudlight.example.com/dpa",
+      "path": "https:/cloudlight.example.com/dpa/index.html"
+    },
+    {
+      "url": "https://x.com/cloudlight",
+      "path": "https:/x.com/cloudlight/index.html"
+    },
+    {
+      "url": "https://linkedin.com/company/cloudlight",
+      "path": "https:/linkedin.com/company/cloudlight/index.html"
+    },
+    {
+      "url": "https://github.com/cloudlight",
+      "path": "https:/github.com/cloudlight/index.html"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/logos/northwind.svg",
+      "path": "logos/northwind.svg"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/logos/halcyon.svg",
+      "path": "logos/halcyon.svg"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/logos/monostudio.svg",
+      "path": "logos/monostudio.svg"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/logos/fieldnotes.svg",
+      "path": "logos/fieldnotes.svg"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/logos/arcline.svg",
+      "path": "logos/arcline.svg"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/logos/bloomco.svg",
+      "path": "logos/bloomco.svg"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/",
+      "path": "index.html"
+    },
+    {
+      "url": "https://vercel.live/_next-live/feedback/feedback.js",
+      "path": "https:/vercel.live/_next-live/feedback/feedback.js"
+    },
+    {
+      "url": "https://rbp-cloudlight-template.vercel.app/_next/static/immutable",
+      "path": "_next/static/immutable/index.html"
+    }
+  ],
+  "failures": [
+    {
+      "u": "https://cloudlight.example.com",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://app.cloudlight.example.com/sign-in",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://app.cloudlight.example.com/sign-up",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://app.cloudlight.example.com/sign-up?plan=pro",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://cloudlight.example.com/blog",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://cloudlight.example.com/changelog",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://status.cloudlight.example.com",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://cloudlight.example.com/about",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://cloudlight.example.com/careers",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://cloudlight.example.com/terms",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://cloudlight.example.com/privacy",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://cloudlight.example.com/dpa",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://x.com/cloudlight",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://linkedin.com/company/cloudlight",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://github.com/cloudlight",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    }
+  ]
+}

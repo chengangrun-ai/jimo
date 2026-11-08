@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/tessera-trail",
+ "slug": "tessera-trail",
+ "name": "Tessera Trail",
+ "description": "A cursor trail of bouncy letter tiles",
+ "category": "cursor",
+ "tier": "starter",
+ "tags": [
+  "cursor",
+  "trail",
+  "tiles",
+  "mosaic",
+  "text",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/tessera-trail",
+ "lang": "jsx",
+ "codeFile": "code/components/tessera-trail.txt",
+ "codeLen": 20077,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "90650"
+ ]
+}

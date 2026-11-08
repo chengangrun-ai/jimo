@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/passage-gallery",
+ "slug": "passage-gallery",
+ "name": "Passage Gallery",
+ "description": "A tunnel of photos you glide through",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "images",
+  "3d",
+  "webgl",
+  "interactive",
+  "showcase"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/passage-gallery",
+ "lang": "jsx",
+ "codeFile": "code/components/passage-gallery.txt",
+ "codeLen": 38494,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

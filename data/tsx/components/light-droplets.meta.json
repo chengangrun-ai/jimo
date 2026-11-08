@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/light-droplets",
+ "slug": "light-droplets",
+ "name": "Light Droplets",
+ "description": "Streaks of light falling like rain",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/light-droplets",
+ "lang": "jsx",
+ "codeFile": "code/components/light-droplets.txt",
+ "codeLen": 11734,
+ "needInline": [
+  "56388",
+  "48543",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

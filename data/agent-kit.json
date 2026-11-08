@@ -1,0 +1,1512 @@
+{
+ "generatedAt": "2026-11-02T04:57:04.491Z",
+ "total": 19,
+ "freeCount": 1,
+ "skills": [
+  {
+   "kind": "skill",
+   "slug": "apple-minimal",
+   "name": "Apple Minimal",
+   "category": "Product",
+   "sections": 19,
+   "words": 4040,
+   "version": "v1.1.0",
+   "isFree": false,
+   "description": "Build product landing pages with Apple's restraint: one idea per viewport, a giant type scale, generous negative space, and the product as the only hero.",
+   "produces": [
+    "The product as the only hero",
+    "One idea per screen",
+    "The one place density is allowed"
+   ],
+   "toc": [
+    {
+     "n": 1,
+     "title": "The core idea"
+    },
+    {
+     "n": 2,
+     "title": "Page architecture"
+    },
+    {
+     "n": 3,
+     "title": "Type scale"
+    },
+    {
+     "n": 4,
+     "title": "Spacing system"
+    },
+    {
+     "n": 5,
+     "title": "Colour"
+    },
+    {
+     "n": 6,
+     "title": "Grid and containers"
+    },
+    {
+     "n": 7,
+     "title": "Navigation"
+    },
+    {
+     "n": 8,
+     "title": "Hero"
+    },
+    {
+     "n": 9,
+     "title": "Feature screens"
+    },
+    {
+     "n": 10,
+     "title": "Motion"
+    },
+    {
+     "n": 11,
+     "title": "Imagery and media"
+    },
+    {
+     "n": 12,
+     "title": "Buttons and links"
+    },
+    {
+     "n": 13,
+     "title": "Anti-patterns: what makes a page fail this style"
+    },
+    {
+     "n": 14,
+     "title": "Responsive behaviour"
+    },
+    {
+     "n": 15,
+     "title": "Accessibility"
+    },
+    {
+     "n": 16,
+     "title": "Performance"
+    },
+    {
+     "n": 17,
+     "title": "Implementation notes"
+    },
+    {
+     "n": 18,
+     "title": "Pairs well with React Bits Pro (optional)"
+    },
+    {
+     "n": 19,
+     "title": "Self-verification loop"
+    }
+   ],
+   "preview": "The Apple look is not \"clean and minimal\". It is a set of hard rules that most agents break instantly: exactly one idea per full-viewport section, a type scale that jumps 3–4 steps between headline and body with no timid mid-sizes, an 8-point spacing grid where vertical rhythm is measured in hundreds of pixels, and a colour palette of two neutrals plus the product's own colours.\n\nThis skill encodes the composition, type, spacing, motion, and most importantly, the 38 anti-patterns that make an \"Apple-inspired\" page read as a cheap imitation: gradient headline text, glassmorphism everywhere, three-up feature card grids, emoji icons, rounded-full pill badges above every heading, and section padding that never exceeds `py-24`.",
+   "changelog": "v1.1.0·Corrected the contrast figures (§15) and the dark-mode button fill, which stays #0071E3 because white on #2997FF fails AA (§5, §12). Added matching a product photo's seamless to the page (§11), optical sizing (§3), the first- viewport rule (§8) and page-scroll scrubbing (§10). Showcase rebuilt by Claude Opus 5.5 at Max effort.",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/skills/apple-minimal",
+   "contentFile": "agent-kit/skill-apple-minimal.md"
+  },
+  {
+   "kind": "skill",
+   "slug": "corporate-trust",
+   "name": "Corporate Trust",
+   "category": "Enterprise",
+   "sections": 17,
+   "words": 4185,
+   "version": "v1.1.0",
+   "isFree": false,
+   "description": "Build enterprise, finance and healthcare pages where credibility is the entire design objective: a conservative palette, a ranked trust ladder, dense organised proof and a demo-request form that a procurement committee finds legible.",
+   "produces": [
+    "Proof inside the first viewport",
+    "A named result with its evidence",
+    "Certifications as design elements"
+   ],
+   "toc": [
+    {
+     "n": 1,
+     "title": "The core idea"
+    },
+    {
+     "n": 2,
+     "title": "Page architecture for the enterprise buyer journey"
+    },
+    {
+     "n": 3,
+     "title": "Type scale"
+    },
+    {
+     "n": 4,
+     "title": "Colour system"
+    },
+    {
+     "n": 5,
+     "title": "The trust ladder"
+    },
+    {
+     "n": 6,
+     "title": "Data and metrics presentation"
+    },
+    {
+     "n": 7,
+     "title": "Density rules"
+    },
+    {
+     "n": 8,
+     "title": "Navigation and mega-menus"
+    },
+    {
+     "n": 9,
+     "title": "Hero and proof sections"
+    },
+    {
+     "n": 10,
+     "title": "Pricing, forms and motion"
+    },
+    {
+     "n": 11,
+     "title": "Anti-patterns: what makes a page fail this style"
+    },
+    {
+     "n": 12,
+     "title": "Responsive behaviour"
+    },
+    {
+     "n": 13,
+     "title": "Accessibility: procurement-grade"
+    },
+    {
+     "n": 14,
+     "title": "Performance"
+    },
+    {
+     "n": 15,
+     "title": "Implementation notes"
+    },
+    {
+     "n": 16,
+     "title": "Pairs well with React Bits Pro (optional)"
+    },
+    {
+     "n": 17,
+     "title": "Self-verification loop"
+    }
+   ],
+   "preview": "Enterprise trust is not \"a blue gradient and three glass cards\". It is a design language justified by buyer psychology: long sales cycles, multiple stakeholders, and risk aversion. Credibility comes from real proof placed high, certifications treated as design elements, dense but organised information, and motion so minimal it never looks like a consumer app trying too hard.\n\nThis skill encodes a conservative type scale, the exact blue-family palette and how to use it without looking generic, a ranked trust ladder, data and metrics typography, density rules, mega-menu justification criteria, a demo-form spec, 34 numbered anti-patterns, an accessibility standard tied to procurement requirements, and a self-verification loop.",
+   "changelog": "v1.1.0·Added building the product surface in markup when there is no screenshot (§9), typeset seals when official marks cannot be used (§5), and a check that every repeated figure agrees (§17). Showcase rebuilt by Claude Opus 5.5 at Max effort.",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/skills/corporate-trust",
+   "contentFile": "agent-kit/skill-corporate-trust.md"
+  },
+  {
+   "kind": "skill",
+   "slug": "editorial",
+   "name": "Editorial",
+   "category": "Editorial",
+   "sections": 19,
+   "words": 4690,
+   "version": "v1.1.0",
+   "isFree": false,
+   "description": "Build magazine-grade editorial landing pages with a real serif display face, an asymmetric 12-column grid, controlled measure in ch, correct drop caps and pull quotes, hairline rules, and images that bleed and break the grid.",
+   "produces": [
+    "An asymmetric opening spread over a full-bleed plate",
+    "One drop cap, one lifted pull quote, one bleed",
+    "The issue index as ruled rows"
+   ],
+   "toc": [
+    {
+     "n": 1,
+     "title": "The core idea"
+    },
+    {
+     "n": 2,
+     "title": "Page architecture"
+    },
+    {
+     "n": 3,
+     "title": "The column grid"
+    },
+    {
+     "n": 4,
+     "title": "Type scale"
+    },
+    {
+     "n": 5,
+     "title": "Vertical rhythm and baseline grid"
+    },
+    {
+     "n": 6,
+     "title": "Colour"
+    },
+    {
+     "n": 7,
+     "title": "Rules, hairlines and dividers"
+    },
+    {
+     "n": 8,
+     "title": "Drop caps and pull quotes"
+    },
+    {
+     "n": 9,
+     "title": "Image treatment and captions"
+    },
+    {
+     "n": 10,
+     "title": "Navigation"
+    },
+    {
+     "n": 11,
+     "title": "Masthead and hero"
+    },
+    {
+     "n": 12,
+     "title": "Article-style body sections"
+    },
+    {
+     "n": 13,
+     "title": "Anti-patterns - what makes a page fail this style"
+    },
+    {
+     "n": 14,
+     "title": "Responsive behaviour"
+    },
+    {
+     "n": 15,
+     "title": "Accessibility"
+    },
+    {
+     "n": 16,
+     "title": "Performance"
+    },
+    {
+     "n": 17,
+     "title": "Implementation notes"
+    },
+    {
+     "n": 18,
+     "title": "Pairs well with React Bits Pro (optional)"
+    },
+    {
+     "n": 19,
+     "title": "Self-verification loop"
+    }
+   ],
+   "preview": "Editorial is not \"a centred blog post in a serif font\". It is a print-derived typographic system - a serif display face paired with a text face at an exact measure, an asymmetric 12-column grid with real gutters, a baseline rhythm, and paper-and-ink colour that is never pure white on pure black. Drop caps and pull quotes are placed by rule, not decoration, and images bleed past the text column.\n\nThis skill encodes the column grid with exact spans and gutters, a type scale with optical sizing and a measure in ch for every role, the correct way to build a drop cap and a pull quote, a webfont loading strategy that avoids layout shift, a 32-item numbered anti-patterns list, and a self-verification loop you run against your own render.",
+   "changelog": "v1.1.0·Fixed the drop cap, whose CSS produced a two-line cap, with a derivation and verified values (§8). Fixed the hero example's kicker, which faked small caps (§17), and sized small caps by their height (§4). Showcase rebuilt by Claude Opus 5.5 at Max effort.",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/skills/editorial",
+   "contentFile": "agent-kit/skill-editorial.md"
+  },
+  {
+   "kind": "skill",
+   "slug": "luxury-serif",
+   "name": "Luxury Serif",
+   "category": "Premium",
+   "sections": 19,
+   "words": 4477,
+   "version": "v1.1.0",
+   "isFree": false,
+   "description": "Build high-end fashion, hospitality and jewellery pages where restraint reads as expensive: a high-contrast display serif, wide small-caps tracking, hairline rules and slow, deliberate motion.",
+   "produces": [
+    "A full-bleed hero with the name in a Didone",
+    "One material, beside a short caption",
+    "A suite, named and priced once"
+   ],
+   "toc": [
+    {
+     "n": 1,
+     "title": "The core idea"
+    },
+    {
+     "n": 2,
+     "title": "Page architecture"
+    },
+    {
+     "n": 3,
+     "title": "Typography: the display serif"
+    },
+    {
+     "n": 4,
+     "title": "Letter-spacing: the small-caps rule"
+    },
+    {
+     "n": 5,
+     "title": "Colour: warm and cool neutral palettes"
+    },
+    {
+     "n": 6,
+     "title": "Photography and art direction"
+    },
+    {
+     "n": 7,
+     "title": "Full-bleed and edge-to-edge treatment"
+    },
+    {
+     "n": 8,
+     "title": "Navigation"
+    },
+    {
+     "n": 9,
+     "title": "Hero"
+    },
+    {
+     "n": 10,
+     "title": "Product and property presentation"
+    },
+    {
+     "n": 11,
+     "title": "Motion"
+    },
+    {
+     "n": 12,
+     "title": "Buttons and links"
+    },
+    {
+     "n": 13,
+     "title": "Anti-patterns: what makes a page fail this style"
+    },
+    {
+     "n": 14,
+     "title": "Responsive behaviour"
+    },
+    {
+     "n": 15,
+     "title": "Accessibility: keeping the style AA-safe"
+    },
+    {
+     "n": 16,
+     "title": "Performance"
+    },
+    {
+     "n": 17,
+     "title": "Implementation notes"
+    },
+    {
+     "n": 18,
+     "title": "Pairs well with React Bits Pro (optional)"
+    },
+    {
+     "n": 19,
+     "title": "Self-verification loop"
+    }
+   ],
+   "preview": "The luxury look is not \"a serif font and a gold button\". It is a discipline of subtraction: an enormous Didone display serif, almost no colour, positive tracking in exactly two places, full-bleed art-directed photography, and motion that barely moves. Miss any piece and the page collapses into a SaaS template wearing Playfair Display.\n\nThis skill gives copy-pasteable Tailwind values for type scale, stroke contrast, optical-size guardrails, warm and cool neutral palettes, photography art direction, 34 anti-patterns, AA-safe contrast rules that preserve hairlines, and a self-verification loop.",
+   "changelog": "v1.1.0·Corrected the ink-secondary contrast figures, which pass (§15). Raised the Didone floor over photography (§3), aligned button and link tracking to the one small-caps value (§4, §12), and kept the solid nav off full-bleed images (§8). Showcase rebuilt by Claude Opus 5.5 at Max effort.",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/skills/luxury-serif",
+   "contentFile": "agent-kit/skill-luxury-serif.md"
+  },
+  {
+   "kind": "skill",
+   "slug": "neobrutalism",
+   "name": "Neobrutalism",
+   "category": "Expressive",
+   "sections": 19,
+   "words": 4624,
+   "version": "v1.1.0",
+   "isFree": false,
+   "description": "Build loud neobrutalist landing pages with 3px black borders, hard offset shadows with zero blur, saturated flat colour blocks, and chunky type that physically moves when you press it.",
+   "produces": [
+    "A 900-weight hero and a product block with hard shadows",
+    "A bento where the numbers do the talking",
+    "Hand-placed seller cards with duotone portraits"
+   ],
+   "toc": [
+    {
+     "n": 1,
+     "title": "The core idea"
+    },
+    {
+     "n": 2,
+     "title": "Page architecture"
+    },
+    {
+     "n": 3,
+     "title": "Type scale"
+    },
+    {
+     "n": 4,
+     "title": "The border and shadow system"
+    },
+    {
+     "n": 5,
+     "title": "Colour system"
+    },
+    {
+     "n": 6,
+     "title": "Grid and containers"
+    },
+    {
+     "n": 7,
+     "title": "Navigation"
+    },
+    {
+     "n": 8,
+     "title": "Hero"
+    },
+    {
+     "n": 9,
+     "title": "Feature sections"
+    },
+    {
+     "n": 10,
+     "title": "Buttons and interactive states"
+    },
+    {
+     "n": 11,
+     "title": "Motion"
+    },
+    {
+     "n": 12,
+     "title": "Imagery treatment"
+    },
+    {
+     "n": 13,
+     "title": "Anti-patterns - what makes a page fail this style"
+    },
+    {
+     "n": 14,
+     "title": "Responsive behaviour"
+    },
+    {
+     "n": 15,
+     "title": "Accessibility"
+    },
+    {
+     "n": 16,
+     "title": "Performance"
+    },
+    {
+     "n": 17,
+     "title": "Implementation notes"
+    },
+    {
+     "n": 18,
+     "title": "Pairs well with React Bits Pro (optional)"
+    },
+    {
+     "n": 19,
+     "title": "Self-verification loop"
+    }
+   ],
+   "preview": "Neobrutalism is not \"a normal SaaS page with border-2 bolted on\". It is a strict physical system - hard offset shadows measured in exact pixels, an ultra-heavy type scale that starts at 800 weight, four saturated colours allocated by role, and interactive states that translate the element into its own shadow on press. Get one value wrong and it collapses into a generic card grid with black outlines.\n\nThis skill encodes the border and shadow mechanic in exact px and Tailwind classes, a type scale table with weights most agents never reach, a 34-item numbered anti-patterns list, the snappy stepped motion timings that separate real neobrutalism from eased corporate animation, and a self-verification loop you run against your own render.",
+   "changelog": "v1.1.0·Corrected the contrast guidance: magenta, orange and green take ink and only blue takes white, with an exact table (§15). Clarified the two radius families (§4) and capped the hero at three lines (§8). Showcase rebuilt by Claude Opus 5.5 at Max effort.",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/skills/neobrutalism",
+   "contentFile": "agent-kit/skill-neobrutalism.md"
+  },
+  {
+   "kind": "skill",
+   "slug": "playful-motion",
+   "name": "Playful Motion",
+   "category": "Expressive",
+   "sections": 17,
+   "words": 4183,
+   "version": "v1.1.0",
+   "isFree": false,
+   "description": "Build energetic consumer product pages driven by real spring physics: staggered reveals, scroll-linked transforms, oversized rounded geometry and micro-interactions that stay purposeful and never fight the reader.",
+   "produces": [
+    "A product hero that springs in on a soft backdrop",
+    "The one interactive section: a real box builder",
+    "The playful break: one shape, one line"
+   ],
+   "toc": [
+    {
+     "n": 1,
+     "title": "The core idea"
+    },
+    {
+     "n": 2,
+     "title": "Page architecture"
+    },
+    {
+     "n": 3,
+     "title": "Type scale"
+    },
+    {
+     "n": 4,
+     "title": "Colour system"
+    },
+    {
+     "n": 5,
+     "title": "Shape language"
+    },
+    {
+     "n": 6,
+     "title": "The motion system"
+    },
+    {
+     "n": 7,
+     "title": "prefers-reduced-motion as a design state"
+    },
+    {
+     "n": 8,
+     "title": "Navigation"
+    },
+    {
+     "n": 9,
+     "title": "Hero"
+    },
+    {
+     "n": 10,
+     "title": "Feature sections and imagery"
+    },
+    {
+     "n": 11,
+     "title": "Anti-patterns: what makes a page fail this style"
+    },
+    {
+     "n": 12,
+     "title": "Responsive behaviour and mobile motion budget"
+    },
+    {
+     "n": 13,
+     "title": "Accessibility: vestibular safety and focus"
+    },
+    {
+     "n": 14,
+     "title": "Performance"
+    },
+    {
+     "n": 15,
+     "title": "Implementation notes"
+    },
+    {
+     "n": 16,
+     "title": "Pairs well with React Bits Pro (optional)"
+    },
+    {
+     "n": 17,
+     "title": "Self-verification loop"
+    }
+   ],
+   "preview": "Playful is not \"add a bouncing arrow and animate everything\". It is a motion system: spring configurations with exact stiffness, damping and mass per interaction class, stagger timings measured in tens of milliseconds, scroll-linked transform ranges, and a hard list of things that must never move. Miss the physics and you get the same `transition-all duration-300` on every element, which reads as a template, not a personality.\n\nThis skill encodes the type and colour systems, a shape-language spec, the full motion system with copy-pasteable `motion/react` spring configs, `prefers-reduced-motion` as a first-class design state, 34 numbered anti-patterns, a mobile motion budget, a vestibular-safety accessibility path, and a self-verification loop.",
+   "changelog": "v1.1.0·Replaced the useReducedMotion() render branch, which caused hydration mismatches, with MotionConfig and a useSyncExternalStore hook (§7, §15, §19). Added contrast figures for bright brand colours (§4), elliptical arch radii (§5), the useScroll target note (§6) and the configurator as the canonical demo (§10). Showcase rebuilt by Claude Opus 5.5 at Max effort.",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/skills/playful-motion",
+   "contentFile": "agent-kit/skill-playful-motion.md"
+  },
+  {
+   "kind": "skill",
+   "slug": "swiss-grid",
+   "name": "Swiss Grid",
+   "category": "Systematic",
+   "sections": 19,
+   "words": 4520,
+   "version": "v1.1.0",
+   "isFree": false,
+   "description": "Build landing pages in the International Typographic Style: a visible 12-column modular grid, flush-left grotesque type at three sizes, and one accent used as data.",
+   "produces": [
+    "A flush-left hero with a figure drawn from the data",
+    "The whole timetable as one real table",
+    "A time-distance graph where the accent marks the crossings"
+   ],
+   "toc": [
+    {
+     "n": 1,
+     "title": "The core idea"
+    },
+    {
+     "n": 2,
+     "title": "The modular grid"
+    },
+    {
+     "n": 3,
+     "title": "Making the grid visible"
+    },
+    {
+     "n": 4,
+     "title": "Type scale"
+    },
+    {
+     "n": 5,
+     "title": "Flush-left, ragged-right, and why centred text is banned"
+    },
+    {
+     "n": 6,
+     "title": "Spacing system"
+    },
+    {
+     "n": 7,
+     "title": "Colour"
+    },
+    {
+     "n": 8,
+     "title": "Navigation"
+    },
+    {
+     "n": 9,
+     "title": "Hero"
+    },
+    {
+     "n": 10,
+     "title": "Content sections and grid fields"
+    },
+    {
+     "n": 11,
+     "title": "Imagery"
+    },
+    {
+     "n": 12,
+     "title": "Motion"
+    },
+    {
+     "n": 13,
+     "title": "Anti-patterns: what makes a page fail this style"
+    },
+    {
+     "n": 14,
+     "title": "Responsive behaviour"
+    },
+    {
+     "n": 15,
+     "title": "Accessibility"
+    },
+    {
+     "n": 16,
+     "title": "Performance"
+    },
+    {
+     "n": 17,
+     "title": "Implementation notes"
+    },
+    {
+     "n": 18,
+     "title": "Pairs well with React Bits Pro (optional)"
+    },
+    {
+     "n": 19,
+     "title": "Self-verification loop"
+    }
+   ],
+   "preview": "Swiss design is not \"Helvetica plus whitespace\". It is a mathematical system agents rarely fake: a modular grid for every element, three type sizes from one 8px unit, flush-left ragged-right setting with centred text banned, and one accent colour used as information, not decoration. Break one rule and the page collapses into a generic centred brochure.\n\nThis skill encodes grid mathematics (columns, gutters, margins and baseline at every breakpoint), spacing as multiples of a base unit, 33 numbered anti-patterns, and copy-pasteable Tailwind for a reusable grid container that makes the structure visible. It teaches the system, not the surface.",
+   "changelog": "v1.1.0·Made the 1440px container consistent (§2), set line-heights in pixels so fluid type keeps the baseline (§6), placed nav items on explicit columns (§8), added figures drawn from the page's own data (§9) and corrected the accent contrast (§15). Showcase rebuilt by Claude Opus 5.5 at Max effort.",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/skills/swiss-grid",
+   "contentFile": "agent-kit/skill-swiss-grid.md"
+  },
+  {
+   "kind": "skill",
+   "slug": "terminal-dark",
+   "name": "Terminal Dark",
+   "category": "Technical",
+   "sections": 19,
+   "words": 5881,
+   "version": "v1.2.0",
+   "isFree": true,
+   "description": "Build developer-tool landing pages that read as software: dark-first surfaces, real compiling code as the hero, terminal motifs, hairline borders, and syntax as palette.",
+   "produces": [
+    "Real code as the hero, sized to fit its frame",
+    "The migration: thirty lines of bookkeeping against the same sixteen-line file",
+    "A report drawn in the character cell: the bars are the numbers"
+   ],
+   "toc": [],
+   "preview": "A landing-page system for developer tools that makes the page feel like the product it is selling. The tool lives in a terminal, an editor, a dark IDE, so the page is dark, precise, monospaced where it counts, and built around real code. It respects a developer's time and assumes technical literacy. Nothing is dumbed down, nothing glows, nothing is fake.\n\nThe failure mode you are guarding against is the \"developer\" page that is a light SaaS template with dark: variants bolted on. That page has a glowing purple-to-cyan hero gradient, a \"code snippet\" that does not compile and demonstrates nothing, body copy set in monospace because monospace \"looks technical\", pastel feature cards with soft shadows, and a hero screenshot of a dashboard nobody asked for. A real developer closes that tab in two seconds because it was obviously made by someone who has never shipped code. Everything below exists to pass the scrutiny of a reader who reads code for a living.",
+   "changelog": "v1.2.0·Raised text-tertiary to #7B818B and syntax-comment to #7C8494, because the previous values failed AA (§3, §15, §17). Reconciled headline weights (§2.3, §5), sized code to its frame and required figures and code to agree (§6), and made the mobile scroll fade a mask (§14). Showcase rebuilt by Claude Opus 5.5 at Max effort.",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/skills/terminal-dark",
+   "contentFile": "agent-kit/skill-terminal-dark.md"
+  }
+ ],
+ "prompts": [
+  {
+   "kind": "prompt",
+   "slug": "agency",
+   "name": "Agency",
+   "category": "Services",
+   "sections": 15,
+   "words": 3139,
+   "version": "v1.1.0",
+   "isFree": false,
+   "description": "Build a studio site where the work is the pitch: selected projects, a real process, named people, and an enquiry form that filters for the clients you want.",
+   "produces": [],
+   "toc": [
+    {
+     "n": 1,
+     "title": "Before you write anything"
+    },
+    {
+     "n": 2,
+     "title": "Primary objective"
+    },
+    {
+     "n": 3,
+     "title": "User journey"
+    },
+    {
+     "n": 4,
+     "title": "Required page structure"
+    },
+    {
+     "n": 5,
+     "title": "Positioning and specialism"
+    },
+    {
+     "n": 6,
+     "title": "Selected work"
+    },
+    {
+     "n": 7,
+     "title": "The process section"
+    },
+    {
+     "n": 8,
+     "title": "Services presentation"
+    },
+    {
+     "n": 9,
+     "title": "Team and credibility"
+    },
+    {
+     "n": 10,
+     "title": "The enquiry form (the whole funnel)"
+    },
+    {
+     "n": 11,
+     "title": "The \"no pricing\" problem"
+    },
+    {
+     "n": 12,
+     "title": "Responsive priorities"
+    },
+    {
+     "n": 13,
+     "title": "Accessibility"
+    },
+    {
+     "n": 14,
+     "title": "Common mistakes to avoid"
+    },
+    {
+     "n": 15,
+     "title": "Completion checklist"
+    }
+   ],
+   "preview": "Agency sites fail predictably: the agent writes a SaaS page, swaps \"Start free\" for \"Get in touch\", and calls it done. A services business converts differently. There is no signup or price. The buyer chooses people, the work carries the argument, and the enquiry form is the funnel. Its fields decide whether you get qualified briefs or spam.\n\nThis prompt covers positioning and specialism; selected-work presentation (grid versus list, project count, and what each case-study card must carry); a non-generic process; team and credibility; logos and attributed testimonials; enquiry form fields and why each exists; budget qualification; and how to solve the \"no published pricing\" problem without looking evasive.",
+   "changelog": "v1.1.0·Added the hero flagship's caption (§6) and where the published floor belongs (§11). Showcase rebuilt by Claude Opus 5.5 at Max effort.",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/prompts/agency",
+   "contentFile": "agent-kit/prompt-agency.md"
+  },
+  {
+   "kind": "prompt",
+   "slug": "consumer-hardware",
+   "name": "Consumer Hardware",
+   "category": "Physical Product",
+   "sections": 16,
+   "words": 3298,
+   "version": "v1.2.0",
+   "isFree": false,
+   "description": "Build a product page for a physical consumer device: desire before specs, one honest hero photograph, a spec table buyers actually read, and shipping, warranty and returns resolved before the visitor hunts for them.",
+   "produces": [],
+   "toc": [
+    {
+     "n": 1,
+     "title": "Before you write anything"
+    },
+    {
+     "n": 2,
+     "title": "Primary objective"
+    },
+    {
+     "n": 3,
+     "title": "User journey"
+    },
+    {
+     "n": 4,
+     "title": "Required page structure"
+    },
+    {
+     "n": 5,
+     "title": "Product photography"
+    },
+    {
+     "n": 6,
+     "title": "Conveying the physical object through a screen"
+    },
+    {
+     "n": 7,
+     "title": "Copy and specification tables"
+    },
+    {
+     "n": 8,
+     "title": "Variants and configuration"
+    },
+    {
+     "n": 9,
+     "title": "Price and value for a one-time purchase"
+    },
+    {
+     "n": 10,
+     "title": "Availability, shipping and pre-order honesty"
+    },
+    {
+     "n": 11,
+     "title": "Proof: reviews, press and comparison"
+    },
+    {
+     "n": 12,
+     "title": "Warranty, returns and repairability"
+    },
+    {
+     "n": 13,
+     "title": "Regulatory, certifications and compliance"
+    },
+    {
+     "n": 14,
+     "title": "Responsive priorities and accessibility"
+    },
+    {
+     "n": 15,
+     "title": "Common mistakes to avoid"
+    },
+    {
+     "n": 16,
+     "title": "Completion checklist"
+    }
+   ],
+   "preview": "Hardware pages fail in a specific way: the agent writes a SaaS page and drops a product photo into it. Physical products need a different argument order: material and feel before the feature list, one honest hero photograph before any render, a dense specification table, and shipping, warranty, returns and compatibility answered before the buyer has to look for them.\n\nThis prompt covers the audience model and desire-to-specs section order, product photography specified shot by shot, conveying material and weight through a screen, the variant configurator for desktop and mobile, one-time-purchase price anchoring, pre-order and backorder honesty, warranty and repairability as trust signals, certification and regulatory handling, comparison against the incumbent, and 34 numbered mistakes that make a hardware page read as dropshipping.",
+   "changelog": "v1.2.0·Added matching the studio set to the page (§5) and swatches cut from each variant's own photograph (§8). Showcase rebuilt by Claude Opus 5.5 at Max effort, now through apple-minimal, swiss-grid and playful-motion.",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/prompts/consumer-hardware",
+   "contentFile": "agent-kit/prompt-consumer-hardware.md"
+  },
+  {
+   "kind": "prompt",
+   "slug": "developer-tool",
+   "name": "Developer Tool",
+   "category": "Software",
+   "sections": 16,
+   "words": 2945,
+   "version": "v1.1.0",
+   "isFree": false,
+   "description": "Build a landing page for engineers: real code in the hero, a copy-paste quickstart, honest benchmarks, credible open-source signals, and zero marketing tics that close tabs.",
+   "produces": [],
+   "toc": [
+    {
+     "n": 1,
+     "title": "Before you write anything"
+    },
+    {
+     "n": 2,
+     "title": "Primary objective"
+    },
+    {
+     "n": 3,
+     "title": "Why the hero must contain real code"
+    },
+    {
+     "n": 4,
+     "title": "What the hero code should demonstrate"
+    },
+    {
+     "n": 5,
+     "title": "Install and quickstart block"
+    },
+    {
+     "n": 6,
+     "title": "Time to first success as a design constraint"
+    },
+    {
+     "n": 7,
+     "title": "Documentation as a conversion surface"
+    },
+    {
+     "n": 8,
+     "title": "Open-source signalling"
+    },
+    {
+     "n": 9,
+     "title": "Performance and benchmark claims"
+    },
+    {
+     "n": 10,
+     "title": "Comparison against alternatives"
+    },
+    {
+     "n": 11,
+     "title": "Pricing for developer tools"
+    },
+    {
+     "n": 12,
+     "title": "Community and ecosystem"
+    },
+    {
+     "n": 13,
+     "title": "Responsive priorities"
+    },
+    {
+     "n": 14,
+     "title": "Accessibility"
+    },
+    {
+     "n": 15,
+     "title": "Marketing tics that make engineers close the tab"
+    },
+    {
+     "n": 16,
+     "title": "Completion checklist"
+    }
+   ],
+   "preview": "Engineers are the most marketing-hostile audience on the internet. They evaluate a tool by reading its code, not its adjectives, and they close the tab the instant a page smells like it was written for a VP. A developer-tool page that leads with a value proposition instead of a runnable command has already lost the reader it wanted.\n\nThis prompt covers why the hero must contain real code or a real command, what that code should demonstrate, the install/quickstart block, \"time to first success\" as a design constraint, docs as a conversion surface, open-source signalling done right, credible benchmarks with disclosed methodology, fair comparison, developer-tool pricing (free tiers, usage-based, self-host), the community section, language coverage, and the exact marketing tics that make engineers bounce.",
+   "changelog": "v1.1.0·Added the request itself as the hero example for URL and HTTP products (§4). Showcase rebuilt by Claude Opus 5.5 at Max effort, now through terminal-dark, swiss-grid and neobrutalism.",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/prompts/developer-tool",
+   "contentFile": "agent-kit/prompt-developer-tool.md"
+  },
+  {
+   "kind": "prompt",
+   "slug": "ecommerce-brand",
+   "name": "Ecommerce Brand",
+   "category": "Commerce",
+   "sections": 16,
+   "words": 2706,
+   "version": "v1.1.0",
+   "isFree": false,
+   "description": "Build a DTC product page where every unanswered question is a lost sale: hero shot, product story, sizing, variants, shipping and returns as conversion levers, honest reviews, and a mobile-first sticky add-to-cart.",
+   "produces": [],
+   "toc": [
+    {
+     "n": 1,
+     "title": "Before you write anything"
+    },
+    {
+     "n": 2,
+     "title": "Primary objective"
+    },
+    {
+     "n": 3,
+     "title": "User journey"
+    },
+    {
+     "n": 4,
+     "title": "The hero product shot"
+    },
+    {
+     "n": 5,
+     "title": "Product story and values"
+    },
+    {
+     "n": 6,
+     "title": "Product detail and sizing"
+    },
+    {
+     "n": 7,
+     "title": "Reviews, UGC and honest social proof"
+    },
+    {
+     "n": 8,
+     "title": "Price and value justification"
+    },
+    {
+     "n": 9,
+     "title": "Shipping, returns and delivery transparency"
+    },
+    {
+     "n": 10,
+     "title": "Variants, subscriptions and bundles"
+    },
+    {
+     "n": 11,
+     "title": "Sustainability and ethical claims"
+    },
+    {
+     "n": 12,
+     "title": "Urgency and scarcity: the honest line"
+    },
+    {
+     "n": 13,
+     "title": "Add-to-cart and sticky behaviour"
+    },
+    {
+     "n": 14,
+     "title": "Mobile-first priorities and accessibility"
+    },
+    {
+     "n": 15,
+     "title": "Common mistakes to avoid"
+    },
+    {
+     "n": 16,
+     "title": "Completion checklist"
+    }
+   ],
+   "preview": "A DTC product page has one job: turn a curious visitor into a buyer before a single unanswered question sends them away. Most agent-built store pages fail the same way: a hero shot that hides the product, no answer to \"will it fit me\", shipping and returns buried in the footer, and manufactured urgency that screams dropshipping.\n\nThis prompt defines the hero shot requirements, the origin-and-values story DTC brands lead with, product detail and sizing done credibly, variant selection, shipping and returns as conversion levers, honest handling of a low review count, subscription and bundle patterns, substantiated sustainability claims, the honest line on scarcity, sticky add-to-cart behaviour, mobile-first priorities, and 30 mistakes that make a page feel like a dropshipping store.",
+   "changelog": "v1.1.0·Added the fit line inside the size picker (§6), the honest bundle anchor (§8), and sold-out colours that are struck rather than faded (§10). Showcase rebuilt by Claude Opus 5.5 at Max effort, now through luxury-serif, playful-motion and editorial.",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/prompts/ecommerce-brand",
+   "contentFile": "agent-kit/prompt-ecommerce-brand.md"
+  },
+  {
+   "kind": "prompt",
+   "slug": "fintech",
+   "name": "Fintech",
+   "category": "Finance",
+   "sections": 15,
+   "words": 3138,
+   "version": "v1.1.0",
+   "isFree": false,
+   "description": "Build a financial product page where trust is the design problem: licensing, deposit protection, security, fee transparency, and required risk disclosures placed to convert.",
+   "produces": [],
+   "toc": [
+    {
+     "n": 1,
+     "title": "Before you write anything"
+    },
+    {
+     "n": 2,
+     "title": "Primary objective"
+    },
+    {
+     "n": 3,
+     "title": "The trust ladder for money"
+    },
+    {
+     "n": 4,
+     "title": "Required disclosures and risk warnings"
+    },
+    {
+     "n": 5,
+     "title": "Fee transparency"
+    },
+    {
+     "n": 6,
+     "title": "Rate and APR presentation"
+    },
+    {
+     "n": 7,
+     "title": "Onboarding and KYC expectation-setting"
+    },
+    {
+     "n": 8,
+     "title": "Consumer vs infrastructure fintech"
+    },
+    {
+     "n": 9,
+     "title": "The security section"
+    },
+    {
+     "n": 10,
+     "title": "Social proof that works for money"
+    },
+    {
+     "n": 11,
+     "title": "Comparison against incumbents"
+    },
+    {
+     "n": 12,
+     "title": "Responsive priorities"
+    },
+    {
+     "n": 13,
+     "title": "Accessibility"
+    },
+    {
+     "n": 14,
+     "title": "Common mistakes that make a fintech page read as a scam"
+    },
+    {
+     "n": 15,
+     "title": "Completion checklist"
+    }
+   ],
+   "preview": "A fintech page has a problem no SaaS page has: the visitor is being asked to move money, and the internet has trained them to assume any slick money app is a scam. Trust is not a section. It is the whole design brief. Get the disclosures, the licensing, and the fee transparency wrong and the page reads as fraud no matter how good the visuals are.\n\nThis prompt covers the trust ladder specific to money (licensing, regulator registration, deposit protection, custody, audits, security architecture), the required legal disclosures and risk warnings and how to place them without wrecking the page, fee and APR transparency, how a consumer fintech page diverges from an API/infrastructure page, KYC expectation-setting, financial-grade social proof, incumbent comparison, and the specific tics that make a fintech page read as a scam.",
+   "changelog": "v1.1.0·Added joint-account deposit protection (§3), the disclosure band under the hero (§4) and the exact worked example for deposits (§6). Showcase rebuilt by Claude Opus 5.5 at Max effort.",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/prompts/fintech",
+   "contentFile": "agent-kit/prompt-fintech.md"
+  },
+  {
+   "kind": "prompt",
+   "slug": "fitness",
+   "name": "Fitness",
+   "category": "Health",
+   "sections": 15,
+   "words": 2942,
+   "version": "v1.1.0",
+   "isFree": false,
+   "description": "Build a fitness page that converts an emotional decision into a booked trial: transformation framing without unfounded claims, schedule UI that works on mobile, honest proof, and transparent pricing.",
+   "produces": [],
+   "toc": [
+    {
+     "n": 1,
+     "title": "Before you write anything"
+    },
+    {
+     "n": 2,
+     "title": "Primary objective"
+    },
+    {
+     "n": 3,
+     "title": "User journey"
+    },
+    {
+     "n": 4,
+     "title": "Required page structure by business type"
+    },
+    {
+     "n": 5,
+     "title": "The transformation promise, honestly"
+    },
+    {
+     "n": 6,
+     "title": "Schedule and timetable UI"
+    },
+    {
+     "n": 7,
+     "title": "Programme and membership structure"
+    },
+    {
+     "n": 8,
+     "title": "The trial offer as the primary conversion"
+    },
+    {
+     "n": 9,
+     "title": "Trainer and coach credibility"
+    },
+    {
+     "n": 10,
+     "title": "Honest before/after and results imagery"
+    },
+    {
+     "n": 11,
+     "title": "Pricing and contract transparency"
+    },
+    {
+     "n": 12,
+     "title": "Location, hours and finding us"
+    },
+    {
+     "n": 13,
+     "title": "Accessibility and inclusivity"
+    },
+    {
+     "n": 14,
+     "title": "Common mistakes to avoid"
+    },
+    {
+     "n": 15,
+     "title": "Completion checklist"
+    }
+   ],
+   "preview": "A fitness page sells self-image, not equipment. Most agent-built gym and coaching pages fail the same way: a hero promise that would trigger a health regulator, a class timetable that is unreadable on the phone every member actually uses, and before/after photos that read as fabricated the moment a real human looks at them.\n\nThis prompt defines the three distinct structures: physical gym, online coaching, and fitness app. It also covers the transformation promise done honestly, a concrete schedule and timetable UI for desktop and mobile, the trial offer as the primary conversion, trainer credibility rules, contract and cancellation transparency, member proof with attribution, inclusive imagery, and 28 fitness-specific mistakes to avoid.",
+   "changelog": "v1.1.0·Added a process promise tied to the offer (§5) and the next free sessions in the hero (§8). Showcase rebuilt by Claude Opus 5.5 at Max effort.",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/prompts/fitness",
+   "contentFile": "agent-kit/prompt-fitness.md"
+  },
+  {
+   "kind": "prompt",
+   "slug": "real-estate",
+   "name": "Real Estate",
+   "category": "Property",
+   "sections": 15,
+   "words": 2844,
+   "version": "v1.1.0",
+   "isFree": false,
+   "description": "Build a property page where imagery does the selling for a single listing, development launch, or brokerage, with a shot-ordered gallery, mobile-readable floor plans, spec tables, and a viewing-request conversion.",
+   "produces": [],
+   "toc": [
+    {
+     "n": 1,
+     "title": "Before you write anything"
+    },
+    {
+     "n": 2,
+     "title": "Primary objective"
+    },
+    {
+     "n": 3,
+     "title": "Structure by page type"
+    },
+    {
+     "n": 4,
+     "title": "Photography and gallery"
+    },
+    {
+     "n": 5,
+     "title": "Floor plans"
+    },
+    {
+     "n": 6,
+     "title": "Specification and detail table"
+    },
+    {
+     "n": 7,
+     "title": "Location and neighbourhood"
+    },
+    {
+     "n": 8,
+     "title": "Virtual tours, video and viewing conversion"
+    },
+    {
+     "n": 9,
+     "title": "Availability and unit selectors (developments)"
+    },
+    {
+     "n": 10,
+     "title": "Price presentation"
+    },
+    {
+     "n": 11,
+     "title": "Legal and regulatory notices"
+    },
+    {
+     "n": 12,
+     "title": "Agent and firm credibility"
+    },
+    {
+     "n": 13,
+     "title": "Accessibility and performance"
+    },
+    {
+     "n": 14,
+     "title": "Common mistakes to avoid"
+    },
+    {
+     "n": 15,
+     "title": "Completion checklist"
+    }
+   ],
+   "preview": "Property is a high-value, slow decision, and photography does most of the work. Most agent-built property pages fail on the parts that matter: a weak first image that kills the listing before the scroll, floor plans that are unreadable on a phone, missing spec facts a serious buyer needs, and a viewing form buried below the fold.\n\nThis prompt defines the three distinct structures for single listings, development launches, and brokerages, plus the gallery shot list and ordering, floor-plan presentation for mobile, the specification table, neighbourhood context that works without a dead map, availability and unit-selector interfaces, price-on-application logic, agent credibility, a general pattern for legal notices, and 30 mistakes that make a property page feel like a scam listing.",
+   "changelog": "v1.1.0·Added one property from one shoot (§4) and the open house in the hero (§8). Showcase rebuilt by Claude Opus 5.5 at Max effort.",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/prompts/real-estate",
+   "contentFile": "agent-kit/prompt-real-estate.md"
+  },
+  {
+   "kind": "prompt",
+   "slug": "saas",
+   "name": "SaaS Landing Page",
+   "category": "Software",
+   "sections": 14,
+   "words": 2577,
+   "version": "v1.1.0",
+   "isFree": false,
+   "description": "Build a SaaS landing page that converts self-serve signups through problem framing, product proof, objection handling, pricing clarity, and a single dominant CTA.",
+   "produces": [],
+   "toc": [
+    {
+     "n": 1,
+     "title": "Before you write anything"
+    },
+    {
+     "n": 2,
+     "title": "Primary objective"
+    },
+    {
+     "n": 3,
+     "title": "User journey"
+    },
+    {
+     "n": 4,
+     "title": "Required page structure"
+    },
+    {
+     "n": 5,
+     "title": "Content guidance"
+    },
+    {
+     "n": 6,
+     "title": "CTA strategy"
+    },
+    {
+     "n": 7,
+     "title": "Trust ladder"
+    },
+    {
+     "n": 8,
+     "title": "Pricing presentation"
+    },
+    {
+     "n": 9,
+     "title": "Navigation requirements"
+    },
+    {
+     "n": 10,
+     "title": "Responsive priorities"
+    },
+    {
+     "n": 11,
+     "title": "Accessibility"
+    },
+    {
+     "n": 12,
+     "title": "Industry-specific considerations"
+    },
+    {
+     "n": 13,
+     "title": "Common mistakes to avoid"
+    },
+    {
+     "n": 14,
+     "title": "Completion checklist"
+    }
+   ],
+   "preview": "A SaaS landing page has one job: get a qualified visitor to start. Most agent-built SaaS pages fail because they describe the software instead of the outcome, bury the product behind three scrolls of abstract benefit copy, and scatter five competing CTAs across the page.\n\nThis prompt defines the audience model, the required page structure and section order, the exact questions each section must answer, the CTA hierarchy, the trust ladder (and when each rung is a liability rather than an asset), pricing presentation rules, and 20+ SaaS-specific mistakes to avoid, from \"our AI-powered platform\" headlines to feature tables nobody reads.",
+   "changelog": "v1.1.0·Added the product's own artefact as the capability visual (§5). Showcase rebuilt by Claude Opus 5.5 at Max effort, now through apple-minimal, terminal- dark and corporate-trust.",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/prompts/saas",
+   "contentFile": "agent-kit/prompt-saas.md"
+  }
+ ],
+ "recipes": [
+  {
+   "kind": "recipe",
+   "slug": "agency-homepage",
+   "name": "Agency Homepage",
+   "category": "Marketing",
+   "sections": 9,
+   "words": 3649,
+   "version": "v1.2.0",
+   "isFree": false,
+   "description": "A tested 10-block arrangement that assembles a complete creative or technical studio homepage (positioning through enquiry) from React Bits Pro blocks in one prompt.",
+   "produces": [
+    "The page Agency Homepage assembles, built for real by Claude Opus 5.5 at Max effort rather than mocked up: the finished thing end to end, the ordered block set it is made of, and the harmonization pass that turns those blocks into one page instead of a stack of unrelated sections.",
+    "Common Room, assembled from ten blocks in plan order",
+    "The bill of materials: each block as it ships on the page"
+   ],
+   "toc": [
+    {
+     "n": 1,
+     "title": "When to use this recipe"
+    },
+    {
+     "n": 2,
+     "title": "The prompt"
+    },
+    {
+     "n": 3,
+     "title": "Block set and order"
+    },
+    {
+     "n": 4,
+     "title": "Content plan per block"
+    },
+    {
+     "n": 5,
+     "title": "The harmonization pass"
+    },
+    {
+     "n": 6,
+     "title": "Adapting the result"
+    },
+    {
+     "n": 7,
+     "title": "Pairing with a skill"
+    },
+    {
+     "n": 8,
+     "title": "Working without React Bits Pro"
+    },
+    {
+     "n": 9,
+     "title": "Completion checklist"
+    }
+   ],
+   "preview": "A recipe is a prompt with a bill of materials. This one produces a full studio homepage from ten React Bits Pro blocks in a fixed order, built to convert a qualified enquiry rather than a signup, with the role of each block, the content it must carry, and the configuration the agent should apply.\n\nBecause the block set and order live as structured data in plan.json, the same recipe drives an agent prompt today and the visual Landing Builder later. It ships a content plan for every block, a harmonization pass that makes the ten independently authored blocks read as one page, an adaptation guide for design-led versus engineering-led studios, guidance on pairing it with a visual skill, and a fallback path for projects without the Pro registry.",
+   "changelog": "v1.2.0·Corrected §5.4: social-proof-6 also animates on mount and about-1's timer runs from page load. Moved reduced motion to one root MotionConfig, and described how skill-editorial changes three §5 values (§7). Showcase rebuilt by Claude Opus 5.5 at Max effort: the assembled page, the bill of materials, and the §5.6 counts measured on the render.",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/recipes/agency-homepage",
+   "contentFile": "agent-kit/recipe-agency-homepage.md"
+  },
+  {
+   "kind": "recipe",
+   "slug": "product-launch",
+   "name": "Product Launch Page",
+   "category": "Launch",
+   "sections": 10,
+   "words": 3764,
+   "version": "v1.2.0",
+   "isFree": false,
+   "description": "A tested block arrangement that assembles a full product-launch page from React Bits Pro blocks (announcement hero through waitlist capture) in one prompt.",
+   "produces": [
+    "The page Product Launch Page assembles, built for real by Claude Opus 5.5 at Max effort rather than mocked up: the finished thing end to end, the ordered block set it is made of, and the harmonization pass that turns those blocks into one page instead of a stack of unrelated sections.",
+    "Eddy, assembled from eleven blocks in plan order",
+    "The bill of materials: each block as it ships on the page"
+   ],
+   "toc": [
+    {
+     "n": 1,
+     "title": "When to use this recipe"
+    },
+    {
+     "n": 2,
+     "title": "The prompt"
+    },
+    {
+     "n": 3,
+     "title": "Block set and order"
+    },
+    {
+     "n": 4,
+     "title": "Content plan per block"
+    },
+    {
+     "n": 5,
+     "title": "The harmonization pass"
+    },
+    {
+     "n": 6,
+     "title": "Launch mechanics: countdown, scarcity, and the day after"
+    },
+    {
+     "n": 7,
+     "title": "Adapting the result"
+    },
+    {
+     "n": 8,
+     "title": "Pairing with a skill"
+    },
+    {
+     "n": 9,
+     "title": "Working without React Bits Pro"
+    },
+    {
+     "n": 10,
+     "title": "Completion checklist"
+    }
+   ],
+   "preview": "A recipe is a prompt with a bill of materials. This one produces a complete product-launch page from eleven React Bits Pro blocks in a fixed order, with the role of each block, the content it should carry, and the configuration the agent should apply.\n\nBecause the block set and order are declared as structured data (`plan.json`), the same recipe drives an agent prompt today and the visual Landing Builder later. It ships a full harmonization pass that unifies type, colour, layout and scroll motion across the blocks so they read as one page, plus an adaptation guide for the two common variants (pre-launch waitlist versus available-now) and a fallback path for projects without the Pro registry.",
+   "changelog": "v1.2.0·Corrected social-proof-4 (a testimonial wall) and features-6 (a card grid) (§3, §4, §8), gave each launch branch its own install command with social- proof-4 included (§3), and covered the loops, reduced motion and a hero shader under a skill with its own accent (§5). Showcase rebuilt by Claude Opus 5.5 at Max effort: the assembled page, the bill of materials, and the §5.6 counts measured on the r",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/recipes/product-launch",
+   "contentFile": "agent-kit/recipe-product-launch.md"
+  },
+  {
+   "kind": "recipe",
+   "slug": "saas-homepage",
+   "name": "SaaS Homepage",
+   "category": "Marketing",
+   "sections": 9,
+   "words": 3400,
+   "version": "v1.2.0",
+   "isFree": false,
+   "description": "A tested 13-block arrangement that assembles a complete self-serve B2B SaaS homepage (navigation through footer) from React Bits Pro blocks in one prompt.",
+   "produces": [
+    "The page SaaS Homepage assembles, built for real by Claude Opus 5.5 at Max effort rather than mocked up: the finished thing end to end, the ordered block set it is made of, and the harmonization pass that turns those blocks into one page instead of a stack of unrelated sections.",
+    "Tern, assembled from thirteen blocks in plan order",
+    "The bill of materials: each block as it ships on the page"
+   ],
+   "toc": [
+    {
+     "n": 1,
+     "title": "When to use this recipe"
+    },
+    {
+     "n": 2,
+     "title": "The prompt"
+    },
+    {
+     "n": 3,
+     "title": "Block set and order"
+    },
+    {
+     "n": 4,
+     "title": "Content plan per block"
+    },
+    {
+     "n": 5,
+     "title": "The harmonization pass"
+    },
+    {
+     "n": 6,
+     "title": "Adapting the result"
+    },
+    {
+     "n": 7,
+     "title": "Pairing with a skill"
+    },
+    {
+     "n": 8,
+     "title": "Working without React Bits Pro"
+    },
+    {
+     "n": 9,
+     "title": "Completion checklist"
+    }
+   ],
+   "preview": "A recipe is a prompt with a bill of materials. This one produces a full self-serve SaaS homepage from thirteen React Bits Pro blocks in a fixed order, with the role of each block, the content it must carry, and the configuration the agent should apply.\n\nBecause the block set and order live as structured data in plan.json, the same recipe drives an agent prompt today and the visual Landing Builder later. It ships a content plan for every block, a harmonization pass that makes the thirteen independently authored blocks read as one page (type, colour, layout, motion), an adaptation guide for product-led versus sales-assisted variants, guidance on pairing it with a visual skill, and a fallback path for projects that do not have the Pro registry configured.",
+   "changelog": "v1.2.0·Corrected stats-3, which runs an endless drift rather than counters (§3, §5.4, §5.5), and moved reduced motion to one root MotionConfig (§5.4). Showcase rebuilt by Claude Opus 5.5 at Max effort: the assembled page, the bill of materials, and the §5.6 counts measured on the render.",
+   "href": "https://pro.reactbits.dev/docs/agent-kit/recipes/saas-homepage",
+   "contentFile": "agent-kit/recipe-saas-homepage.md"
+  }
+ ]
+}

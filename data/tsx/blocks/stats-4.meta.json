@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/stats-4",
+ "slug": "stats-4",
+ "name": "Stats 4",
+ "description": "Two columns with a 2x2 stat grid",
+ "category": "Stats",
+ "categorySlug": "stats",
+ "exportName": "Stats4",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/stats/stats-4.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/stats-4",
+ "lang": "jsx",
+ "codeFile": "code/blocks/stats-4.txt",
+ "codeLen": 148296,
+ "role": "section",
+ "previewHeight": 550,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "stats",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/stats/stats-4.tsx",
+ "needInline": []
+}

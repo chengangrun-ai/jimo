@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/contact-sheet",
+ "slug": "contact-sheet",
+ "name": "Contact Sheet",
+ "description": "Photos streaming out of the center, developing like prints",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "images",
+  "webgl",
+  "interactive",
+  "showcase"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/contact-sheet",
+ "lang": "jsx",
+ "codeFile": "code/components/contact-sheet.txt",
+ "codeLen": 35381,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/click-stack",
+ "slug": "click-stack",
+ "name": "Click Stack",
+ "description": "A stack of cards you click through",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "interaction",
+  "cards",
+  "ui"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/click-stack",
+ "lang": "jsx",
+ "codeFile": "code/components/click-stack.txt",
+ "codeLen": 9740,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "82637",
+  "90650"
+ ]
+}

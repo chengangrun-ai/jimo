@@ -1,0 +1,24 @@
+{
+ "id": "pro:component/blur-highlight",
+ "slug": "blur-highlight",
+ "name": "Blur Highlight",
+ "description": "A paragraph that blurs in and highlights key phrases",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "text"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/blur-highlight",
+ "lang": "jsx",
+ "codeFile": "code/components/blur-highlight.txt",
+ "codeLen": 10098,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81106",
+  "89846"
+ ]
+}

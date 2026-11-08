@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/elastic-lettering",
+ "slug": "elastic-lettering",
+ "name": "Elastic Lettering",
+ "description": "A headline you can grab, stretch and fling like an elastic band",
+ "category": "text",
+ "tier": "starter",
+ "tags": [
+  "text",
+  "interactive",
+  "physics",
+  "drag",
+  "animation"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/elastic-lettering",
+ "lang": "jsx",
+ "codeFile": "code/components/elastic-lettering.txt",
+ "codeLen": 22157,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "90650"
+ ]
+}

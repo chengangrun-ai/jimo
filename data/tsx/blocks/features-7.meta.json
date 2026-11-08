@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/features-7",
+ "slug": "features-7",
+ "name": "Features 7",
+ "description": "Alternating feature rows with mockups",
+ "category": "Features",
+ "categorySlug": "features",
+ "exportName": "Features7",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/features/features-7.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/features-7",
+ "lang": "jsx",
+ "codeFile": "code/blocks/features-7.txt",
+ "codeLen": 144925,
+ "role": "section",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "features",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/features/features-7.tsx",
+ "needInline": []
+}

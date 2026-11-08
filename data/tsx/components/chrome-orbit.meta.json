@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/chrome-orbit",
+ "slug": "chrome-orbit",
+ "name": "Chrome Orbit",
+ "description": "Nested chrome rings that turn like a gyroscope and swing into a halo on click",
+ "category": "3d",
+ "tier": "starter",
+ "tags": [
+  "3d",
+  "webgl",
+  "interactive",
+  "chrome"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/chrome-orbit",
+ "lang": "jsx",
+ "codeFile": "code/components/chrome-orbit.txt",
+ "codeLen": 20047,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

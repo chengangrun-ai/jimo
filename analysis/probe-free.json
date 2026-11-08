@@ -1,0 +1,204 @@
+{
+ "kind": "free",
+ "total": 182,
+ "pass": 154,
+ "fail": 28,
+ "failures": [
+  {
+   "kind": "free",
+   "slug": "crystalized-ball",
+   "ok": false,
+   "stage": "empty",
+   "len": 36
+  },
+  {
+   "kind": "free",
+   "slug": "blob-cursor",
+   "ok": false,
+   "stage": "empty",
+   "len": 31
+  },
+  {
+   "kind": "free",
+   "slug": "dither-veil",
+   "ok": false,
+   "stage": "empty",
+   "len": 31
+  },
+  {
+   "kind": "free",
+   "slug": "image-trail",
+   "ok": false,
+   "stage": "empty",
+   "len": 93
+  },
+  {
+   "kind": "free",
+   "slug": "gradual-blur",
+   "ok": false,
+   "stage": "empty",
+   "len": 4303
+  },
+  {
+   "kind": "free",
+   "slug": "electric-logo",
+   "ok": false,
+   "stage": "empty",
+   "len": 33
+  },
+  {
+   "kind": "free",
+   "slug": "pixel-swap",
+   "ok": false,
+   "stage": "empty",
+   "len": 262
+  },
+  {
+   "kind": "free",
+   "slug": "ripple-distortion",
+   "ok": false,
+   "stage": "empty",
+   "len": 37
+  },
+  {
+   "kind": "free",
+   "slug": "strands",
+   "ok": false,
+   "stage": "empty",
+   "len": 37
+  },
+  {
+   "kind": "free",
+   "slug": "target-cursor",
+   "ok": false,
+   "stage": "empty",
+   "len": 0
+  },
+  {
+   "kind": "free",
+   "slug": "aero-shards",
+   "ok": false,
+   "stage": "empty",
+   "len": 31
+  },
+  {
+   "kind": "free",
+   "slug": "crt-warp",
+   "ok": false,
+   "stage": "empty",
+   "len": 38
+  },
+  {
+   "kind": "free",
+   "slug": "color-bends",
+   "ok": false,
+   "stage": "empty",
+   "len": 51
+  },
+  {
+   "kind": "free",
+   "slug": "gradient-waves",
+   "ok": false,
+   "stage": "empty",
+   "len": 44
+  },
+  {
+   "kind": "free",
+   "slug": "grid-motion",
+   "ok": false,
+   "stage": "empty",
+   "len": 3454
+  },
+  {
+   "kind": "free",
+   "slug": "hyperspeed",
+   "ok": false,
+   "stage": "empty",
+   "len": 30
+  },
+  {
+   "kind": "free",
+   "slug": "micro-slats",
+   "ok": false,
+   "stage": "empty",
+   "len": 31
+  },
+  {
+   "kind": "free",
+   "slug": "pattern-waves",
+   "ok": false,
+   "stage": "empty",
+   "len": 33
+  },
+  {
+   "kind": "free",
+   "slug": "molten-metal",
+   "ok": false,
+   "stage": "empty",
+   "len": 42
+  },
+  {
+   "kind": "free",
+   "slug": "web-threads",
+   "ok": false,
+   "stage": "empty",
+   "len": 41
+  },
+  {
+   "kind": "free",
+   "slug": "bubble-menu",
+   "ok": false,
+   "stage": "empty",
+   "len": 439
+  },
+  {
+   "kind": "free",
+   "slug": "curved-input",
+   "ok": false,
+   "stage": "empty",
+   "len": 250
+  },
+  {
+   "kind": "free",
+   "slug": "flowing-menu",
+   "ok": false,
+   "stage": "empty",
+   "len": 219
+  },
+  {
+   "kind": "free",
+   "slug": "lanyard",
+   "ok": false,
+   "stage": "empty",
+   "len": 27
+  },
+  {
+   "kind": "free",
+   "slug": "masonry",
+   "ok": false,
+   "stage": "empty",
+   "len": 87
+  },
+  {
+   "kind": "free",
+   "slug": "scroll-velocity",
+   "ok": false,
+   "stage": "empty",
+   "len": 38
+  },
+  {
+   "kind": "free",
+   "slug": "text-cursor",
+   "ok": false,
+   "stage": "empty",
+   "len": 166
+  },
+  {
+   "kind": "free",
+   "slug": "warp-text",
+   "ok": false,
+   "stage": "empty",
+   "len": 69
+  }
+ ]
+}

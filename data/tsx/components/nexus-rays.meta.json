@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/nexus-rays",
+ "slug": "nexus-rays",
+ "name": "Nexus Rays",
+ "description": "Laser beams radiating from a glowing core",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "webgl",
+  "laser",
+  "light",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/nexus-rays",
+ "lang": "jsx",
+ "codeFile": "code/components/nexus-rays.txt",
+ "codeLen": 23783,
+ "needInline": [
+  "86049",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

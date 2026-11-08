@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/pricing-10",
+ "slug": "pricing-10",
+ "name": "Pricing 10",
+ "description": "Two plans with a usage slider",
+ "category": "Pricing",
+ "categorySlug": "pricing",
+ "exportName": "Pricing10",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/pricing/pricing-10.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/pricing-10",
+ "lang": "jsx",
+ "codeFile": "code/blocks/pricing-10.txt",
+ "codeLen": 156753,
+ "role": "section",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "pricing",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/pricing/pricing-10.tsx",
+ "needInline": []
+}

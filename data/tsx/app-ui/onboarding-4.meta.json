@@ -1,0 +1,24 @@
+{
+ "id": "pro:app-ui/sorbet/onboarding-4",
+ "slug": "onboarding-4",
+ "name": "Onboarding 4",
+ "description": "",
+ "category": "onboarding",
+ "style": "sorbet",
+ "href": "https://pro.reactbits.dev/docs/app-ui/onboarding-4",
+ "lang": "jsx",
+ "codeFile": "code/app-ui/onboarding-4.txt",
+ "codeLen": 11189,
+ "needInline": [
+  "22728",
+  "31517",
+  "90987",
+  "34951",
+  "89886",
+  "1497",
+  "62714",
+  "89289",
+  "6450",
+  "55299"
+ ]
+}

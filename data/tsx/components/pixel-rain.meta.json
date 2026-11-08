@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/pixel-rain",
+ "slug": "pixel-rain",
+ "name": "Pixel Rain",
+ "description": "Pixelated streaks falling in a quiet digital rain",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "rain",
+  "pixel",
+  "webgl",
+  "ambient"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/pixel-rain",
+ "lang": "jsx",
+ "codeFile": "code/components/pixel-rain.txt",
+ "codeLen": 14612,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

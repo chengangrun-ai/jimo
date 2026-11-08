@@ -1,0 +1,22 @@
+{
+ "id": "pro:component/text-path",
+ "slug": "text-path",
+ "name": "Text Path",
+ "description": "Text that flows along a curved path",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "text"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/text-path",
+ "lang": "jsx",
+ "codeFile": "code/components/text-path.txt",
+ "codeLen": 8022,
+ "needInline": [
+  "56388",
+  "90761",
+  "82637",
+  "55783"
+ ]
+}

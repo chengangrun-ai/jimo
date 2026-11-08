@@ -1,0 +1,22 @@
+{
+ "id": "pro:component/text-scatter",
+ "slug": "text-scatter",
+ "name": "Text Scatter",
+ "description": "Letters that scatter on hover and fall back into place",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "text"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/text-scatter",
+ "lang": "jsx",
+ "codeFile": "code/components/text-scatter.txt",
+ "codeLen": 5053,
+ "needInline": [
+  "56388",
+  "90761",
+  "82637",
+  "14626"
+ ]
+}

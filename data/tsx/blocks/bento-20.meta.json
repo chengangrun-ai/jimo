@@ -1,0 +1,41 @@
+{
+ "id": "pro:block/bento-20",
+ "slug": "bento-20",
+ "name": "Bento 20",
+ "description": "Rocket launch with a live exhaust plume",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento20",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-20.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-20",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-20.txt",
+ "codeLen": 155003,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-20.tsx",
+ "needInline": [
+  "50969",
+  "75272",
+  "17192",
+  "32923"
+ ]
+}

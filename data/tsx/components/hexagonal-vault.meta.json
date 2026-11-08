@@ -1,0 +1,30 @@
+{
+ "id": "pro:component/hexagonal-vault",
+ "slug": "hexagonal-vault",
+ "name": "Hexagonal Vault",
+ "description": "A hexagon grid lit by a soft light that follows the cursor",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "webgl",
+  "hexagon",
+  "grid",
+  "light",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/hexagonal-vault",
+ "lang": "jsx",
+ "codeFile": "code/components/hexagonal-vault.txt",
+ "codeLen": 30165,
+ "needInline": [
+  "86049",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

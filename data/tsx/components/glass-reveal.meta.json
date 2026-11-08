@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/glass-reveal",
+ "slug": "glass-reveal",
+ "name": "Glass Reveal",
+ "description": "A glass lens that reveals one image through another",
+ "category": "lens",
+ "tier": "starter",
+ "tags": [
+  "lens",
+  "reveal",
+  "webgl",
+  "shader",
+  "images",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/glass-reveal",
+ "lang": "jsx",
+ "codeFile": "code/components/glass-reveal.txt",
+ "codeLen": 16441,
+ "needInline": [
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "50969",
+  "2253",
+  "90650"
+ ]
+}

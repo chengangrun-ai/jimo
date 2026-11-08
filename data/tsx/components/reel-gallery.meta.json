@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/reel-gallery",
+ "slug": "reel-gallery",
+ "name": "Reel Gallery",
+ "description": "Tilted reels of images that glide as you scroll",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "images",
+  "scroll",
+  "marquee",
+  "showcase",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/reel-gallery",
+ "lang": "jsx",
+ "codeFile": "code/components/reel-gallery.txt",
+ "codeLen": 22205,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/perspective-grid",
+ "slug": "perspective-grid",
+ "name": "Perspective Grid",
+ "description": "An endless grid scrolling toward the horizon",
+ "category": "3d",
+ "tier": "starter",
+ "tags": [
+  "3d",
+  "grid",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/perspective-grid",
+ "lang": "jsx",
+ "codeFile": "code/components/perspective-grid.txt",
+ "codeLen": 11114,
+ "needInline": [
+  "56388",
+  "48543",
+  "90761",
+  "12246",
+  "2253",
+  "90650",
+  "30701"
+ ]
+}

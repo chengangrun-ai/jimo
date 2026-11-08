@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/social-proof-3",
+ "slug": "social-proof-3",
+ "name": "Social Proof 3",
+ "description": "Bento testimonial grid with blur cards",
+ "category": "Social Proof",
+ "categorySlug": "social-proof",
+ "exportName": "SocialProof3",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/social-proof/social-proof-3.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/social-proof-3",
+ "lang": "jsx",
+ "codeFile": "code/blocks/social-proof-3.txt",
+ "codeLen": 147341,
+ "role": "section",
+ "previewHeight": 725,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "social-proof",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/social-proof/social-proof-3.tsx",
+ "needInline": []
+}

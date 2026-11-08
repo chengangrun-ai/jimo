@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/speeding-text",
+ "slug": "speeding-text",
+ "name": "Speeding Text",
+ "description": "Numbers or words that change with a speed blur",
+ "category": "text",
+ "tier": "starter",
+ "tags": [
+  "text",
+  "marquee",
+  "speed",
+  "motion",
+  "blur",
+  "kinetic"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/speeding-text",
+ "lang": "jsx",
+ "codeFile": "code/components/speeding-text.txt",
+ "codeLen": 13769,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81106",
+  "90650"
+ ]
+}

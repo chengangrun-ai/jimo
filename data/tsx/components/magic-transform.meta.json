@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/magic-transform",
+ "slug": "magic-transform",
+ "name": "Magic Transform",
+ "description": "Documents fly in and come out as colorful results",
+ "category": "ai",
+ "tier": "starter",
+ "tags": [
+  "ai",
+  "pipeline",
+  "data",
+  "transform",
+  "marketing",
+  "motion",
+  "ui"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/magic-transform",
+ "lang": "jsx",
+ "codeFile": "code/components/magic-transform.txt",
+ "codeLen": 20140,
+ "needInline": [
+  "56388",
+  "90761",
+  "90650"
+ ]
+}

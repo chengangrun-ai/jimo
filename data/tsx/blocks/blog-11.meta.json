@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/blog-11",
+ "slug": "blog-11",
+ "name": "Blog 11",
+ "description": "Featured essay with a reading list",
+ "category": "Blog",
+ "categorySlug": "blog",
+ "exportName": "Blog11",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/blog/blog-11.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/blog-11",
+ "lang": "jsx",
+ "codeFile": "code/blocks/blog-11.txt",
+ "codeLen": 151733,
+ "role": "section",
+ "previewHeight": 1050,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "blog",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/blog/blog-11.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

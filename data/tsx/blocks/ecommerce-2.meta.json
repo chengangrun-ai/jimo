@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/ecommerce-2",
+ "slug": "ecommerce-2",
+ "name": "Ecommerce 2",
+ "description": "Product catalog with brand filters",
+ "category": "Ecommerce",
+ "categorySlug": "ecommerce",
+ "exportName": "Ecommerce2",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/ecommerce/ecommerce-2.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/ecommerce-2",
+ "lang": "jsx",
+ "codeFile": "code/blocks/ecommerce-2.txt",
+ "codeLen": 154679,
+ "role": "section",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "ecommerce",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/ecommerce/ecommerce-2.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

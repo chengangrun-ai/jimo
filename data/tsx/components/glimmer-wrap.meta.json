@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/glimmer-wrap",
+ "slug": "glimmer-wrap",
+ "name": "Glimmer Wrap",
+ "description": "A field of fine glints drifting past, flashing as they catch the light",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "webgl",
+  "particles",
+  "stars",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/glimmer-wrap",
+ "lang": "jsx",
+ "codeFile": "code/components/glimmer-wrap.txt",
+ "codeLen": 28617,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

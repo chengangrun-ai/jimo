@@ -1,0 +1,22 @@
+/**
+ * 内部辅助模块 22154（Next.js 框架 API 替身）
+ *
+ * 反编译时把 Next.js 的内部模块误当成了组件依赖。原始 webpack 形态是
+ * Object.defineProperty(t, ...) + e.exports，直接按 ESM 打包会语法错误。
+ * 组件预览不需要 Next 的真实路由实现，这里给不会崩的安全替身。
+ */
+const useParams = () => ({});
+const usePathname = () => '/';
+const useRouter = () => ({
+  push: () => {}, replace: () => {}, back: () => {}, forward: () => {},
+  refresh: () => {}, prefetch: () => {},
+});
+const useSearchParams = () => ({
+  get: () => null, getAll: () => [], has: () => false,
+  keys: () => [][Symbol.iterator](), values: () => [][Symbol.iterator](),
+  entries: () => [][Symbol.iterator](), forEach: () => {},
+  toString: () => '', [Symbol.iterator]: () => [][Symbol.iterator](),
+});
+
+export { useParams, usePathname, useRouter, useSearchParams };
+export default { useParams, usePathname, useRouter, useSearchParams };

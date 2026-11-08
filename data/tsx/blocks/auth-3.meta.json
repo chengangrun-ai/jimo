@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/auth-3",
+ "slug": "auth-3",
+ "name": "Auth 3",
+ "description": "Centered sign-in card over an image",
+ "category": "Auth",
+ "categorySlug": "auth",
+ "exportName": "Auth3",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/auth/auth-3.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/auth-3",
+ "lang": "jsx",
+ "codeFile": "code/blocks/auth-3.txt",
+ "codeLen": 150039,
+ "role": "page",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "div",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "auth",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/auth/auth-3.tsx",
+ "needInline": []
+}

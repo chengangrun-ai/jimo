@@ -1,0 +1,34 @@
+{
+ "id": "pro:block/blog-3",
+ "slug": "blog-3",
+ "name": "Blog 3",
+ "description": "Blog with sidebar filters",
+ "category": "Blog",
+ "categorySlug": "blog",
+ "exportName": "Blog3",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/blog/blog-3.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/blog-3",
+ "lang": "jsx",
+ "codeFile": "code/blocks/blog-3.txt",
+ "codeLen": 147857,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "blog",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/blog/blog-3.tsx",
+ "needInline": []
+}

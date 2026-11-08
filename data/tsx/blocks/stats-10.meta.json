@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/stats-10",
+ "slug": "stats-10",
+ "name": "Stats 10",
+ "description": "Color-blocked cards with count-ups",
+ "category": "Stats",
+ "categorySlug": "stats",
+ "exportName": "Stats10",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/stats/stats-10.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/stats-10",
+ "lang": "jsx",
+ "codeFile": "code/blocks/stats-10.txt",
+ "codeLen": 151884,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "stats",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/stats/stats-10.tsx",
+ "needInline": [
+  "87974"
+ ]
+}

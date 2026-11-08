@@ -1,0 +1,316 @@
+{
+ "kind": "components",
+ "total": 231,
+ "domOk": 185,
+ "fail": 46,
+ "failures": [
+  {
+   "kind": "components",
+   "slug": "3d-text-reveal",
+   "ok": false,
+   "stage": "render",
+   "err": "this.init is not a function"
+  },
+  {
+   "kind": "components",
+   "slug": "ascii-cursor",
+   "ok": false,
+   "stage": "render",
+   "err": "Cannot read properties of undefined (reading 'name')"
+  },
+  {
+   "kind": "components",
+   "slug": "agentic-ball",
+   "ok": false,
+   "stage": "empty",
+   "len": 194
+  },
+  {
+   "kind": "components",
+   "slug": "album-rail",
+   "ok": false,
+   "stage": "throw",
+   "err": "o is not defined"
+  },
+  {
+   "kind": "components",
+   "slug": "axial-beam",
+   "ok": false,
+   "stage": "render",
+   "err": "R3F: Hooks can only be used within the Canvas component!"
+  },
+  {
+   "kind": "components",
+   "slug": "astral-shell",
+   "ok": false,
+   "stage": "render",
+   "err": "R3F: Hooks can only be used within the Canvas component!"
+  },
+  {
+   "kind": "components",
+   "slug": "black-hole",
+   "ok": false,
+   "stage": "empty",
+   "len": 183
+  },
+  {
+   "kind": "components",
+   "slug": "binary-orbits",
+   "ok": false,
+   "stage": "empty",
+   "len": 166
+  },
+  {
+   "kind": "components",
+   "slug": "circle-gallery",
+   "ok": false,
+   "stage": "render",
+   "err": "The provided value is not of type 'Element'."
+  },
+  {
+   "kind": "components",
+   "slug": "color-loops",
+   "ok": false,
+   "stage": "empty",
+   "len": 163
+  },
+  {
+   "kind": "components",
+   "slug": "comparison-slider",
+   "ok": false,
+   "stage": "render",
+   "err": "The provided value is not of type 'Element'."
+  },
+  {
+   "kind": "components",
+   "slug": "concentric-tides",
+   "ok": false,
+   "stage": "empty",
+   "len": 166
+  },
+  {
+   "slug": "chroma-card",
+   "stage": "timeout",
+   "len": 0
+  },
+  {
+   "kind": "components",
+   "slug": "draggable-grid",
+   "ok": false,
+   "stage": "render",
+   "err": "The provided value is not of type 'Element'."
+  },
+  {
+   "slug": "click-stack",
+   "stage": "timeout",
+   "len": 0
+  },
+  {
+   "kind": "components",
+   "slug": "dot-shift",
+   "ok": false,
+   "stage": "empty",
+   "len": 69
+  },
+  {
+   "kind": "components",
+   "slug": "fading-stars",
+   "ok": false,
+   "stage": "empty",
+   "len": 166
+  },
+  {
+   "kind": "components",
+   "slug": "falling-rays",
+   "ok": false,
+   "stage": "empty",
+   "len": 166
+  },
+  {
+   "kind": "components",
+   "slug": "glyph-ember",
+   "ok": false,
+   "stage": "empty",
+   "len": 166
+  },
+  {
+   "kind": "components",
+   "slug": "glyph-sonar",
+   "ok": false,
+   "stage": "empty",
+   "len": 166
+  },
+  {
+   "kind": "components",
+   "slug": "hexagonal-vault",
+   "ok": false,
+   "stage": "render",
+   "err": "R3F: Hooks can only be used within the Canvas component!"
+  },
+  {
+   "kind": "components",
+   "slug": "infinite-gallery",
+   "ok": false,
+   "stage": "render",
+   "err": "R3F: Hooks can only be used within the Canvas component!"
+  },
+  {
+   "kind": "components",
+   "slug": "inverted-dome",
+   "ok": false,
+   "stage": "render",
+   "err": "R3F: Hooks can only be used within the Canvas component!"
+  },
+  {
+   "slug": "gradient-carousel",
+   "stage": "timeout",
+   "len": 0
+  },
+  {
+   "kind": "components",
+   "slug": "loupe-image",
+   "ok": false,
+   "stage": "render",
+   "err": "Cannot read properties of undefined (reading 'src')"
+  },
+  {
+   "kind": "components",
+   "slug": "luminous-filaments",
+   "ok": false,
+   "stage": "empty",
+   "len": 166
+  },
+  {
+   "kind": "components",
+   "slug": "modal-cards",
+   "ok": false,
+   "stage": "empty",
+   "len": 132
+  },
+  {
+   "slug": "liquid-swap",
+   "stage": "timeout",
+   "len": 0
+  },
+  {
+   "kind": "components",
+   "slug": "portal",
+   "ok": false,
+   "stage": "empty",
+   "len": 47
+  },
+  {
+   "kind": "components",
+   "slug": "pond-image",
+   "ok": false,
+   "stage": "throw",
+   "err": "Cannot read properties of undefined (reading 'src')"
+  },
+  {
+   "slug": "parallax-cards",
+   "stage": "timeout",
+   "len": 0
+  },
+  {
+   "kind": "components",
+   "slug": "ring-field",
+   "ok": false,
+   "stage": "empty",
+   "len": 166
+  },
+  {
+   "kind": "components",
+   "slug": "rising-lines",
+   "ok": false,
+   "stage": "empty",
+   "len": 165
+  },
+  {
+   "kind": "components",
+   "slug": "rotating-stars",
+   "ok": false,
+   "stage": "empty",
+   "len": 116
+  },
+  {
+   "kind": "components",
+   "slug": "satin-ridges",
+   "ok": false,
+   "stage": "render",
+   "err": "R3F: Hooks can only be used within the Canvas component!"
+  },
+  {
+   "kind": "components",
+   "slug": "scroll-stack",
+   "ok": false,
+   "stage": "empty",
+   "len": 193
+  },
+  {
+   "kind": "components",
+   "slug": "simple-graph",
+   "ok": false,
+   "stage": "throw",
+   "err": "createLucideIcon is not defined"
+  },
+  {
+   "kind": "components",
+   "slug": "skewed-carousel",
+   "ok": false,
+   "stage": "empty",
+   "len": 149
+  },
+  {
+   "kind": "components",
+   "slug": "spiral-funnel",
+   "ok": false,
+   "stage": "empty",
+   "len": 166
+  },
+  {
+   "kind": "components",
+   "slug": "stipple-type",
+   "ok": false,
+   "stage": "empty",
+   "len": 197
+  },
+  {
+   "kind": "components",
+   "slug": "synaptic-shift",
+   "ok": false,
+   "stage": "empty",
+   "len": 103
+  },
+  {
+   "kind": "components",
+   "slug": "stardust-cursor",
+   "ok": false,
+   "stage": "empty",
+   "len": 142
+  },
+  {
+   "kind": "components",
+   "slug": "terminal-rain",
+   "ok": false,
+   "stage": "empty",
+   "len": 166
+  },
+  {
+   "kind": "components",
+   "slug": "tumble-carousel",
+   "ok": false,
+   "stage": "empty",
+   "len": 178
+  },
+  {
+   "slug": "text-path",
+   "stage": "timeout",
+   "len": 0
+  },
+  {
+   "slug": "text-scatter",
+   "stage": "timeout",
+   "len": 0
+  }
+ ]
+}

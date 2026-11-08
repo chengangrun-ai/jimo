@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/contour-tide",
+ "slug": "contour-tide",
+ "name": "Contour Tide",
+ "description": "An ocean of particles rolling in waves",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "webgl",
+  "particles",
+  "ocean",
+  "3d",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/contour-tide",
+ "lang": "jsx",
+ "codeFile": "code/components/contour-tide.txt",
+ "codeLen": 24575,
+ "needInline": [
+  "86049",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

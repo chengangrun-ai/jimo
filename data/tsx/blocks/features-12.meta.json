@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/features-12",
+ "slug": "features-12",
+ "name": "Features 12",
+ "description": "Feature trio with an inverted focal card",
+ "category": "Features",
+ "categorySlug": "features",
+ "exportName": "Features12",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/features/features-12.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/features-12",
+ "lang": "jsx",
+ "codeFile": "code/blocks/features-12.txt",
+ "codeLen": 148652,
+ "role": "section",
+ "previewHeight": 860,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "features",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/features/features-12.tsx",
+ "needInline": []
+}

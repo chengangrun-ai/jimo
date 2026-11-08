@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/glitter-warp",
+ "slug": "glitter-warp",
+ "name": "Glitter Warp",
+ "description": "A glittering starfield warp tunnel",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/glitter-warp",
+ "lang": "jsx",
+ "codeFile": "code/components/glitter-warp.txt",
+ "codeLen": 8900,
+ "needInline": [
+  "56388",
+  "48543",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

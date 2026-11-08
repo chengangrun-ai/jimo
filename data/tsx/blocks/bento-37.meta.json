@@ -1,0 +1,37 @@
+{
+ "id": "pro:block/bento-37",
+ "slug": "bento-37",
+ "name": "Bento 37",
+ "description": "Cover flow of templates in perspective",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento37",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-37.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-37",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-37.txt",
+ "codeLen": 154187,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "bento",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-37.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

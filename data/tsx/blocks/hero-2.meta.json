@@ -1,0 +1,42 @@
+{
+ "id": "pro:block/hero-2",
+ "slug": "hero-2",
+ "name": "Hero 2",
+ "description": "Curved bento hero with cursor following",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero2",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-2.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-2",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-2.txt",
+ "codeLen": 153924,
+ "role": "hero",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "hero",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-2.tsx",
+ "needInline": [
+  "17192",
+  "32923",
+  "75272"
+ ]
+}

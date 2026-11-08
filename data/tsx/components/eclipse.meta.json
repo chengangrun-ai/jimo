@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/eclipse",
+ "slug": "eclipse",
+ "name": "Eclipse",
+ "description": "A dark shape eclipsing a soft, color-shifting corona of light",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "eclipse",
+  "corona",
+  "webgl",
+  "light",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/eclipse",
+ "lang": "jsx",
+ "codeFile": "code/components/eclipse.txt",
+ "codeLen": 33932,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

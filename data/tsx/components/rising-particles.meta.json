@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/rising-particles",
+ "slug": "rising-particles",
+ "name": "Rising Particles",
+ "description": "Soft glowing particles drifting upward",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "particles",
+  "shader",
+  "webgl",
+  "ambient",
+  "glow"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/rising-particles",
+ "lang": "jsx",
+ "codeFile": "code/components/rising-particles.txt",
+ "codeLen": 18266,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

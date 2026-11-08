@@ -1,0 +1,30 @@
+{
+ "id": "pro:component/astral-shell",
+ "slug": "astral-shell",
+ "name": "Astral Shell",
+ "description": "A slowly turning globe of connected stars",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "webgl",
+  "3d",
+  "particles",
+  "network",
+  "globe",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/astral-shell",
+ "lang": "jsx",
+ "codeFile": "code/components/astral-shell.txt",
+ "codeLen": 27346,
+ "needInline": [
+  "86049",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/about-11",
+ "slug": "about-11",
+ "name": "About 11",
+ "description": "Company story beside a drawn timeline",
+ "category": "About",
+ "categorySlug": "about",
+ "exportName": "About11",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/about/about-11.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/about-11",
+ "lang": "jsx",
+ "codeFile": "code/blocks/about-11.txt",
+ "codeLen": 150557,
+ "role": "section",
+ "previewHeight": 980,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "about",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/about/about-11.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

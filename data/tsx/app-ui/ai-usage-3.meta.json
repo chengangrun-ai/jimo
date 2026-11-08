@@ -1,0 +1,23 @@
+{
+ "id": "pro:app-ui/sorbet/ai-usage-3",
+ "slug": "ai-usage-3",
+ "name": "Ai Usage 3",
+ "description": "",
+ "category": "ai-usage",
+ "style": "sorbet",
+ "href": "https://pro.reactbits.dev/docs/app-ui/ai-usage-3",
+ "lang": "jsx",
+ "codeFile": "code/app-ui/ai-usage-3.txt",
+ "codeLen": 8481,
+ "needInline": [
+  "22728",
+  "1497",
+  "37502",
+  "90987",
+  "46772",
+  "66575",
+  "36474",
+  "5042",
+  "89289"
+ ]
+}

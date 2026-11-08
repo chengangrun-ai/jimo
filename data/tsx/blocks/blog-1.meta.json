@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/blog-1",
+ "slug": "blog-1",
+ "name": "Blog 1",
+ "description": "Article card grid",
+ "category": "Blog",
+ "categorySlug": "blog",
+ "exportName": "Blog1",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/blog/blog-1.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/blog-1",
+ "lang": "jsx",
+ "codeFile": "code/blocks/blog-1.txt",
+ "codeLen": 147214,
+ "role": "section",
+ "previewHeight": 1000,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "blog",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/blog/blog-1.tsx",
+ "needInline": []
+}

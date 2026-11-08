@@ -1,0 +1,219 @@
+{
+  "base": "https://rbp-agency-template.vercel.app",
+  "generatedAt": "2026-11-01T06:53:43.127Z",
+  "pages": [
+    "/"
+  ],
+  "assets": [
+    {
+      "url": "https://rbp-agency-template.vercel.app/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2",
+      "path": "_next/static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "path": "_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_next/static/chunks/53fc0b96a2ce8a3d.css",
+      "path": "_next/static/chunks/53fc0b96a2ce8a3d.css"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_next/static/chunks/1776702b6e3c63ca.js",
+      "path": "_next/static/chunks/1776702b6e3c63ca.js"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_next/static/chunks/aa0a7c5c022cbeb9.js",
+      "path": "_next/static/chunks/aa0a7c5c022cbeb9.js"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_next/static/chunks/30ea11065999f7ac.js",
+      "path": "_next/static/chunks/30ea11065999f7ac.js"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_next/static/chunks/46555f69f67186d0.js",
+      "path": "_next/static/chunks/46555f69f67186d0.js"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_next/static/chunks/turbopack-aad5f1225b14784a.js",
+      "path": "_next/static/chunks/turbopack-aad5f1225b14784a.js"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_next/static/chunks/011b9efa1589d64b.js",
+      "path": "_next/static/chunks/011b9efa1589d64b.js"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_next/static/chunks/ff1a16fafef87110.js",
+      "path": "_next/static/chunks/ff1a16fafef87110.js"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_next/static/chunks/7340adf74ff47ec0.js",
+      "path": "_next/static/chunks/7340adf74ff47ec0.js"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_next/static/chunks/b9d427ec5c4c4d41.js",
+      "path": "_next/static/chunks/b9d427ec5c4c4d41.js"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_next/static/chunks/a6dad97d9634a72d.js",
+      "path": "_next/static/chunks/a6dad97d9634a72d.js"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_img/mock-project2-e36dc64c95e6.webp",
+      "path": "_img/mock-project2-3596ba4978b0.webp"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_img/mock-project2-e36dc64c95e6.webp",
+      "path": "_img/mock-project2-8397949599b6.webp"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_img/mock-project2-e36dc64c95e6.webp",
+      "path": "_img/mock-project2-0a5c4636502c.webp"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_img/mock-project2-e36dc64c95e6.webp",
+      "path": "_img/mock-project2-8d6dd2e71dd5.webp"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_img/mock-project2-e36dc64c95e6.webp",
+      "path": "_img/mock-project2-42eacf1702ea.webp"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_img/mock-project2-e36dc64c95e6.webp",
+      "path": "_img/mock-project2-e36dc64c95e6.webp"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_img/mock-project2-e36dc64c95e6.webp",
+      "path": "_img/mock-project2-a23296aa6a70.webp"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_img/mock-project2-e36dc64c95e6.webp",
+      "path": "_img/mock-project2-acb1c81540e5.webp"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_img/mock-project2-e36dc64c95e6.webp",
+      "path": "_img/mock-project1-1cf50a88a99a.webp"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_img/mock-project2-e36dc64c95e6.webp",
+      "path": "_img/mock-project1-d7dd372fdd21.webp"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_img/mock-project2-e36dc64c95e6.webp",
+      "path": "_img/mock-project1-9716e38e9061.webp"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_img/mock-project2-e36dc64c95e6.webp",
+      "path": "_img/mock-project1-68c085df8d15.webp"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_img/mock-project2-e36dc64c95e6.webp",
+      "path": "_img/mock-project1-3424b6be8f9e.webp"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_img/mock-project2-e36dc64c95e6.webp",
+      "path": "_img/mock-project1-622bb5e46b30.webp"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_img/mock-project2-e36dc64c95e6.webp",
+      "path": "_img/mock-project1-58d04d69f31d.webp"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/_img/mock-project2-e36dc64c95e6.webp",
+      "path": "_img/mock-project1-d6363698bd4e.webp"
+    },
+    {
+      "url": "https://pulsewave.design",
+      "path": "https:/pulsewave.design"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/site.webmanifest",
+      "path": "site.webmanifest"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/favicon-16x16.png",
+      "path": "favicon-16x16.png"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/favicon.ico?favicon.0b3bf435.ico",
+      "path": "favicon.ico-93d9e448ca4b.ico"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/favicon.ico",
+      "path": "favicon.ico"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/apple-icon.png",
+      "path": "apple-icon.png"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/",
+      "path": "index.html"
+    },
+    {
+      "url": "https://dribbble.com",
+      "path": "https:/dribbble.com"
+    },
+    {
+      "url": "https://instagram.com",
+      "path": "https:/instagram.com"
+    },
+    {
+      "url": "https://behance.net",
+      "path": "https:/behance.net"
+    },
+    {
+      "url": "https://linkedin.com",
+      "path": "https:/linkedin.com"
+    },
+    {
+      "url": "https://twitter.com",
+      "path": "https:/twitter.com"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/img/mock-project2.webp",
+      "path": "img/mock-project2.webp"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/img/mock-project1.webp",
+      "path": "img/mock-project1.webp"
+    },
+    {
+      "url": "https://rbp-agency-template.vercel.app/img/mock-project3.webp",
+      "path": "img/mock-project3.webp"
+    }
+  ],
+  "failures": [
+    {
+      "u": "https://pulsewave.design",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://rbp-agency-template.vercel.app/favicon-16x16.png",
+      "s": 404
+    },
+    {
+      "u": "https://rbp-agency-template.vercel.app/apple-icon.png",
+      "s": 404
+    },
+    {
+      "u": "https://dribbble.com",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://instagram.com",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://behance.net",
+      "s": 403
+    },
+    {
+      "u": "https://linkedin.com",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://twitter.com",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    }
+  ]
+}

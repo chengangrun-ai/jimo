@@ -1,0 +1,43 @@
+{
+ "id": "pro:block/waitlist-5",
+ "slug": "waitlist-5",
+ "name": "Waitlist 5",
+ "description": "Creator waitlist with a testimonial card",
+ "category": "Waitlist",
+ "categorySlug": "waitlist",
+ "exportName": "Waitlist5",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/waitlist/waitlist-5.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/waitlist-5",
+ "lang": "jsx",
+ "codeFile": "code/blocks/waitlist-5.txt",
+ "codeLen": 158564,
+ "role": "section",
+ "previewHeight": 820,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [
+  "i.pravatar.cc"
+ ],
+ "categoryDir": "waitlist",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/waitlist/waitlist-5.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

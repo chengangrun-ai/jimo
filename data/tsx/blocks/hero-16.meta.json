@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/hero-16",
+ "slug": "hero-16",
+ "name": "Hero 16",
+ "description": "Full-bleed image hero with big type",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero16",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-16.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-16",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-16.txt",
+ "codeLen": 147480,
+ "role": "hero",
+ "previewHeight": 750,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/mock-logos/biosynthesis.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "hero",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-16.tsx",
+ "needInline": []
+}

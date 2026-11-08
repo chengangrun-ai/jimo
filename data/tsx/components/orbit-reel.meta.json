@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/orbit-reel",
+ "slug": "orbit-reel",
+ "name": "Orbit Reel",
+ "description": "A turning wheel of cards that sweeps into an arc",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "images",
+  "carousel",
+  "interactive",
+  "showcase"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/orbit-reel",
+ "lang": "jsx",
+ "codeFile": "code/components/orbit-reel.txt",
+ "codeLen": 26940,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "90650"
+ ]
+}

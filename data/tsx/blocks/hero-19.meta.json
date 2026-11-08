@@ -1,0 +1,41 @@
+{
+ "id": "pro:block/hero-19",
+ "slug": "hero-19",
+ "name": "Hero 19",
+ "description": "Serif billing hero with an invoice panel",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero19",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-19.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-19",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-19.txt",
+ "codeLen": 159200,
+ "role": "hero",
+ "previewHeight": 780,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "hero",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-19.tsx",
+ "needInline": [
+  "50969",
+  "75272",
+  "17192",
+  "32923"
+ ]
+}

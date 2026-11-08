@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/bento-33",
+ "slug": "bento-33",
+ "name": "Bento 33",
+ "description": "Logo rows drifting in opposite ways",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento33",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-33.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-33",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-33.txt",
+ "codeLen": 147125,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "bento",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-33.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

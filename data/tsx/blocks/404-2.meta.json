@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/404-2",
+ "slug": "404-2",
+ "name": "404 - 2",
+ "description": "Full-screen 404 with a home button",
+ "category": "404",
+ "categorySlug": "404",
+ "exportName": "NotFound2",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/404/404-2.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/404-2",
+ "lang": "jsx",
+ "codeFile": "code/blocks/404-2.txt",
+ "codeLen": 156784,
+ "role": "page",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "www.w3.org"
+ ],
+ "categoryDir": "404",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/404/404-2.tsx",
+ "needInline": []
+}

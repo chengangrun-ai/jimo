@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/depth-ribbon",
+ "slug": "depth-ribbon",
+ "name": "Depth Ribbon",
+ "description": "A ribbon of images winding through 3D space",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "images",
+  "3d",
+  "webgl",
+  "interactive",
+  "showcase"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/depth-ribbon",
+ "lang": "jsx",
+ "codeFile": "code/components/depth-ribbon.txt",
+ "codeLen": 37621,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

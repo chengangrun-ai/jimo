@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/navigation-1",
+ "slug": "navigation-1",
+ "name": "Navigation 1",
+ "description": "Classic top nav with dropdown menus",
+ "category": "Navigation",
+ "categorySlug": "navigation",
+ "exportName": "Navigation1",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/navigation/navigation-1.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/navigation-1",
+ "lang": "jsx",
+ "codeFile": "code/blocks/navigation-1.txt",
+ "codeLen": 157822,
+ "role": "navigation",
+ "previewHeight": 500,
+ "layout": {
+  "rootTag": "nav",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": true
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "navigation",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/navigation/navigation-1.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

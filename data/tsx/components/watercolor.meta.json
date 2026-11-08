@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/watercolor",
+ "slug": "watercolor",
+ "name": "Watercolor",
+ "description": "Two colors blending like watercolor",
+ "category": "shader",
+ "tier": "starter",
+ "tags": [
+  "shader",
+  "3d",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/watercolor",
+ "lang": "jsx",
+ "codeFile": "code/components/watercolor.txt",
+ "codeLen": 11456,
+ "needInline": [
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

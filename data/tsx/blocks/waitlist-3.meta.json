@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/waitlist-3",
+ "slug": "waitlist-3",
+ "name": "Waitlist 3",
+ "description": "Rounded waitlist card with an image",
+ "category": "Waitlist",
+ "categorySlug": "waitlist",
+ "exportName": "Waitlist3",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/waitlist/waitlist-3.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/waitlist-3",
+ "lang": "jsx",
+ "codeFile": "code/blocks/waitlist-3.txt",
+ "codeLen": 146441,
+ "role": "section",
+ "previewHeight": 750,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [
+  "www.w3.org"
+ ],
+ "categoryDir": "waitlist",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/waitlist/waitlist-3.tsx",
+ "needInline": []
+}

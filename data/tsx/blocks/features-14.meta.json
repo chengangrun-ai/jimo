@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/features-14",
+ "slug": "features-14",
+ "name": "Features 14",
+ "description": "Pipeline diagram where a file pulses through a field of light, stage by stage",
+ "category": "Features",
+ "categorySlug": "features",
+ "exportName": "Features14",
+ "deps": [
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/features/features-14.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/features-14",
+ "lang": "jsx",
+ "codeFile": "code/blocks/features-14.txt",
+ "codeLen": 908379,
+ "role": "section",
+ "previewHeight": 920,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "features",
+ "dependencies": [
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/features/features-14.tsx",
+ "needInline": [
+  "50969",
+  "12246",
+  "2253"
+ ]
+}

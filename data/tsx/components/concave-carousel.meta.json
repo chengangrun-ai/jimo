@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/concave-carousel",
+ "slug": "concave-carousel",
+ "name": "Concave Carousel",
+ "description": "A gallery wall that curves around the viewer",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "images",
+  "carousel",
+  "3d",
+  "webgl",
+  "interactive",
+  "showcase"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/concave-carousel",
+ "lang": "jsx",
+ "codeFile": "code/components/concave-carousel.txt",
+ "codeLen": 33351,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

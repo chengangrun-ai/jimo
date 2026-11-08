@@ -1,0 +1,14 @@
+watercolor
+particle-text
+credit-card
+synaptic-shift
+liquid-ascii
+dot-shift
+ascii-cursor
+3d-text-reveal
+circles
+pond-image
+blinking-squares
+glass-tiles
+dot-shift
+liquid-ascii

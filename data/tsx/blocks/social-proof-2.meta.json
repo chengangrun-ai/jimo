@@ -1,0 +1,43 @@
+{
+ "id": "pro:block/social-proof-2",
+ "slug": "social-proof-2",
+ "name": "Social Proof 2",
+ "description": "Customer logos in opposing marquees",
+ "category": "Social Proof",
+ "categorySlug": "social-proof",
+ "exportName": "SocialProof2",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/social-proof/social-proof-2.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/social-proof-2",
+ "lang": "jsx",
+ "codeFile": "code/blocks/social-proof-2.txt",
+ "codeLen": 146774,
+ "role": "section",
+ "previewHeight": 660,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/mock-logos/boltshift.svg",
+  "/mock-logos/catalog.svg",
+  "/mock-logos/featherdev.svg",
+  "/mock-logos/globalbank.svg",
+  "/mock-logos/hourglass.svg",
+  "/mock-logos/lightbox.svg",
+  "/mock-logos/nietzsche.svg",
+  "/mock-logos/spherule.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "social-proof",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/social-proof/social-proof-2.tsx",
+ "needInline": []
+}

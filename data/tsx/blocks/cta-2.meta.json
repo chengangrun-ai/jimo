@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/cta-2",
+ "slug": "cta-2",
+ "name": "CTA 2",
+ "description": "Full-screen CTA with an image cursor trail",
+ "category": "Call To Action",
+ "categorySlug": "cta",
+ "exportName": "CTA2",
+ "deps": [
+  "gsap",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/cta/cta-2.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/cta-2",
+ "lang": "jsx",
+ "codeFile": "code/blocks/cta-2.txt",
+ "codeLen": 222626,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "cta",
+ "dependencies": [
+  "gsap",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/cta/cta-2.tsx",
+ "needInline": [
+  "82637"
+ ]
+}

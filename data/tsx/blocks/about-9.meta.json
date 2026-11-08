@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/about-9",
+ "slug": "about-9",
+ "name": "About 9",
+ "description": "Mission statement with a film card",
+ "category": "About",
+ "categorySlug": "about",
+ "exportName": "About9",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/about/about-9.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/about-9",
+ "lang": "jsx",
+ "codeFile": "code/blocks/about-9.txt",
+ "codeLen": 148981,
+ "role": "section",
+ "previewHeight": 760,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "about",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/about/about-9.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

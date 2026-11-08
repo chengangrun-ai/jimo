@@ -1,0 +1,41 @@
+{
+ "id": "pro:block/ecommerce-10",
+ "slug": "ecommerce-10",
+ "name": "Ecommerce 10",
+ "description": "Shoppable editorial lookbook",
+ "category": "Ecommerce",
+ "categorySlug": "ecommerce",
+ "exportName": "Ecommerce10",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/ecommerce/ecommerce-10.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/ecommerce-10",
+ "lang": "jsx",
+ "codeFile": "code/blocks/ecommerce-10.txt",
+ "codeLen": 156844,
+ "role": "section",
+ "previewHeight": 850,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "ecommerce",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/ecommerce/ecommerce-10.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

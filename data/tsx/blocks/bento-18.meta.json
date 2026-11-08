@@ -1,0 +1,41 @@
+{
+ "id": "pro:block/bento-18",
+ "slug": "bento-18",
+ "name": "Bento 18",
+ "description": "Uptime gauge with a settling needle",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento18",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-18.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-18",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-18.txt",
+ "codeLen": 154744,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-18.tsx",
+ "needInline": [
+  "50969",
+  "75272",
+  "17192",
+  "32923"
+ ]
+}

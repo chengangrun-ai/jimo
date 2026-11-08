@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/chroma-waves",
+ "slug": "chroma-waves",
+ "name": "Chroma Waves",
+ "description": "Soft waves of light with a chromatic shimmer",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/chroma-waves",
+ "lang": "jsx",
+ "codeFile": "code/components/chroma-waves.txt",
+ "codeLen": 13364,
+ "needInline": [
+  "56388",
+  "48543",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

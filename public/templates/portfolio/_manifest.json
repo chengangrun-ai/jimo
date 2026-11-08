@@ -1,0 +1,577 @@
+{
+  "base": "https://rbp-portfolio.vercel.app",
+  "generatedAt": "2026-11-01T06:52:24.368Z",
+  "pages": [
+    "/",
+    "/projects",
+    "/about"
+  ],
+  "assets": [
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2",
+      "path": "_next/static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/media/b67966e0b83b2cd0-s.p.85e63c96.woff2",
+      "path": "_next/static/media/b67966e0b83b2cd0-s.p.85e63c96.woff2"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "path": "_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/aeaacd4f261f34e7.css",
+      "path": "_next/static/chunks/aeaacd4f261f34e7.css"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/106d084f60cd9f4f.js",
+      "path": "_next/static/chunks/106d084f60cd9f4f.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/1393af9681d10078.js",
+      "path": "_next/static/chunks/1393af9681d10078.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/1f88babb71bde128.js",
+      "path": "_next/static/chunks/1f88babb71bde128.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/8aa5bdfe59ff2e1d.js",
+      "path": "_next/static/chunks/8aa5bdfe59ff2e1d.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/turbopack-91949201beedb0b3.js",
+      "path": "_next/static/chunks/turbopack-91949201beedb0b3.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/bb97798187268098.js",
+      "path": "_next/static/chunks/bb97798187268098.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/17e7e87f41ac360e.js",
+      "path": "_next/static/chunks/17e7e87f41ac360e.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/ee308370ae7c1a31.js",
+      "path": "_next/static/chunks/ee308370ae7c1a31.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/3c53782416237f37.js",
+      "path": "_next/static/chunks/3c53782416237f37.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/081617ba1ddf51c6.js",
+      "path": "_next/static/chunks/081617ba1ddf51c6.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/a6dad97d9634a72d.js",
+      "path": "_next/static/chunks/a6dad97d9634a72d.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/b92b9d268dd928642ca94bd49e32923a-01a65e68b95d.jpg_resize_752x497_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/b92b9d268dd928642ca94bd49e32923a-f3812849de30.jpg_resize_752x497_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/b92b9d268dd928642ca94bd49e32923a-9072fe8c6ea7.jpg_resize_752x497_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/b92b9d268dd928642ca94bd49e32923a-267636cf1713.jpg_resize_752x497_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/b92b9d268dd928642ca94bd49e32923a-c489795f22c9.jpg_resize_752x497_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/b92b9d268dd928642ca94bd49e32923a-88822de274a6.jpg_resize_752x497_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/b92b9d268dd928642ca94bd49e32923a-d5911356fb4a.jpg_resize_752x497_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/b92b9d268dd928642ca94bd49e32923a-60de0003dde9.jpg_resize_752x497_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-1ae5075dcd129aebb16bdbca24b41ac7-cdaca17bb70e.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-1ae5075dcd129aebb16bdbca24b41ac7-d9b5da9106b8.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-1ae5075dcd129aebb16bdbca24b41ac7-623a7a606339.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-1ae5075dcd129aebb16bdbca24b41ac7-7a68411a21a6.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-1ae5075dcd129aebb16bdbca24b41ac7-da99d2a381e2.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-1ae5075dcd129aebb16bdbca24b41ac7-70a2d771f44b.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-1ae5075dcd129aebb16bdbca24b41ac7-0db1b90fb034.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-1ae5075dcd129aebb16bdbca24b41ac7-6343238361bf.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-1ae5075dcd129aebb16bdbca24b41ac7-2591dfb94586.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/75841fa59f32f05ca6c5ddf02d08dfe6-caeaf77e5043.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/75841fa59f32f05ca6c5ddf02d08dfe6-0a685a1e8d68.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/75841fa59f32f05ca6c5ddf02d08dfe6-098e4b165134.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/75841fa59f32f05ca6c5ddf02d08dfe6-8d4672c2f256.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/75841fa59f32f05ca6c5ddf02d08dfe6-73a03e4af072.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/75841fa59f32f05ca6c5ddf02d08dfe6-5b191ff3b7e5.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/75841fa59f32f05ca6c5ddf02d08dfe6-20a408288c85.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/75841fa59f32f05ca6c5ddf02d08dfe6-749cd121adb0.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/75841fa59f32f05ca6c5ddf02d08dfe6-67b2c0e0c10e.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-d4cde1de803e84b97d8892e3444c04b0-ea87ec57f0ca.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-d4cde1de803e84b97d8892e3444c04b0-b58ed2c93db5.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-d4cde1de803e84b97d8892e3444c04b0-2ca5d0bd9f01.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-d4cde1de803e84b97d8892e3444c04b0-5ebe0ff7f4bf.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-d4cde1de803e84b97d8892e3444c04b0-d12e76e683f1.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-d4cde1de803e84b97d8892e3444c04b0-4b99921e40b6.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-d4cde1de803e84b97d8892e3444c04b0-27647833f634.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-d4cde1de803e84b97d8892e3444c04b0-fca6de308d4a.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-d4cde1de803e84b97d8892e3444c04b0-3e6ee8910bf1.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/josh.webp",
+      "path": "josh.webp"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/aeaacd4f261f34e7.css",
+      "path": "_next/static/chunks/aeaacd4f261f34e7.css-dbdb1a529f46.css"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/106d084f60cd9f4f.js",
+      "path": "_next/static/chunks/106d084f60cd9f4f.js-50d24fd9a292.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/1393af9681d10078.js",
+      "path": "_next/static/chunks/1393af9681d10078.js-24d353c935ef.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/1f88babb71bde128.js",
+      "path": "_next/static/chunks/1f88babb71bde128.js-e876119333fb.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/8aa5bdfe59ff2e1d.js",
+      "path": "_next/static/chunks/8aa5bdfe59ff2e1d.js-c5c91c2d5630.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/turbopack-91949201beedb0b3.js",
+      "path": "_next/static/chunks/turbopack-91949201beedb0b3.js-51ecd5aab278.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/bb97798187268098.js",
+      "path": "_next/static/chunks/bb97798187268098.js-5c07ed4db794.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/17e7e87f41ac360e.js",
+      "path": "_next/static/chunks/17e7e87f41ac360e.js-20b2814ba694.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/ee308370ae7c1a31.js",
+      "path": "_next/static/chunks/ee308370ae7c1a31.js-09cf8bd40a7f.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/3c53782416237f37.js",
+      "path": "_next/static/chunks/3c53782416237f37.js-d2a881fe2f83.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/081617ba1ddf51c6.js",
+      "path": "_next/static/chunks/081617ba1ddf51c6.js-a16a15cb8970.js"
+    },
+    {
+      "url": "https://example.com",
+      "path": "https:/example.com"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/site.webmanifest",
+      "path": "site.webmanifest"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/favicon-16x16.png",
+      "path": "favicon-16x16.png"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/favicon.ico?favicon.0b3bf435.ico",
+      "path": "favicon.ico-8321e7be1d52.ico"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/favicon.ico",
+      "path": "favicon.ico"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/apple-icon.png",
+      "path": "apple-icon.png"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/a6dad97d9634a72d.js",
+      "path": "_next/static/chunks/a6dad97d9634a72d.js-9816f751e032.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/",
+      "path": "index.html"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/projects",
+      "path": "projects/index.html"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/about",
+      "path": "about/index.html"
+    },
+    {
+      "url": "https://www.linkedin.com",
+      "path": "https:/www.linkedin.com"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/linkedin.svg?dpl=dpl_2aMz3dFKmcYARJ1FqEa6WYZV3Zqn",
+      "path": "linkedin.svg-173f335e5a9d.svg"
+    },
+    {
+      "url": "https://x.com",
+      "path": "https:/x.com"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/x.svg?dpl=dpl_2aMz3dFKmcYARJ1FqEa6WYZV3Zqn",
+      "path": "x.svg-ec0cd2a6c05f.svg"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/josh_wave.webp",
+      "path": "josh_wave.webp"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/linkedin.svg",
+      "path": "linkedin.svg"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/x.svg",
+      "path": "x.svg"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/5b425a287c35d469.js",
+      "path": "_next/static/chunks/5b425a287c35d469.js"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-621e7fe47be9d11ee14544456c693bec-52c76a3796aa.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-621e7fe47be9d11ee14544456c693bec-8b50b6494526.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-621e7fe47be9d11ee14544456c693bec-9a7d98dad914.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-621e7fe47be9d11ee14544456c693bec-a83e0a604606.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-621e7fe47be9d11ee14544456c693bec-cd9eb5289e67.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-621e7fe47be9d11ee14544456c693bec-85e337b91d72.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-621e7fe47be9d11ee14544456c693bec-6937d0e24d98.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-621e7fe47be9d11ee14544456c693bec-f1d019c14248.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-621e7fe47be9d11ee14544456c693bec-5a9775fa797b.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-c6f745d50302d66609bfe080f99f5396-66f2e7b28efc.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-c6f745d50302d66609bfe080f99f5396-eb9540287089.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-c6f745d50302d66609bfe080f99f5396-3a3387bc6a94.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-c6f745d50302d66609bfe080f99f5396-bb222e05580e.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-c6f745d50302d66609bfe080f99f5396-f05e7f6873db.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-c6f745d50302d66609bfe080f99f5396-fdfda0a05921.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-c6f745d50302d66609bfe080f99f5396-8102e5864c3d.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-c6f745d50302d66609bfe080f99f5396-192bac2d7575.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_img/b92b9d268dd928642ca94bd49e32923a-92b45a816f70.jpg_resize_752x497_vertical_center",
+      "path": "_img/original-c6f745d50302d66609bfe080f99f5396-08dee1b0e37b.png_resize_1024x768_vertical_center"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/5b425a287c35d469.js",
+      "path": "_next/static/chunks/5b425a287c35d469.js-b8715329eef2.js"
+    },
+    {
+      "url": "https://example.com/projects",
+      "path": "https:/example.com/projects/index.html"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/caa9a87b99a1102c.js",
+      "path": "_next/static/chunks/caa9a87b99a1102c.js"
+    },
+    {
+      "url": "https://cdn.simpleicons.org/linear",
+      "path": "https:/cdn.simpleicons.org/linear/index.html"
+    },
+    {
+      "url": "https://cdn.simpleicons.org/vercel",
+      "path": "https:/cdn.simpleicons.org/vercel/index.html"
+    },
+    {
+      "url": "https://cdn.simpleicons.org/stripe",
+      "path": "https:/cdn.simpleicons.org/stripe/index.html"
+    },
+    {
+      "url": "https://cdn.simpleicons.org/figma",
+      "path": "https:/cdn.simpleicons.org/figma/index.html"
+    },
+    {
+      "url": "https://cdn.simpleicons.org/notion",
+      "path": "https:/cdn.simpleicons.org/notion/index.html"
+    },
+    {
+      "url": "https://cdn.simpleicons.org/airbnb",
+      "path": "https:/cdn.simpleicons.org/airbnb/index.html"
+    },
+    {
+      "url": "https://svgl.app/library/figma.svg",
+      "path": "https:/svgl.app/library/figma.svg"
+    },
+    {
+      "url": "https://cdn.simpleicons.org/react",
+      "path": "https:/cdn.simpleicons.org/react/index.html"
+    },
+    {
+      "url": "https://cdn.simpleicons.org/nextdotjs",
+      "path": "https:/cdn.simpleicons.org/nextdotjs/index.html"
+    },
+    {
+      "url": "https://cdn.simpleicons.org/typescript",
+      "path": "https:/cdn.simpleicons.org/typescript/index.html"
+    },
+    {
+      "url": "https://rbp-portfolio.vercel.app/_next/static/chunks/caa9a87b99a1102c.js",
+      "path": "_next/static/chunks/caa9a87b99a1102c.js-8b35382bd303.js"
+    },
+    {
+      "url": "https://cdn.simpleicons.org/shadcnui",
+      "path": "https:/cdn.simpleicons.org/shadcnui/index.html"
+    },
+    {
+      "url": "https://cdn.simpleicons.org/cursor",
+      "path": "https:/cdn.simpleicons.org/cursor/index.html"
+    },
+    {
+      "url": "https://cdn.simpleicons.org/gsap",
+      "path": "https:/cdn.simpleicons.org/gsap/index.html"
+    },
+    {
+      "url": "https://cdn.simpleicons.org/github",
+      "path": "https:/cdn.simpleicons.org/github/index.html"
+    },
+    {
+      "url": "https://cdn.simpleicons.org/tailwindcss",
+      "path": "https:/cdn.simpleicons.org/tailwindcss/index.html"
+    },
+    {
+      "url": "https://example.com/about",
+      "path": "https:/example.com/about/index.html"
+    }
+  ],
+  "failures": [
+    {
+      "u": "https://example.com",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://rbp-portfolio.vercel.app/favicon-16x16.png",
+      "s": 404
+    },
+    {
+      "u": "https://rbp-portfolio.vercel.app/apple-icon.png",
+      "s": 404
+    },
+    {
+      "u": "https://www.linkedin.com",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://x.com",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://example.com/projects",
+      "s": 404
+    },
+    {
+      "u": "https://cdn.simpleicons.org/linear",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://cdn.simpleicons.org/vercel",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://cdn.simpleicons.org/stripe",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://cdn.simpleicons.org/figma",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://cdn.simpleicons.org/notion",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://cdn.simpleicons.org/airbnb",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://svgl.app/library/figma.svg",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://cdn.simpleicons.org/react",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://cdn.simpleicons.org/nextdotjs",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://cdn.simpleicons.org/typescript",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://cdn.simpleicons.org/shadcnui",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://cdn.simpleicons.org/cursor",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://cdn.simpleicons.org/gsap",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://cdn.simpleicons.org/github",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://cdn.simpleicons.org/tailwindcss",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://example.com/about",
+      "s": 404
+    }
+  ]
+}

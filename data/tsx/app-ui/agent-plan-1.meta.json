@@ -1,0 +1,26 @@
+{
+ "id": "pro:app-ui/sorbet/agent-plan-1",
+ "slug": "agent-plan-1",
+ "name": "Agent Plan 1",
+ "description": "",
+ "category": "agent-plan",
+ "style": "sorbet",
+ "href": "https://pro.reactbits.dev/docs/app-ui/agent-plan-1",
+ "lang": "jsx",
+ "codeFile": "code/app-ui/agent-plan-1.txt",
+ "codeLen": 9194,
+ "needInline": [
+  "22728",
+  "48318",
+  "63163",
+  "90987",
+  "40972",
+  "54345",
+  "62955",
+  "89289",
+  "89886",
+  "5042",
+  "59157",
+  "66654"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/faq-1",
+ "slug": "faq-1",
+ "name": "FAQ 1",
+ "description": "Two-column FAQ with a sticky title",
+ "category": "FAQ",
+ "categorySlug": "faq",
+ "exportName": "FAQ1",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/faq/faq-1.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/faq-1",
+ "lang": "jsx",
+ "codeFile": "code/blocks/faq-1.txt",
+ "codeLen": 151786,
+ "role": "section",
+ "previewHeight": 650,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "faq",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/faq/faq-1.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

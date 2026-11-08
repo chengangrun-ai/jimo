@@ -1,0 +1,30 @@
+{
+ "id": "pro:component/user-cursor",
+ "slug": "user-cursor",
+ "name": "User Cursor",
+ "description": "A cursor with a name tag, like a live collaborator",
+ "category": "cursor",
+ "tier": "starter",
+ "tags": [
+  "cursor",
+  "pointer",
+  "spring",
+  "interactive",
+  "motion",
+  "ui"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/user-cursor",
+ "lang": "jsx",
+ "codeFile": "code/components/user-cursor.txt",
+ "codeLen": 15750,
+ "needInline": [
+  "56388",
+  "90761",
+  "75272",
+  "17192",
+  "30595",
+  "32923",
+  "47962",
+  "90650"
+ ]
+}

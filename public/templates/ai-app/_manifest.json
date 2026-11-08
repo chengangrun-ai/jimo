@@ -1,0 +1,275 @@
+{
+  "base": "https://rbp-ai-app-template.vercel.app",
+  "generatedAt": "2026-11-01T06:53:09.086Z",
+  "pages": [
+    "/"
+  ],
+  "assets": [
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/media/797e433ab948586e-s.p.29207c2f.woff2",
+      "path": "_next/static/media/797e433ab948586e-s.p.29207c2f.woff2"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2",
+      "path": "_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/64a77be42c08ae48.css",
+      "path": "_next/static/chunks/64a77be42c08ae48.css"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/43b7018ea4411a9c.js",
+      "path": "_next/static/chunks/43b7018ea4411a9c.js"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/30ea11065999f7ac.js",
+      "path": "_next/static/chunks/30ea11065999f7ac.js"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/aa0c7c8fb89a4472.js",
+      "path": "_next/static/chunks/aa0c7c8fb89a4472.js"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/turbopack-8e51270987f60312.js",
+      "path": "_next/static/chunks/turbopack-8e51270987f60312.js"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/9be0912f3174fdb7.js",
+      "path": "_next/static/chunks/9be0912f3174fdb7.js"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/63dee5b5c80489b9.js",
+      "path": "_next/static/chunks/63dee5b5c80489b9.js"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/ff1a16fafef87110.js",
+      "path": "_next/static/chunks/ff1a16fafef87110.js"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/7340adf74ff47ec0.js",
+      "path": "_next/static/chunks/7340adf74ff47ec0.js"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/49749b7fa567d240.js",
+      "path": "_next/static/chunks/49749b7fa567d240.js"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/a6dad97d9634a72d.js",
+      "path": "_next/static/chunks/a6dad97d9634a72d.js"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1779881718722-5e7fa09fad7f?q=80&w=770&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "path": "https:/images.unsplash.com/photo-1779881718722-5e7fa09fad7f-a3d579810f71.bin"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1779465190086-021c2012bc4c?q=80&w=770&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "path": "https:/images.unsplash.com/photo-1779465190086-021c2012bc4c-a1eb4b88667e.bin"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1769968065389-60c3a887d14c?q=80&w=776&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "path": "https:/images.unsplash.com/photo-1769968065389-60c3a887d14c-214493755c57.bin"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1771153568007-92b0997828ae?q=80&w=770&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "path": "https:/images.unsplash.com/photo-1771153568007-92b0997828ae-23275084de66.bin"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1778051131564-192e359b601d?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "path": "https:/images.unsplash.com/photo-1778051131564-192e359b601d-e7828f5990aa.bin"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1776715139438-c4b4076cc592?q=80&w=770&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "path": "https:/images.unsplash.com/photo-1776715139438-c4b4076cc592-3d21c09e82c6.bin"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1773698719619-51e67f93a39f?q=80&w=818&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "path": "https:/images.unsplash.com/photo-1773698719619-51e67f93a39f-677ed2013a3e.bin"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1780150048191-2e1eefe95665?q=80&w=812&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "path": "https:/images.unsplash.com/photo-1780150048191-2e1eefe95665-08b876414ed8.bin"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/64a77be42c08ae48.css",
+      "path": "_next/static/chunks/64a77be42c08ae48.css-68c0782bac91.css"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/43b7018ea4411a9c.js",
+      "path": "_next/static/chunks/43b7018ea4411a9c.js-09c014cd8aa6.js"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/30ea11065999f7ac.js",
+      "path": "_next/static/chunks/30ea11065999f7ac.js-1f7764e19e34.js"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/aa0c7c8fb89a4472.js",
+      "path": "_next/static/chunks/aa0c7c8fb89a4472.js-6dd27d05dbfe.js"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/turbopack-8e51270987f60312.js",
+      "path": "_next/static/chunks/turbopack-8e51270987f60312.js-8eb7089152d6.js"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/9be0912f3174fdb7.js",
+      "path": "_next/static/chunks/9be0912f3174fdb7.js-95d4c29202bc.js"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/63dee5b5c80489b9.js",
+      "path": "_next/static/chunks/63dee5b5c80489b9.js-ff54c24148ad.js"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/ff1a16fafef87110.js",
+      "path": "_next/static/chunks/ff1a16fafef87110.js-d11e11fa0dc4.js"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/7340adf74ff47ec0.js",
+      "path": "_next/static/chunks/7340adf74ff47ec0.js-c991bd8c0c1b.js"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/49749b7fa567d240.js",
+      "path": "_next/static/chunks/49749b7fa567d240.js-def88cb8b755.js"
+    },
+    {
+      "url": "https://example.com",
+      "path": "https:/example.com"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/site.webmanifest",
+      "path": "site.webmanifest"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/favicon.ico?favicon.cc6cf3c8.ico",
+      "path": "favicon.ico-3811102e930a.ico"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/icon.svg?icon.7d444ef2.svg",
+      "path": "icon.svg-eb3dd388f02e.svg"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/a6dad97d9634a72d.js",
+      "path": "_next/static/chunks/a6dad97d9634a72d.js-dc3071e4fdee.js"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/3015510/3015510-hd_1920_1080_24fps.mp4",
+      "path": "https:/videos.pexels.com/video-files/3015510/3015510-hd_1920_1080_24fps.mp4"
+    },
+    {
+      "url": "https://images.pexels.com/videos/3015510/free-video-3015510.jpg?auto=compress&cs=tinysrgb&w=1600",
+      "path": "https:/images.pexels.com/videos/3015510/free-video-3015510.jpg-3ae41c1a9bb1.jpg"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1779630541798-1f3d987aa440?q=80&w=770&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "path": "https:/images.unsplash.com/photo-1779630541798-1f3d987aa440-47b0abf9a37a.bin"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1775668076243-1676696bf27e?q=80&w=778&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "path": "https:/images.unsplash.com/photo-1775668076243-1676696bf27e-8b93e4d080ff.bin"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=160&h=160&auto=format&fit=crop&crop=faces",
+      "path": "https:/images.unsplash.com/photo-1494790108377-be9c29b29330-89cb7b17b996.bin"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=160&h=160&auto=format&fit=crop&crop=faces",
+      "path": "https:/images.unsplash.com/photo-1500648767791-00dcc994a43e-4d773ebf025e.bin"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1589156280159-27698a70f29e?q=80&w=160&h=160&auto=format&fit=crop&crop=faces",
+      "path": "https:/images.unsplash.com/photo-1589156280159-27698a70f29e-bf452c3fde0c.bin"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=160&h=160&auto=format&fit=crop&crop=faces",
+      "path": "https:/images.unsplash.com/photo-1506794778202-cad84cf45f1d-93fca286a651.bin"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=160&h=160&auto=format&fit=crop&crop=faces",
+      "path": "https:/images.unsplash.com/photo-1573496359142-b8d87734a5a2-aadce0c4f890.bin"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=160&h=160&auto=format&fit=crop&crop=faces",
+      "path": "https:/images.unsplash.com/photo-1507003211169-0a1dd7228f2d-5a5ba21d1aba.bin"
+    },
+    {
+      "url": "https://rbp-ai-app-template.vercel.app/_next/static/chunks/ff1a16fafef87110.js",
+      "path": "_next/static/chunks/ff1a16fafef87110.js-53cc06b18743.js"
+    }
+  ],
+  "failures": [
+    {
+      "u": "https://images.unsplash.com/photo-1779881718722-5e7fa09fad7f?q=80&w=770&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.unsplash.com/photo-1779465190086-021c2012bc4c?q=80&w=770&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.unsplash.com/photo-1769968065389-60c3a887d14c?q=80&w=776&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.unsplash.com/photo-1771153568007-92b0997828ae?q=80&w=770&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.unsplash.com/photo-1778051131564-192e359b601d?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.unsplash.com/photo-1776715139438-c4b4076cc592?q=80&w=770&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.unsplash.com/photo-1773698719619-51e67f93a39f?q=80&w=818&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.unsplash.com/photo-1780150048191-2e1eefe95665?q=80&w=812&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://example.com",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://videos.pexels.com/video-files/3015510/3015510-hd_1920_1080_24fps.mp4",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.pexels.com/videos/3015510/free-video-3015510.jpg?auto=compress&cs=tinysrgb&w=1600",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.unsplash.com/photo-1779630541798-1f3d987aa440?q=80&w=770&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.unsplash.com/photo-1775668076243-1676696bf27e?q=80&w=778&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=160&h=160&auto=format&fit=crop&crop=faces",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=160&h=160&auto=format&fit=crop&crop=faces",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.unsplash.com/photo-1589156280159-27698a70f29e?q=80&w=160&h=160&auto=format&fit=crop&crop=faces",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=160&h=160&auto=format&fit=crop&crop=faces",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=160&h=160&auto=format&fit=crop&crop=faces",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=160&h=160&auto=format&fit=crop&crop=faces",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/glyph-tide",
+ "slug": "glyph-tide",
+ "name": "Glyph Tide",
+ "description": "An ASCII tide that floods and drains the shore",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "ascii",
+  "animation",
+  "water",
+  "webgl",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/glyph-tide",
+ "lang": "jsx",
+ "codeFile": "code/components/glyph-tide.txt",
+ "codeLen": 34655,
+ "needInline": [
+  "86049",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

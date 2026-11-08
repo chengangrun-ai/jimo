@@ -1,0 +1,42 @@
+{
+ "id": "pro:block/hero-27",
+ "slug": "hero-27",
+ "name": "Hero 27",
+ "description": "Editorial hero with a satin ribbon headline flowing across the page",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero27",
+ "deps": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-27.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-27",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-27.txt",
+ "codeLen": 905944,
+ "role": "hero",
+ "previewHeight": 860,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "hero",
+ "dependencies": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-27.tsx",
+ "needInline": [
+  "50969",
+  "12246",
+  "2253"
+ ]
+}

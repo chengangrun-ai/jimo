@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/specter-orb",
+ "slug": "specter-orb",
+ "name": "Specter Orb",
+ "description": "A ghostly orb wrapped in drifting smoke",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "webgl",
+  "orb",
+  "raymarching",
+  "abstract"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/specter-orb",
+ "lang": "jsx",
+ "codeFile": "code/components/specter-orb.txt",
+ "codeLen": 21699,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

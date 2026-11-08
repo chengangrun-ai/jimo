@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/glyph-lottery",
+ "slug": "glyph-lottery",
+ "name": "Glyph Lottery",
+ "description": "Letters that spin like slot reels and lock into a headline",
+ "category": "text",
+ "tier": "starter",
+ "tags": [
+  "text",
+  "animation",
+  "slot",
+  "reels",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/glyph-lottery",
+ "lang": "jsx",
+ "codeFile": "code/components/glyph-lottery.txt",
+ "codeLen": 23214,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "90650"
+ ]
+}

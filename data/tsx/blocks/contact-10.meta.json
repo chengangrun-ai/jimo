@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/contact-10",
+ "slug": "contact-10",
+ "name": "Contact 10",
+ "description": "Dark enterprise sales form",
+ "category": "Contact",
+ "categorySlug": "contact",
+ "exportName": "Contact10",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/contact/contact-10.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/contact-10",
+ "lang": "jsx",
+ "codeFile": "code/blocks/contact-10.txt",
+ "codeLen": 152147,
+ "role": "section",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "contact",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/contact/contact-10.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

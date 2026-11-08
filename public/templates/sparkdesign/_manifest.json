@@ -1,0 +1,515 @@
+{
+  "base": "https://rbp-sparkdesign-template.vercel.app",
+  "generatedAt": "2026-11-01T06:48:51.869Z",
+  "pages": [
+    "/"
+  ],
+  "assets": [
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_next/static/immutable/media/f06bf9da926bae75-s.p.3uuun_-7zsf1g.woff2",
+      "path": "_next/static/immutable/media/f06bf9da926bae75-s.p.3uuun_-7zsf1g.woff2"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_next/static/immutable/chunks/25494wmmmjmcz.css",
+      "path": "_next/static/immutable/chunks/25494wmmmjmcz.css"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_next/static/immutable/chunks/17tuxysuvqwd2.js",
+      "path": "_next/static/immutable/chunks/17tuxysuvqwd2.js"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_next/static/immutable/chunks/0a9iqm8cm672n.js",
+      "path": "_next/static/immutable/chunks/0a9iqm8cm672n.js"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_next/static/immutable/chunks/3sehtyhn4u4zd.js",
+      "path": "_next/static/immutable/chunks/3sehtyhn4u4zd.js"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_next/static/immutable/chunks/0n0fwvxjnvj-g.js",
+      "path": "_next/static/immutable/chunks/0n0fwvxjnvj-g.js"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_next/static/immutable/chunks/turbopack-3fwl66gmcvu-u.js",
+      "path": "_next/static/immutable/chunks/turbopack-3fwl66gmcvu-u.js"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_next/static/immutable/chunks/2s1z2yndn_m57.js",
+      "path": "_next/static/immutable/chunks/2s1z2yndn_m57.js"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_next/static/immutable/chunks/03nlifkr_qn72.js",
+      "path": "_next/static/immutable/chunks/03nlifkr_qn72.js"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_next/static/immutable/chunks/0x9ky3_714v6r.js",
+      "path": "_next/static/immutable/chunks/0x9ky3_714v6r.js"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_next/static/immutable/chunks/0q8feqfi3nb2c.js",
+      "path": "_next/static/immutable/chunks/0q8feqfi3nb2c.js"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_next/static/immutable/chunks/0c0hxoamwjsbw.js",
+      "path": "_next/static/immutable/chunks/0c0hxoamwjsbw.js"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1547587091-f883cf8f0c12-69b2ffd6f867.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1547587091-f883cf8f0c12-a6139ba5ea59.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1547587091-f883cf8f0c12-5863e1e2d054.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1547587091-f883cf8f0c12-93d89bdecbc9.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1547587091-f883cf8f0c12-8989c74ad0ac.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1547587091-f883cf8f0c12-1bc319d5d2f0.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1547587091-f883cf8f0c12-b3c5680c49bb.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1547587091-f883cf8f0c12-0e29eca02612.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1548382131-e0ebb1f0cdea-adacb25e95f7.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1548382131-e0ebb1f0cdea-abe416b3b3a6.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1548382131-e0ebb1f0cdea-3c495f8fad5e.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1548382131-e0ebb1f0cdea-538f1d2655f7.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1548382131-e0ebb1f0cdea-97736f83aba7.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1548382131-e0ebb1f0cdea-b32195559f38.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1548382131-e0ebb1f0cdea-0dedb0881bc2.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1548382131-e0ebb1f0cdea-035636a86b47.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1548382131-e0ebb1f0cdea-4564183f4c18.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1548382131-e0ebb1f0cdea-bee7f59a0703.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1548382131-e0ebb1f0cdea-2f9f3759463f.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1548382131-e0ebb1f0cdea-ead12226cd94.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1548382131-e0ebb1f0cdea-bb4b0b231477.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1548382131-e0ebb1f0cdea-712e23ee5cfa.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1548382131-e0ebb1f0cdea-8231740c66f4.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1670095044002-3b45b6ad8a01-a889fa433633.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1670095044002-3b45b6ad8a01-a9746f79aab1.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1670095044002-3b45b6ad8a01-e10442173d29.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1670095044002-3b45b6ad8a01-f7ade89f5674.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1670095044002-3b45b6ad8a01-59c967db29cb.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1670095044002-3b45b6ad8a01-e0ae0351e95e.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1670095044002-3b45b6ad8a01-e970b6b4a22e.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1670095044002-3b45b6ad8a01-2fdd98fd6f50.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1670095044002-3b45b6ad8a01-507cd47f0716.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1670095044002-3b45b6ad8a01-fb67317a271d.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1670095044002-3b45b6ad8a01-298cebd3856c.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1670095044002-3b45b6ad8a01-63948c069f26.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1670095044002-3b45b6ad8a01-7f7bb676e436.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1670095044002-3b45b6ad8a01-673f020ef52e.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1670095044002-3b45b6ad8a01-eae106066ece.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1783315943625-6c00dc4b265b-31e15e0a7988.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1783315943625-6c00dc4b265b-65d0b4be3fe4.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1783315943625-6c00dc4b265b-adff1817ad44.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1783315943625-6c00dc4b265b-c0487e69f59c.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1783315943625-6c00dc4b265b-80c3f15c0164.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1783315943625-6c00dc4b265b-b06c0389d9c6.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1783315943625-6c00dc4b265b-5a00f1b88010.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1783315943625-6c00dc4b265b-a5def739a70c.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1783315943625-6c00dc4b265b-e08d1870242b.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1783315943625-6c00dc4b265b-0e71537da1d1.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1783315943625-6c00dc4b265b-dc2b660c5269.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1783315943625-6c00dc4b265b-cbc80be5ba51.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1783315943625-6c00dc4b265b-17ed0f055a7a.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1783315943625-6c00dc4b265b-43c5d0b94187.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1783315943625-6c00dc4b265b-73f323de44a6.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1771366629879-8b3128ee62ca-f337c90ce2d6.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1771366629879-8b3128ee62ca-1a61bc4375db.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1771366629879-8b3128ee62ca-17d19a388da9.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1771366629879-8b3128ee62ca-57b6f541cc73.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1771366629879-8b3128ee62ca-dd3bd199ff55.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1771366629879-8b3128ee62ca-dcd3dc656592.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1771366629879-8b3128ee62ca-730b4bfcc48a.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1771366629879-8b3128ee62ca-e341019de7ed.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1771366629879-8b3128ee62ca-2ee8b07c3cef.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1771366629879-8b3128ee62ca-c8a8e86bfc49.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1771366629879-8b3128ee62ca-1ba24e1a0a87.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1771366629879-8b3128ee62ca-4b6fa8d5f411.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1771366629879-8b3128ee62ca-c2162fdc6e10.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1771366629879-8b3128ee62ca-41844ca19f90.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1771366629879-8b3128ee62ca-ea62f3989f82.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1547587091-f883cf8f0c12-a62046181d9d.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1547587091-f883cf8f0c12-2aea74cbfbfe.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1547587091-f883cf8f0c12-a30bb7680548.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1547587091-f883cf8f0c12-b35ea936c490.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1547587091-f883cf8f0c12-db522dbe328a.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1547587091-f883cf8f0c12-4a16bad6b53c.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1615717146113-495e481c17c9-fc9b714b3a5d.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1615717146113-495e481c17c9-501bec619b2f.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1615717146113-495e481c17c9-22e4e5d4fc3d.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1615717146113-495e481c17c9-893f90688b7d.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1615717146113-495e481c17c9-f6d04ba60e90.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1615717146113-495e481c17c9-4af84ad3eaba.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1615717146113-495e481c17c9-125587a2e630.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1615717146113-495e481c17c9-c07a794cb392.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1615717146113-495e481c17c9-ec357a25d4b4.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1615717146113-495e481c17c9-08ba2b808a1e.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1615717146113-495e481c17c9-bacaa5b56bd2.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1615717146113-495e481c17c9-f3d55f87e54a.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1615717146113-495e481c17c9-6e3192dcfb09.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1615717146113-495e481c17c9-1b8c19819a16.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1615717146113-495e481c17c9-f0c66971f76d.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1768258341329-0b04044a7876-dfb4aced48ff.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1768258341329-0b04044a7876-133227145405.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1768258341329-0b04044a7876-fd9f8fe25c7b.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1768258341329-0b04044a7876-4673cbcef0b5.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1768258341329-0b04044a7876-c8f9fb03d3d7.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1768258341329-0b04044a7876-278e7c2731a7.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1768258341329-0b04044a7876-11087a3e9215.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1768258341329-0b04044a7876-a56039307354.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1768258341329-0b04044a7876-85d6b2f8c601.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1768258341329-0b04044a7876-e8a5b57c92fa.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1768258341329-0b04044a7876-98d5ee55e928.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1768258341329-0b04044a7876-d56d195b5a1f.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1768258341329-0b04044a7876-b20715036806.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1768258341329-0b04044a7876-5c1f4002a123.bin"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_img/photo-1547587091-f883cf8f0c12-fcd01490c0d4.bin",
+      "path": "_img/photo-1768258341329-0b04044a7876-693a4977d597.bin"
+    },
+    {
+      "url": "https://sparkdesign.example.com",
+      "path": "https:/sparkdesign.example.com"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/site.webmanifest",
+      "path": "site.webmanifest"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/favicon.ico?favicon.0vfx70vc9cv-z.ico",
+      "path": "favicon.ico-9c6cdd5da9ea.ico"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/icon.svg?icon.4576nxqg82-q2.svg",
+      "path": "icon.svg-f5f1631dabaf.svg"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/apple-icon.png?apple-icon.3x3n1f8tj8e1l.png",
+      "path": "apple-icon.png-5d3ac4c3f66f.png"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/_next/static/immutable",
+      "path": "_next/static/immutable/index.html"
+    },
+    {
+      "url": "https://rbp-sparkdesign-template.vercel.app/",
+      "path": "index.html"
+    },
+    {
+      "url": "https://vercel.live/_next-live/feedback/feedback.js",
+      "path": "https:/vercel.live/_next-live/feedback/feedback.js"
+    }
+  ],
+  "failures": [
+    {
+      "u": "https://sparkdesign.example.com",
+      "e": "TypeError: fetch failed"
+    }
+  ]
+}

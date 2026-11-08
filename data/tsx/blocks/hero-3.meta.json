@@ -1,0 +1,41 @@
+{
+ "id": "pro:block/hero-3",
+ "slug": "hero-3",
+ "name": "Hero 3",
+ "description": "Gradient hero with cursor effects",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero3",
+ "deps": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-3.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-3",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-3.txt",
+ "codeLen": 907249,
+ "role": "hero",
+ "previewHeight": 750,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": true
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "hero",
+ "dependencies": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-3.tsx",
+ "needInline": [
+  "2253",
+  "12246"
+ ]
+}

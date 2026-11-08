@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/3d-letter-swap",
+ "slug": "3d-letter-swap",
+ "name": "3D Letter Swap",
+ "description": "Letters that flip in 3D to swap on hover",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "text",
+  "3d"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/3d-letter-swap",
+ "lang": "jsx",
+ "codeFile": "code/components/3d-letter-swap.txt",
+ "codeLen": 11546,
+ "needInline": [
+  "51114",
+  "56388",
+  "90761",
+  "24694",
+  "87974",
+  "90650"
+ ]
+}

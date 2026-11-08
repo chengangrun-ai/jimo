@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/footer-3",
+ "slug": "footer-3",
+ "name": "Footer 3",
+ "description": "Full-width CTA bar with link columns",
+ "category": "Footer",
+ "categorySlug": "footer",
+ "exportName": "Footer3",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/footer/footer-3.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/footer-3",
+ "lang": "jsx",
+ "codeFile": "code/blocks/footer-3.txt",
+ "codeLen": 147797,
+ "role": "footer",
+ "previewHeight": 600,
+ "layout": {
+  "rootTag": "footer",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "footer",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/footer/footer-3.tsx",
+ "needInline": []
+}

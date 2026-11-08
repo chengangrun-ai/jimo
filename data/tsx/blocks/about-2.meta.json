@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/about-2",
+ "slug": "about-2",
+ "name": "About 2",
+ "description": "Timeline with a progress bar",
+ "category": "About",
+ "categorySlug": "about",
+ "exportName": "About2",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/about/about-2.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/about-2",
+ "lang": "jsx",
+ "codeFile": "code/blocks/about-2.txt",
+ "codeLen": 159178,
+ "role": "section",
+ "previewHeight": 850,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "about",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/about/about-2.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

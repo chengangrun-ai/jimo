@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/footer-10",
+ "slug": "footer-10",
+ "name": "Footer 10",
+ "description": "Statement footer with a glass promo card",
+ "category": "Footer",
+ "categorySlug": "footer",
+ "exportName": "Footer10",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/footer/footer-10.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/footer-10",
+ "lang": "jsx",
+ "codeFile": "code/blocks/footer-10.txt",
+ "codeLen": 151863,
+ "role": "footer",
+ "previewHeight": 720,
+ "layout": {
+  "rootTag": "footer",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "footer",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/footer/footer-10.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

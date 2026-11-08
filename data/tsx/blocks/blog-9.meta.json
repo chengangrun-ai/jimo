@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/blog-9",
+ "slug": "blog-9",
+ "name": "Blog 9",
+ "description": "Poster-style journal teaser",
+ "category": "Blog",
+ "categorySlug": "blog",
+ "exportName": "Blog9",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/blog/blog-9.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/blog-9",
+ "lang": "jsx",
+ "codeFile": "code/blocks/blog-9.txt",
+ "codeLen": 149373,
+ "role": "section",
+ "previewHeight": 1000,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "blog",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/blog/blog-9.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

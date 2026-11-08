@@ -1,0 +1,37 @@
+{
+ "id": "pro:block/stats-15",
+ "slug": "stats-15",
+ "name": "Stats 15",
+ "description": "Coverage dial with an automation ledger",
+ "category": "Stats",
+ "categorySlug": "stats",
+ "exportName": "Stats15",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/stats/stats-15.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/stats-15",
+ "lang": "jsx",
+ "codeFile": "code/blocks/stats-15.txt",
+ "codeLen": 155390,
+ "role": "section",
+ "previewHeight": 720,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "stats",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/stats/stats-15.tsx",
+ "needInline": [
+  "50969",
+  "87974"
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "pro:block/stats-14",
+ "slug": "stats-14",
+ "name": "Stats 14",
+ "description": "Stat cards with sparklines and deltas",
+ "category": "Stats",
+ "categorySlug": "stats",
+ "exportName": "Stats14",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/stats/stats-14.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/stats-14",
+ "lang": "jsx",
+ "codeFile": "code/blocks/stats-14.txt",
+ "codeLen": 156784,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "stats",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/stats/stats-14.tsx",
+ "needInline": [
+  "50969",
+  "87974"
+ ]
+}

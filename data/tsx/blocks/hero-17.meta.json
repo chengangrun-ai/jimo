@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/hero-17",
+ "slug": "hero-17",
+ "name": "Hero 17",
+ "description": "Ecommerce hero with a product grid",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero17",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-17.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-17",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-17.txt",
+ "codeLen": 148277,
+ "role": "hero",
+ "previewHeight": 750,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "hero",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-17.tsx",
+ "needInline": []
+}

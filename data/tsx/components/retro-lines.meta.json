@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/retro-lines",
+ "slug": "retro-lines",
+ "name": "Retro Lines",
+ "description": "Wavy lines receding toward a retro horizon",
+ "category": "shader",
+ "tier": "starter",
+ "tags": [
+  "shader",
+  "3d",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/retro-lines",
+ "lang": "jsx",
+ "codeFile": "code/components/retro-lines.txt",
+ "codeLen": 13421,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "90650",
+  "2253"
+ ]
+}

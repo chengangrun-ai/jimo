@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/comparison-6",
+ "slug": "comparison-6",
+ "name": "Comparison 6",
+ "description": "Your stack versus the product, line by line",
+ "category": "Comparison",
+ "categorySlug": "comparison",
+ "exportName": "Comparison6",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/comparison/comparison-6.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/comparison-6",
+ "lang": "jsx",
+ "codeFile": "code/blocks/comparison-6.txt",
+ "codeLen": 151291,
+ "role": "section",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "comparison",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/comparison/comparison-6.tsx",
+ "needInline": []
+}

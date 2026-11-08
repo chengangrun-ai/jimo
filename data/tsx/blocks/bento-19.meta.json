@@ -1,0 +1,42 @@
+{
+ "id": "pro:block/bento-19",
+ "slug": "bento-19",
+ "name": "Bento 19",
+ "description": "Tilting payment card with a live balance",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento19",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-19.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-19",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-19.txt",
+ "codeLen": 162007,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-19.tsx",
+ "needInline": [
+  "50969",
+  "87974",
+  "75272",
+  "17192",
+  "32923"
+ ]
+}

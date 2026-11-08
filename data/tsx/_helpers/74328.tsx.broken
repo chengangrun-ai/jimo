@@ -1,0 +1,31 @@
+import * as __mod_21757 from "./21757";
+/**
+ * 内部辅助模块 74328（自动内联）
+ * 被页面区块共享使用。
+ */
+
+/* __rbWebpackShim__ : 反编译残留的 webpack CJS 参数，这里补上声明 */
+const e: any = { exports: {} as any };
+const t: any = e.exports;
+const r: any = { g: globalThis as any };
+
+let u = `${__mod_21757.HTTP_ERROR_FALLBACK_ERROR_CODE};404`;
+function l() {
+  let e = Object.defineProperty(Error(u), "__NEXT_ERROR_CODE", {
+    value: "E394",
+    enumerable: !1,
+    configurable: !0
+  });
+  throw e.digest = u, e;
+}
+("function" == typeof t.default || "object" == typeof t.default && null !== t.default) && void 0 === t.default.__esModule && (Object.defineProperty(t.default, "__esModule", {
+  value: !0
+
+export { u as default, u };
+
+export default (e.exports && e.exports.default) || e.exports;
+export { l, u };
+export default { l, u };
+
+// Next 内部模块原本挂在 exports 上，这里改成显式导出
+export const notFound = l;

@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/scroll-bend",
+ "slug": "scroll-bend",
+ "name": "Scroll Bend",
+ "description": "A strip of images that bulges or pinches with your scroll speed",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "scroll",
+  "images",
+  "lens",
+  "distortion",
+  "webgl",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/scroll-bend",
+ "lang": "jsx",
+ "codeFile": "code/components/scroll-bend.txt",
+ "codeLen": 32089,
+ "needInline": [
+  "56388",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

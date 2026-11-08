@@ -1,0 +1,43 @@
+{
+ "id": "pro:block/pricing-1",
+ "slug": "pricing-1",
+ "name": "Pricing 1",
+ "description": "Three tiers with a billing toggle",
+ "category": "Pricing",
+ "categorySlug": "pricing",
+ "exportName": "Pricing1",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/pricing/pricing-1.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/pricing-1",
+ "lang": "jsx",
+ "codeFile": "code/blocks/pricing-1.txt",
+ "codeLen": 157454,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "www.w3.org"
+ ],
+ "categoryDir": "pricing",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/pricing/pricing-1.tsx",
+ "needInline": [
+  "75272",
+  "26",
+  "32923",
+  "49629"
+ ]
+}

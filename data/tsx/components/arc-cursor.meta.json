@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/arc-cursor",
+ "slug": "arc-cursor",
+ "name": "Arc Cursor",
+ "description": "A crackling electric arc that trails the cursor",
+ "category": "cursor",
+ "tier": "starter",
+ "tags": [
+  "cursor",
+  "lightning",
+  "electric",
+  "trail",
+  "webgl",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/arc-cursor",
+ "lang": "jsx",
+ "codeFile": "code/components/arc-cursor.txt",
+ "codeLen": 37212,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

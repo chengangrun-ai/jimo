@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/parallax-cards",
+ "slug": "parallax-cards",
+ "name": "Parallax Cards",
+ "description": "Layered cards that shift in depth with the cursor",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "cards",
+  "parallax",
+  "ui"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/parallax-cards",
+ "lang": "jsx",
+ "codeFile": "code/components/parallax-cards.txt",
+ "codeLen": 15335,
+ "needInline": [
+  "56388",
+  "48543",
+  "45949",
+  "90761",
+  "90650",
+  "82637"
+ ]
+}

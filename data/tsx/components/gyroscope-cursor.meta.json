@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/gyroscope-cursor",
+ "slug": "gyroscope-cursor",
+ "name": "Gyroscope Cursor",
+ "description": "An arrow cursor that turns toward where it moves",
+ "category": "cursor",
+ "tier": "starter",
+ "tags": [
+  "cursor",
+  "pointer",
+  "custom cursor",
+  "agent",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/gyroscope-cursor",
+ "lang": "jsx",
+ "codeFile": "code/components/gyroscope-cursor.txt",
+ "codeLen": 26481,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "90650"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "id": "pro:component/aurora-blur",
+ "slug": "aurora-blur",
+ "name": "Aurora Blur",
+ "description": "A soft, blurred aurora glow",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/aurora-blur",
+ "lang": "jsx",
+ "codeFile": "code/components/aurora-blur.txt",
+ "codeLen": 12845,
+ "needInline": [
+  "56388",
+  "48543",
+  "90761",
+  "81712",
+  "3907",
+  "2253"
+ ]
+}

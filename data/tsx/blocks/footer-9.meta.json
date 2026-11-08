@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/footer-9",
+ "slug": "footer-9",
+ "name": "Footer 9",
+ "description": "Full sitemap footer with a giant wordmark",
+ "category": "Footer",
+ "categorySlug": "footer",
+ "exportName": "Footer9",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/footer/footer-9.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/footer-9",
+ "lang": "jsx",
+ "codeFile": "code/blocks/footer-9.txt",
+ "codeLen": 152730,
+ "role": "footer",
+ "previewHeight": 820,
+ "layout": {
+  "rootTag": "footer",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "footer",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/footer/footer-9.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

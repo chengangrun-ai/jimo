@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/scroll-mask",
+ "slug": "scroll-mask",
+ "name": "Scroll Mask",
+ "description": "An image revealed through a mask as you scroll",
+ "category": "scroll",
+ "tier": "starter",
+ "tags": [
+  "scroll",
+  "mask",
+  "reveal",
+  "sticky",
+  "cinematic",
+  "image"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/scroll-mask",
+ "lang": "jsx",
+ "codeFile": "code/components/scroll-mask.txt",
+ "codeLen": 17084,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "90650"
+ ]
+}

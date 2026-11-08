@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/ascii-waves",
+ "slug": "ascii-waves",
+ "name": "Ascii Waves",
+ "description": "Waves made of ASCII characters",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "animation",
+  "ascii"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/ascii-waves",
+ "lang": "jsx",
+ "codeFile": "code/components/ascii-waves.txt",
+ "codeLen": 12625,
+ "needInline": [
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

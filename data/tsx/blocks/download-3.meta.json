@@ -1,0 +1,46 @@
+{
+ "id": "pro:block/download-3",
+ "slug": "download-3",
+ "name": "Download 3",
+ "description": "Download CTA with an animated logo",
+ "category": "Download",
+ "categorySlug": "download",
+ "exportName": "Download3",
+ "deps": [
+  "@react-three/fiber",
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/download/download-3.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/download-3",
+ "lang": "jsx",
+ "codeFile": "code/blocks/download-3.txt",
+ "codeLen": 1096248,
+ "role": "section",
+ "previewHeight": 600,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/mock-logos/spherule.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "download",
+ "dependencies": [
+  "@react-three/fiber",
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/download/download-3.tsx",
+ "needInline": [
+  "81712",
+  "3907",
+  "2253"
+ ]
+}

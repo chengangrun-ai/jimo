@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/comparison-7",
+ "slug": "comparison-7",
+ "name": "Comparison 7",
+ "description": "Draggable before and after wipe",
+ "category": "Comparison",
+ "categorySlug": "comparison",
+ "exportName": "Comparison7",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/comparison/comparison-7.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/comparison-7",
+ "lang": "jsx",
+ "codeFile": "code/blocks/comparison-7.txt",
+ "codeLen": 153858,
+ "role": "section",
+ "previewHeight": 780,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "comparison",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/comparison/comparison-7.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

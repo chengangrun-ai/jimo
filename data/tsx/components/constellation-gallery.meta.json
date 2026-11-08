@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/constellation-gallery",
+ "slug": "constellation-gallery",
+ "name": "Constellation Gallery",
+ "description": "Photo cards that flow between rings, spirals and globes",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "images",
+  "3d",
+  "webgl",
+  "interactive",
+  "showcase"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/constellation-gallery",
+ "lang": "jsx",
+ "codeFile": "code/components/constellation-gallery.txt",
+ "codeLen": 38482,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "id": "pro:block/hero-33",
+ "slug": "hero-33",
+ "name": "Hero 33",
+ "description": "Integration platform hero with a draggable knot of light and an email signup",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero33",
+ "deps": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-33.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-33",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-33.txt",
+ "codeLen": 919525,
+ "role": "hero",
+ "previewHeight": 860,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "hero",
+ "dependencies": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-33.tsx",
+ "needInline": [
+  "50969",
+  "2253",
+  "12246"
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/device",
+ "slug": "device",
+ "name": "Device",
+ "description": "A studio-lit 3D phone mockup that frames any image or content",
+ "category": "ui",
+ "tier": "starter",
+ "tags": [
+  "ui",
+  "mockup",
+  "3d",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/device",
+ "lang": "jsx",
+ "codeFile": "code/components/device.txt",
+ "codeLen": 33404,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "37377",
+  "54656",
+  "90650"
+ ]
+}

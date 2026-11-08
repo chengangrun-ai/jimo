@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/pricing-5",
+ "slug": "pricing-5",
+ "name": "Pricing 5",
+ "description": "Joined cards with a glowing button",
+ "category": "Pricing",
+ "categorySlug": "pricing",
+ "exportName": "Pricing5",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/pricing/pricing-5.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/pricing-5",
+ "lang": "jsx",
+ "codeFile": "code/blocks/pricing-5.txt",
+ "codeLen": 148586,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "pricing",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/pricing/pricing-5.tsx",
+ "needInline": []
+}

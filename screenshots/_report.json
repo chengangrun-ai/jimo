@@ -1,0 +1,262 @@
+[
+  {
+    "name": "01-home",
+    "route": "/",
+    "mode": "top",
+    "ok": true,
+    "bytes": 76594,
+    "dom": {
+      "title": "React Bits Pro — Templates",
+      "h1": "Build the whole product\nwith one library.",
+      "bodyTextLen": 968,
+      "codeChars": 0,
+      "codeTokens": 0,
+      "hasIframe": false,
+      "iframeSrc": null,
+      "sidebarLinks": 0,
+      "scrollY": 0,
+      "docHeight": 1912,
+      "brokenImgs": 0
+    }
+  },
+  {
+    "name": "02-templates",
+    "route": "/docs/templates",
+    "mode": "top",
+    "ok": true,
+    "bytes": 273610,
+    "dom": {
+      "title": "Templates | React Bits Pro",
+      "h1": "Templates",
+      "bodyTextLen": 1956,
+      "codeChars": 0,
+      "codeTokens": 0,
+      "hasIframe": false,
+      "iframeSrc": null,
+      "sidebarLinks": 25,
+      "scrollY": 0,
+      "docHeight": 2397,
+      "brokenImgs": 0
+    }
+  },
+  {
+    "name": "03-templates-detail",
+    "route": "/docs/templates/agentframe",
+    "mode": "top",
+    "ok": true,
+    "bytes": 228065,
+    "dom": {
+      "title": "Agentframe | React Bits Pro",
+      "h1": "Agentframe",
+      "bodyTextLen": 730,
+      "codeChars": 0,
+      "codeTokens": 0,
+      "hasIframe": false,
+      "iframeSrc": null,
+      "sidebarLinks": 25,
+      "scrollY": 0,
+      "docHeight": 1386,
+      "brokenImgs": 0
+    }
+  },
+  {
+    "name": "04-components",
+    "route": "/docs/components",
+    "mode": "top",
+    "ok": true,
+    "bytes": 232771,
+    "dom": {
+      "title": "Components | React Bits Pro",
+      "h1": "Components",
+      "bodyTextLen": 11929,
+      "codeChars": 0,
+      "codeTokens": 0,
+      "hasIframe": false,
+      "iframeSrc": null,
+      "sidebarLinks": 90,
+      "scrollY": 0,
+      "docHeight": 11791,
+      "brokenImgs": 0
+    }
+  },
+  {
+    "name": "05-blocks",
+    "route": "/docs/blocks",
+    "mode": "top",
+    "ok": true,
+    "bytes": 208983,
+    "dom": {
+      "title": "Blocks | React Bits Pro",
+      "h1": "Blocks",
+      "bodyTextLen": 3714,
+      "codeChars": 0,
+      "codeTokens": 0,
+      "hasIframe": false,
+      "iframeSrc": null,
+      "sidebarLinks": 32,
+      "scrollY": 0,
+      "docHeight": 5774,
+      "brokenImgs": 0
+    }
+  },
+  {
+    "name": "06-app-ui",
+    "route": "/docs/app-ui",
+    "mode": "top",
+    "ok": true,
+    "bytes": 220989,
+    "dom": {
+      "title": "App UI | React Bits Pro",
+      "h1": "App UI",
+      "bodyTextLen": 3076,
+      "codeChars": 0,
+      "codeTokens": 0,
+      "hasIframe": false,
+      "iframeSrc": null,
+      "sidebarLinks": 48,
+      "scrollY": 0,
+      "docHeight": 5462,
+      "brokenImgs": 0
+    }
+  },
+  {
+    "name": "07-detail-free",
+    "route": "/docs/components/free/blur-text",
+    "mode": "code",
+    "ok": true,
+    "bytes": 77519,
+    "dom": {
+      "title": "Blur Text | React Bits Pro",
+      "h1": "Blur Text",
+      "bodyTextLen": 13890,
+      "codeChars": 12715,
+      "codeTokens": 2097,
+      "hasIframe": true,
+      "iframeSrc": "https://reactbits.dev/c/text-animations/blur-text",
+      "sidebarLinks": 70,
+      "scrollY": 896,
+      "docHeight": 1796,
+      "brokenImgs": 0
+    }
+  },
+  {
+    "name": "08-detail-block",
+    "route": "/docs/blocks/hero-1",
+    "mode": "code",
+    "ok": true,
+    "bytes": 80942,
+    "dom": {
+      "title": "Hero 1 | React Bits Pro",
+      "h1": "Hero 1",
+      "bodyTextLen": 151946,
+      "codeChars": 150997,
+      "codeTokens": 35367,
+      "hasIframe": true,
+      "iframeSrc": "https://pro.reactbits.dev/docs/blocks/hero-1",
+      "sidebarLinks": 70,
+      "scrollY": 937,
+      "docHeight": 1837,
+      "brokenImgs": 0
+    }
+  },
+  {
+    "name": "09-search",
+    "route": "/docs/templates",
+    "mode": "search",
+    "ok": true,
+    "bytes": 200141,
+    "dom": {
+      "title": "Templates | React Bits Pro",
+      "h1": "Templates",
+      "bodyTextLen": 2505,
+      "codeChars": 0,
+      "codeTokens": 0,
+      "hasIframe": false,
+      "iframeSrc": null,
+      "sidebarLinks": 25,
+      "scrollY": 0,
+      "docHeight": 2397,
+      "brokenImgs": 0
+    }
+  },
+  {
+    "name": "10-preview",
+    "route": "/preview/agentframe",
+    "mode": "top",
+    "ok": true,
+    "bytes": 463076,
+    "dom": {
+      "title": "agentframe · Preview",
+      "h1": null,
+      "bodyTextLen": 102,
+      "codeChars": 0,
+      "codeTokens": 0,
+      "hasIframe": true,
+      "iframeSrc": "http://127.0.0.1:3000/templates/agentframe/index.html",
+      "sidebarLinks": 0,
+      "scrollY": 0,
+      "docHeight": 69,
+      "brokenImgs": 0
+    }
+  },
+  {
+    "name": "11-introduction",
+    "route": "/docs/introduction",
+    "mode": "top",
+    "ok": true,
+    "bytes": 96898,
+    "dom": {
+      "title": "Introduction | React Bits Pro",
+      "h1": "Introduction",
+      "bodyTextLen": 862,
+      "codeChars": 0,
+      "codeTokens": 0,
+      "hasIframe": false,
+      "iframeSrc": null,
+      "sidebarLinks": 0,
+      "scrollY": 0,
+      "docHeight": 1280,
+      "brokenImgs": 0
+    }
+  },
+  {
+    "name": "12-installation",
+    "route": "/docs/installation",
+    "mode": "top",
+    "ok": true,
+    "bytes": 52330,
+    "dom": {
+      "title": "Installation | React Bits Pro",
+      "h1": "Installation",
+      "bodyTextLen": 1029,
+      "codeChars": 0,
+      "codeTokens": 0,
+      "hasIframe": false,
+      "iframeSrc": null,
+      "sidebarLinks": 0,
+      "scrollY": 0,
+      "docHeight": 1369,
+      "brokenImgs": 0
+    }
+  },
+  {
+    "name": "13-tools",
+    "route": "/tools",
+    "mode": "top",
+    "ok": true,
+    "bytes": 45300,
+    "dom": {
+      "title": "Tools | React Bits Pro",
+      "h1": "Tools",
+      "bodyTextLen": 249,
+      "codeChars": 0,
+      "codeTokens": 0,
+      "hasIframe": false,
+      "iframeSrc": null,
+      "sidebarLinks": 0,
+      "scrollY": 0,
+      "docHeight": 946,
+      "brokenImgs": 0
+    }
+  }
+]

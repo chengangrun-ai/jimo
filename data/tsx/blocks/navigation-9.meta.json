@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/navigation-9",
+ "slug": "navigation-9",
+ "name": "Navigation 9",
+ "description": "Pill nav with a peeking announcement",
+ "category": "Navigation",
+ "categorySlug": "navigation",
+ "exportName": "Navigation9",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/navigation/navigation-9.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/navigation-9",
+ "lang": "jsx",
+ "codeFile": "code/blocks/navigation-9.txt",
+ "codeLen": 152779,
+ "role": "navigation",
+ "previewHeight": 500,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "navigation",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/navigation/navigation-9.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

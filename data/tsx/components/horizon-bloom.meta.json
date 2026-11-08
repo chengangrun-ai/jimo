@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/horizon-bloom",
+ "slug": "horizon-bloom",
+ "name": "Horizon Bloom",
+ "description": "A sunrise breaking over the glowing edge of a dark planet",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "webgl",
+  "light",
+  "space",
+  "interactive",
+  "horizon"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/horizon-bloom",
+ "lang": "jsx",
+ "codeFile": "code/components/horizon-bloom.txt",
+ "codeLen": 33138,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

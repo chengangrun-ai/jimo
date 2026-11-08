@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/auth-4",
+ "slug": "auth-4",
+ "name": "Auth 4",
+ "description": "Split sign-in with an orbital trust ring",
+ "category": "Auth",
+ "categorySlug": "auth",
+ "exportName": "Auth4",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/auth/auth-4.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/auth-4",
+ "lang": "jsx",
+ "codeFile": "code/blocks/auth-4.txt",
+ "codeLen": 158822,
+ "role": "page",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "auth",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/auth/auth-4.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

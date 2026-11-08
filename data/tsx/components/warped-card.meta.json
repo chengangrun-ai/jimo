@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/warped-card",
+ "slug": "warped-card",
+ "name": "Warped Card",
+ "description": "An image card that bulges under the cursor",
+ "category": "shader",
+ "tier": "starter",
+ "tags": [
+  "shader",
+  "3d",
+  "card",
+  "hover"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/warped-card",
+ "lang": "jsx",
+ "codeFile": "code/components/warped-card.txt",
+ "codeLen": 9226,
+ "needInline": [
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

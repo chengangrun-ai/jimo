@@ -1,0 +1,41 @@
+{
+ "id": "pro:block/bento-5",
+ "slug": "bento-5",
+ "name": "Bento 5",
+ "description": "Security shield with a scanning beam",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento5",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-5.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-5",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-5.txt",
+ "codeLen": 153948,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-5.tsx",
+ "needInline": [
+  "50969",
+  "75272",
+  "17192",
+  "32923"
+ ]
+}

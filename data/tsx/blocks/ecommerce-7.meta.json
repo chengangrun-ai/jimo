@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/ecommerce-7",
+ "slug": "ecommerce-7",
+ "name": "Ecommerce 7",
+ "description": "Collection tiles with animated tabs",
+ "category": "Ecommerce",
+ "categorySlug": "ecommerce",
+ "exportName": "Ecommerce7",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/ecommerce/ecommerce-7.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/ecommerce-7",
+ "lang": "jsx",
+ "codeFile": "code/blocks/ecommerce-7.txt",
+ "codeLen": 156987,
+ "role": "section",
+ "previewHeight": 850,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "ecommerce",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/ecommerce/ecommerce-7.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

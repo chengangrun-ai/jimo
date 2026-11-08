@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/dolly-gallery",
+ "slug": "dolly-gallery",
+ "name": "Dolly Gallery",
+ "description": "Images stacked in depth that you fly through on scroll",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "scroll",
+  "3d",
+  "depth",
+  "images",
+  "infinite",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/dolly-gallery",
+ "lang": "jsx",
+ "codeFile": "code/components/dolly-gallery.txt",
+ "codeLen": 16358,
+ "needInline": [
+  "56388",
+  "90761",
+  "90650"
+ ]
+}

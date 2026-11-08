@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/card-spread",
+ "slug": "card-spread",
+ "name": "Card Spread",
+ "description": "A fanned deck of cards that spreads open on hover",
+ "category": "cards",
+ "tier": "starter",
+ "tags": [
+  "cards",
+  "hover",
+  "fan",
+  "stack",
+  "gallery",
+  "motion"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/card-spread",
+ "lang": "jsx",
+ "codeFile": "code/components/card-spread.txt",
+ "codeLen": 12548,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "50969",
+  "90650"
+ ]
+}

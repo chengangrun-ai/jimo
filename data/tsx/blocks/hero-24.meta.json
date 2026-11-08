@@ -1,0 +1,41 @@
+{
+ "id": "pro:block/hero-24",
+ "slug": "hero-24",
+ "name": "Hero 24",
+ "description": "Left-aligned hero over glowing filaments",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero24",
+ "deps": [
+  "@paper-design/shaders-react",
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-24.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-24",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-24.txt",
+ "codeLen": 175736,
+ "role": "hero",
+ "previewHeight": 780,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "hero",
+ "dependencies": [
+  "@paper-design/shaders-react",
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-24.tsx",
+ "needInline": [
+  "50969",
+  "4688"
+ ]
+}

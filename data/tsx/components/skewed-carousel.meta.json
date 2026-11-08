@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/skewed-carousel",
+ "slug": "skewed-carousel",
+ "name": "Skewed Carousel",
+ "description": "A skewed carousel of cards that tilt as they slide",
+ "category": "carousel",
+ "tier": "starter",
+ "tags": [
+  "carousel",
+  "marquee",
+  "skew",
+  "scroll",
+  "gallery",
+  "showcase"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/skewed-carousel",
+ "lang": "jsx",
+ "codeFile": "code/components/skewed-carousel.txt",
+ "codeLen": 12337,
+ "needInline": [
+  "56388",
+  "90761",
+  "90650"
+ ]
+}

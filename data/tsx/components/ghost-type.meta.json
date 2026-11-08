@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/ghost-type",
+ "slug": "ghost-type",
+ "name": "Ghost Type",
+ "description": "A headline that writes itself with AI-style ghost completions",
+ "category": "text",
+ "tier": "starter",
+ "tags": [
+  "text",
+  "animation",
+  "typing",
+  "ai",
+  "headline"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/ghost-type",
+ "lang": "jsx",
+ "codeFile": "code/components/ghost-type.txt",
+ "codeLen": 22495,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "90650"
+ ]
+}

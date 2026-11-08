@@ -1,0 +1,27 @@
+{
+ "kind": "app-ui",
+ "total": 300,
+ "pass": 297,
+ "fail": 3,
+ "failures": [
+  {
+   "kind": "app-ui",
+   "slug": "app-shell-7",
+   "ok": false,
+   "stage": "render",
+   "err": "Minified React error #65; visit https://react.dev/errors/65?args[]=t%24 for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+  },
+  {
+   "slug": "analytics-13",
+   "ok": false,
+   "stage": "timeout",
+   "err": "exceeded 20s"
+  },
+  {
+   "slug": "dashboard-10",
+   "ok": false,
+   "stage": "timeout",
+   "err": "exceeded 20s"
+  }
+ ]
+}

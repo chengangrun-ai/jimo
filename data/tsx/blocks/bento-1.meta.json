@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/bento-1",
+ "slug": "bento-1",
+ "name": "Bento 1",
+ "description": "Integration chips feeding a central node",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento1",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-1.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-1",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-1.txt",
+ "codeLen": 152629,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-1.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

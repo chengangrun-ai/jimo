@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/satin-ridges",
+ "slug": "satin-ridges",
+ "name": "Satin Ridges",
+ "description": "Flowing satin folds catching soft highlights",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "webgl",
+  "satin",
+  "fabric",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/satin-ridges",
+ "lang": "jsx",
+ "codeFile": "code/components/satin-ridges.txt",
+ "codeLen": 18853,
+ "needInline": [
+  "86049",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

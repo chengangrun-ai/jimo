@@ -1,0 +1,39 @@
+{
+ "id": "pro:block/stats-13",
+ "slug": "stats-13",
+ "name": "Stats 13",
+ "description": "Annual report ledger of big numbers",
+ "category": "Stats",
+ "categorySlug": "stats",
+ "exportName": "Stats13",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/stats/stats-13.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/stats-13",
+ "lang": "jsx",
+ "codeFile": "code/blocks/stats-13.txt",
+ "codeLen": 155269,
+ "role": "section",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "stats",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/stats/stats-13.tsx",
+ "needInline": [
+  "50969",
+  "87974"
+ ]
+}

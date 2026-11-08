@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/expanding-grid",
+ "slug": "expanding-grid",
+ "name": "Expanding Grid",
+ "description": "A portrait grid that magnifies faces under the cursor",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "images",
+  "webgl",
+  "interactive",
+  "hover",
+  "showcase"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/expanding-grid",
+ "lang": "jsx",
+ "codeFile": "code/components/expanding-grid.txt",
+ "codeLen": 27920,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

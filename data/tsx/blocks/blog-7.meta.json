@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/blog-7",
+ "slug": "blog-7",
+ "name": "Blog 7",
+ "description": "Blog grid with a tag filter",
+ "category": "Blog",
+ "categorySlug": "blog",
+ "exportName": "Blog7",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/blog/blog-7.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/blog-7",
+ "lang": "jsx",
+ "codeFile": "code/blocks/blog-7.txt",
+ "codeLen": 152320,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "blog",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/blog/blog-7.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

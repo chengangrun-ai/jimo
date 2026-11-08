@@ -1,0 +1,39 @@
+{
+ "id": "pro:block/bento-35",
+ "slug": "bento-35",
+ "name": "Bento 35",
+ "description": "AI analyst streaming a reply with data",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento35",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-35.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-35",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-35.txt",
+ "codeLen": 161775,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-35.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

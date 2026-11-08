@@ -1,0 +1,159 @@
+{
+  "base": "https://rbp-security-template.vercel.app",
+  "generatedAt": "2026-11-01T06:51:48.354Z",
+  "pages": [
+    "/"
+  ],
+  "assets": [
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2",
+      "path": "_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/media/797e433ab948586e-s.p.29207c2f.woff2",
+      "path": "_next/static/media/797e433ab948586e-s.p.29207c2f.woff2"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2",
+      "path": "_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/9a04468060cfff78.css",
+      "path": "_next/static/chunks/9a04468060cfff78.css"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/9509aec5d75af5f6.js",
+      "path": "_next/static/chunks/9509aec5d75af5f6.js"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/756ddf5e8fd9bbb5.js",
+      "path": "_next/static/chunks/756ddf5e8fd9bbb5.js"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/99f3e17d91a38917.js",
+      "path": "_next/static/chunks/99f3e17d91a38917.js"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/turbopack-c2f155dfbec67a39.js",
+      "path": "_next/static/chunks/turbopack-c2f155dfbec67a39.js"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/9de8a5e2301a73a0.js",
+      "path": "_next/static/chunks/9de8a5e2301a73a0.js"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/16124045fc9acd5a.js",
+      "path": "_next/static/chunks/16124045fc9acd5a.js"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/4fd93823156e59e8.js",
+      "path": "_next/static/chunks/4fd93823156e59e8.js"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/15ac4acf6b48e0d3.js",
+      "path": "_next/static/chunks/15ac4acf6b48e0d3.js"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/a6dad97d9634a72d.js",
+      "path": "_next/static/chunks/a6dad97d9634a72d.js"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/9a04468060cfff78.css",
+      "path": "_next/static/chunks/9a04468060cfff78.css-681bc26ae61f.css"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/9509aec5d75af5f6.js",
+      "path": "_next/static/chunks/9509aec5d75af5f6.js-b8318e716562.js"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/756ddf5e8fd9bbb5.js",
+      "path": "_next/static/chunks/756ddf5e8fd9bbb5.js-5731cf269b8c.js"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/99f3e17d91a38917.js",
+      "path": "_next/static/chunks/99f3e17d91a38917.js-71c94b63721c.js"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/turbopack-c2f155dfbec67a39.js",
+      "path": "_next/static/chunks/turbopack-c2f155dfbec67a39.js-b66b65e71964.js"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/9de8a5e2301a73a0.js",
+      "path": "_next/static/chunks/9de8a5e2301a73a0.js-dd65fd659f3c.js"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/16124045fc9acd5a.js",
+      "path": "_next/static/chunks/16124045fc9acd5a.js-9b640863c718.js"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/4fd93823156e59e8.js",
+      "path": "_next/static/chunks/4fd93823156e59e8.js-e5aacd88522a.js"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/15ac4acf6b48e0d3.js",
+      "path": "_next/static/chunks/15ac4acf6b48e0d3.js-66ecbe6f85c6.js"
+    },
+    {
+      "url": "https://example.com",
+      "path": "https:/example.com"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/site.webmanifest",
+      "path": "site.webmanifest"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/favicon-16x16.png",
+      "path": "favicon-16x16.png"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/favicon.ico?favicon.0b3bf435.ico",
+      "path": "favicon.ico-77462403ac0b.ico"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/favicon.ico",
+      "path": "favicon.ico"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/apple-icon.png",
+      "path": "apple-icon.png"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/_next/static/chunks/a6dad97d9634a72d.js",
+      "path": "_next/static/chunks/a6dad97d9634a72d.js-70843d60901d.js"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/value-prop.jpg",
+      "path": "value-prop.jpg"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/sample-video-2.mp4",
+      "path": "sample-video-2.mp4"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/testimonials/person-1.jpg",
+      "path": "testimonials/person-1.jpg"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/testimonials/person-2.jpg",
+      "path": "testimonials/person-2.jpg"
+    },
+    {
+      "url": "https://rbp-security-template.vercel.app/testimonials/person-3.jpg",
+      "path": "testimonials/person-3.jpg"
+    }
+  ],
+  "failures": [
+    {
+      "u": "https://example.com",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://rbp-security-template.vercel.app/favicon-16x16.png",
+      "s": 404
+    },
+    {
+      "u": "https://rbp-security-template.vercel.app/apple-icon.png",
+      "s": 404
+    }
+  ]
+}

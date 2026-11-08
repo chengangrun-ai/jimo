@@ -1,0 +1,20 @@
+{
+ "id": "pro:component/glitch-text",
+ "slug": "glitch-text",
+ "name": "Glitch Text",
+ "description": "Text that glitches under the cursor",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "text"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/glitch-text",
+ "lang": "jsx",
+ "codeFile": "code/components/glitch-text.txt",
+ "codeLen": 11270,
+ "needInline": [
+  "56388",
+  "90761"
+ ]
+}

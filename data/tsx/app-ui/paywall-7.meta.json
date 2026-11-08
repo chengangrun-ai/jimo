@@ -1,0 +1,22 @@
+{
+ "id": "pro:app-ui/sorbet/paywall-7",
+ "slug": "paywall-7",
+ "name": "Paywall 7",
+ "description": "",
+ "category": "paywall",
+ "style": "sorbet",
+ "href": "https://pro.reactbits.dev/docs/app-ui/paywall-7",
+ "lang": "jsx",
+ "codeFile": "code/app-ui/paywall-7.txt",
+ "codeLen": 25747,
+ "needInline": [
+  "22728",
+  "67358",
+  "90987",
+  "27151",
+  "89289",
+  "27476",
+  "95735",
+  "17601"
+ ]
+}

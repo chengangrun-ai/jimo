@@ -1,0 +1,41 @@
+{
+ "id": "pro:block/bento-28",
+ "slug": "bento-28",
+ "name": "Bento 28",
+ "description": "Kanban cards moving across columns",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento28",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-28.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-28",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-28.txt",
+ "codeLen": 157409,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "i.pravatar.cc"
+ ],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-28.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

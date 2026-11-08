@@ -1,0 +1,41 @@
+{
+ "id": "pro:block/ecommerce-8",
+ "slug": "ecommerce-8",
+ "name": "Ecommerce 8",
+ "description": "Product page with a spec sheet",
+ "category": "Ecommerce",
+ "categorySlug": "ecommerce",
+ "exportName": "Ecommerce8",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/ecommerce/ecommerce-8.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/ecommerce-8",
+ "lang": "jsx",
+ "codeFile": "code/blocks/ecommerce-8.txt",
+ "codeLen": 158090,
+ "role": "section",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "ecommerce",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/ecommerce/ecommerce-8.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

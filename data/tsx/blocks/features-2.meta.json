@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/features-2",
+ "slug": "features-2",
+ "name": "Features 2",
+ "description": "Auto-cycling carousel with glass cards",
+ "category": "Features",
+ "categorySlug": "features",
+ "exportName": "Features2",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/features/features-2.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/features-2",
+ "lang": "jsx",
+ "codeFile": "code/blocks/features-2.txt",
+ "codeLen": 155432,
+ "role": "section",
+ "previewHeight": 790,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "features",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/features/features-2.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

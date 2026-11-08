@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/pricing-6",
+ "slug": "pricing-6",
+ "name": "Pricing 6",
+ "description": "Three cards with a highlighted middle",
+ "category": "Pricing",
+ "categorySlug": "pricing",
+ "exportName": "Pricing6",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/pricing/pricing-6.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/pricing-6",
+ "lang": "jsx",
+ "codeFile": "code/blocks/pricing-6.txt",
+ "codeLen": 149935,
+ "role": "section",
+ "previewHeight": 950,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "pricing",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/pricing/pricing-6.tsx",
+ "needInline": []
+}

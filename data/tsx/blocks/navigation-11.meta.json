@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/navigation-11",
+ "slug": "navigation-11",
+ "name": "Navigation 11",
+ "description": "Dark nav with a white mega menu",
+ "category": "Navigation",
+ "categorySlug": "navigation",
+ "exportName": "Navigation11",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/navigation/navigation-11.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/navigation-11",
+ "lang": "jsx",
+ "codeFile": "code/blocks/navigation-11.txt",
+ "codeLen": 158588,
+ "role": "navigation",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "navigation",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/navigation/navigation-11.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

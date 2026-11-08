@@ -1,0 +1,23 @@
+{
+ "id": "pro:component/liquid-ascii",
+ "slug": "liquid-ascii",
+ "name": "Liquid Ascii",
+ "description": "Sloshing water drawn in ASCII characters",
+ "category": "ascii",
+ "tier": "starter",
+ "tags": [
+  "ascii",
+  "simulation",
+  "cursor"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/liquid-ascii",
+ "lang": "jsx",
+ "codeFile": "code/components/liquid-ascii.txt",
+ "codeLen": 18206,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "90650"
+ ]
+}

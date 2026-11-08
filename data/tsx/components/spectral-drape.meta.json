@@ -1,0 +1,30 @@
+{
+ "id": "pro:component/spectral-drape",
+ "slug": "spectral-drape",
+ "name": "Spectral Drape",
+ "description": "A glowing drape of dots folding in 3D",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "webgl",
+  "particles",
+  "3d",
+  "curtain",
+  "dots",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/spectral-drape",
+ "lang": "jsx",
+ "codeFile": "code/components/spectral-drape.txt",
+ "codeLen": 24160,
+ "needInline": [
+  "86049",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

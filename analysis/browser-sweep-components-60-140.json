@@ -1,0 +1,548 @@
+{
+ "kind": "components",
+ "total": 80,
+ "counts": {
+  "fallback": 1,
+  "live": 27,
+  "dead": 6,
+  "error": 46
+ },
+ "rows": [
+  {
+   "slug": "draggable-grid",
+   "fallback": true,
+   "vis": 3,
+   "canvasH": 0,
+   "len": 320,
+   "txtLen": 0,
+   "state": "fallback"
+  },
+  {
+   "slug": "eclipse",
+   "fallback": false,
+   "vis": 6,
+   "canvasH": 0,
+   "len": 539,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "elastic-lettering",
+   "fallback": false,
+   "vis": 3,
+   "canvasH": 0,
+   "len": 486,
+   "txtLen": 0,
+   "state": "dead"
+  },
+  {
+   "slug": "elastic-reel",
+   "fallback": false,
+   "vis": 14,
+   "canvasH": 0,
+   "len": 3790,
+   "txtLen": 251,
+   "state": "live"
+  },
+  {
+   "slug": "elastic-sticker",
+   "fallback": false,
+   "vis": 5,
+   "canvasH": 0,
+   "len": 892,
+   "txtLen": 0,
+   "state": "live"
+  },
+  {
+   "slug": "ember-reveal",
+   "fallback": false,
+   "vis": 6,
+   "canvasH": 0,
+   "len": 881,
+   "txtLen": 0,
+   "state": "live"
+  },
+  {
+   "slug": "expanding-grid",
+   "fallback": false,
+   "vis": 2,
+   "canvasH": 0,
+   "len": 484,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "fading-stars",
+   "fallback": false,
+   "vis": 5,
+   "canvasH": 0,
+   "len": 426,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "falling-rays",
+   "fallback": false,
+   "vis": 2,
+   "canvasH": 0,
+   "len": 413,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "flame-paths",
+   "fallback": false,
+   "vis": 2,
+   "canvasH": 0,
+   "len": 500,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "flicker",
+   "fallback": false,
+   "vis": 8,
+   "canvasH": 0,
+   "len": 1247,
+   "txtLen": 31,
+   "state": "live"
+  },
+  {
+   "slug": "fog-sphere",
+   "fallback": false,
+   "vis": 2,
+   "canvasH": 0,
+   "len": 660,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "frame-border",
+   "fallback": false,
+   "vis": 2,
+   "canvasH": 0,
+   "len": 538,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "frame-scrub",
+   "fallback": false,
+   "vis": 8,
+   "canvasH": 504,
+   "len": 827,
+   "txtLen": 5,
+   "state": "live"
+  },
+  {
+   "slug": "ghost-type",
+   "fallback": false,
+   "vis": 1,
+   "canvasH": 0,
+   "len": 655,
+   "txtLen": 0,
+   "state": "dead"
+  },
+  {
+   "slug": "glass-cursor",
+   "fallback": false,
+   "vis": 82,
+   "canvasH": 0,
+   "len": 25219,
+   "txtLen": 190,
+   "state": "live"
+  },
+  {
+   "slug": "glass-flow",
+   "fallback": false,
+   "vis": 74,
+   "canvasH": 0,
+   "len": 24468,
+   "txtLen": 178,
+   "state": "live"
+  },
+  {
+   "slug": "glass-reveal",
+   "fallback": false,
+   "vis": 2,
+   "canvasH": 0,
+   "len": 671,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "glass-tiles",
+   "fallback": false,
+   "vis": 2,
+   "canvasH": 0,
+   "len": 507,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "glimmer-wrap",
+   "fallback": false,
+   "vis": 6,
+   "canvasH": 0,
+   "len": 529,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "glitch-text",
+   "fallback": false,
+   "vis": 3,
+   "canvasH": 0,
+   "len": 334,
+   "txtLen": 0,
+   "state": "dead"
+  },
+  {
+   "slug": "glitter-warp",
+   "fallback": false,
+   "vis": 45,
+   "canvasH": 0,
+   "len": 12900,
+   "txtLen": 97,
+   "state": "live"
+  },
+  {
+   "slug": "globe",
+   "fallback": false,
+   "vis": 1,
+   "canvasH": 0,
+   "len": 403,
+   "txtLen": 0,
+   "state": "dead"
+  },
+  {
+   "slug": "glowing-ridges",
+   "fallback": false,
+   "vis": 2,
+   "canvasH": 0,
+   "len": 668,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "glowing-wave",
+   "fallback": false,
+   "vis": 2,
+   "canvasH": 0,
+   "len": 762,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "glue-dots",
+   "fallback": false,
+   "vis": 1,
+   "canvasH": 0,
+   "len": 456,
+   "txtLen": 0,
+   "state": "dead"
+  },
+  {
+   "slug": "glyph-ember",
+   "fallback": false,
+   "vis": 5,
+   "canvasH": 0,
+   "len": 426,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "glyph-lottery",
+   "fallback": false,
+   "vis": 100,
+   "canvasH": 0,
+   "len": 12328,
+   "txtLen": 45,
+   "state": "live"
+  },
+  {
+   "slug": "glyph-orb",
+   "fallback": false,
+   "vis": 2,
+   "canvasH": 0,
+   "len": 729,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "glyph-sonar",
+   "fallback": false,
+   "vis": 5,
+   "canvasH": 0,
+   "len": 426,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "glyph-stream",
+   "fallback": false,
+   "vis": 1,
+   "canvasH": 0,
+   "len": 546,
+   "txtLen": 0,
+   "state": "dead"
+  },
+  {
+   "slug": "glyph-tide",
+   "fallback": false,
+   "vis": 2,
+   "canvasH": 0,
+   "len": 642,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "gradient-bars",
+   "fallback": false,
+   "vis": 2,
+   "canvasH": 0,
+   "len": 567,
+   "txtLen": 4,
+   "state": "live"
+  },
+  {
+   "slug": "gradient-blob",
+   "fallback": false,
+   "vis": 97,
+   "canvasH": 0,
+   "len": 24676,
+   "txtLen": 290,
+   "state": "live"
+  },
+  {
+   "slug": "gradient-carousel",
+   "state": "error",
+   "err": "read-timeout"
+  },
+  {
+   "slug": "grain-wave",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "gravity-letters",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "grid-rise",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "gyroscope-cursor",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "halftone-vortex",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "halftone-wave",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "helix-gallery",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "hexagonal-vault",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "horizon-bloom",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "hover-preview",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "infinite-gallery",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "interference-ribbons",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "inverted-dome",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "iris-gallery",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "label-orbit",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "landscape",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "lenticular-carousel",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "light-droplets",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "lightspeed",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "liquid-ascii",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "liquid-bars",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "liquid-lines",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "liquid-swap",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "long-exposure",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "loupe-image",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "luminous-filaments",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "luminous-type",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "magic-transform",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "mesh-lettering",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "metallic-swirl",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "minimal-ripple",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "modal-cards",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "mosaic",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "mosaic-waves",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "neon-reveal",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "neural-flash",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "neural-float",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "neural-tunnel",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "nexus-rays",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "orbit-reel",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "orbital-type",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "page-flip",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "parallax-cards",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "parallax-carousel",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+   "slug": "parallax-pills",
+   "state": "error",
+   "err": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  }
+ ]
+}

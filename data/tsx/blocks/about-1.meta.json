@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/about-1",
+ "slug": "about-1",
+ "name": "About 1",
+ "description": "Auto-cycling image carousel with text",
+ "category": "About",
+ "categorySlug": "about",
+ "exportName": "About1",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/about/about-1.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/about-1",
+ "lang": "jsx",
+ "codeFile": "code/blocks/about-1.txt",
+ "codeLen": 155049,
+ "role": "section",
+ "previewHeight": 750,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "about",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/about/about-1.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

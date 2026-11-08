@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/lenticular-carousel",
+ "slug": "lenticular-carousel",
+ "name": "Lenticular Carousel",
+ "description": "A gallery whose cards turn over like a lenticular print",
+ "category": "carousel",
+ "tier": "starter",
+ "tags": [
+  "carousel",
+  "gallery",
+  "images",
+  "hover",
+  "webgl",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/lenticular-carousel",
+ "lang": "jsx",
+ "codeFile": "code/components/lenticular-carousel.txt",
+ "codeLen": 25608,
+ "needInline": [
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

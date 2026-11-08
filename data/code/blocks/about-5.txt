@@ -1,0 +1,1018 @@
+/**
+ * About 5
+ * Endless scroll of bento cards
+ * slug: about-5
+ * category: About
+ * export: About5
+ * deps: lenis
+ * original: ts-tailwind/blocks/about/about-5.tsx
+ * Recovered from the public React Bits Pro docs bundle.
+ */
+// ==== main module 21534 (chunk 21534.20fd2a67a41ff31c.js) ====
+{21534:(e,
+t,
+i)=>{i.r(t),
+i.d(t,
+{default:()=>h});
+var a=i(95155),
+l=i(12115);
+let n=[{id:1,
+type:"image",
+content:"https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
+row:1,
+size:"large"},
+{id:2,
+type:"image",
+content:"https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&q=80",
+row:1,
+size:"medium"},
+{id:3,
+type:"image",
+content:"https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800&q=80",
+row:1,
+size:"large"},
+{id:4,
+type:"image",
+content:"https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&q=80",
+row:1,
+size:"small"},
+{id:5,
+type:"image",
+content:"https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+row:2,
+size:"medium"},
+{id:6,
+type:"text",
+content:"We have a world-class team working to make this a reality.",
+row:2,
+size:"large"},
+{id:7,
+type:"image",
+content:"https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&q=80",
+row:2,
+size:"medium"},
+{id:8,
+type:"image",
+content:"https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?w=800&q=80",
+row:2,
+size:"medium"}],
+s={small:{width:"320px",
+height:"200px"},
+medium:{width:"480px",
+height:"200px"},
+large:{width:"640px",
+height:"200px"}};
+function r({item:e}){let t=s[e.size];
+return(0,
+a.jsx)("div",
+{className:"flex-shrink-0 rounded-[2.5rem] overflow-hidden shadow-2xl bg-neutral-200 dark:bg-neutral-800",
+style:{width:t.width,
+height:t.height},
+children:(0,
+a.jsx)("img",
+{src:e.content,
+alt:"Team",
+className:"w-full h-full object-cover"})})}function o({item:e}){let t=s[e.size];
+return(0,
+a.jsx)("div",
+{className:"flex-shrink-0 rounded-[2.5rem] bg-neutral-100 dark:bg-neutral-900 shadow-2xl flex items-center justify-center px-12",
+style:{width:t.width,
+height:t.height},
+children:(0,
+a.jsx)("h3",
+{className:"text-4xl lg:text-5xl font-light tracking-tight text-neutral-900 dark:text-white text-center leading-tight",
+children:e.content})})}function h(){let e=(0,
+l.useRef)(null);
+(0,
+l.useEffect)(()=>{if(!e.current)return;
+let t=(async()=>{let t=new(await i.e(54481).then(i.bind(i,
+54481))).default({wrapper:e.current,
+content:e.current.querySelector(".scroll-content"),
+orientation:"horizontal",
+gestureOrientation:"vertical",
+smoothWheel:!0,
+wheelMultiplier:1,
+touchMultiplier:2,
+infinite:!0});
+return requestAnimationFrame(function e(i){t.raf(i),
+requestAnimationFrame(e)}),
+()=>{t.destroy()}})();
+return()=>{t.then(e=>e&&e())}},
+[]);
+let t=n.filter(e=>1===e.row),
+s=n.filter(e=>2===e.row),
+h=[...t,...t,...t,...t,...t,...t,...t,...t,...t,...t],
+c=[...s,...s,...s,...s,...s,...s,...s,...s,...s,...s];
+return(0,
+a.jsx)("section",
+{ref:e,
+className:"relative w-full h-screen bg-neutral-50 dark:bg-neutral-950 overflow-hidden",
+children:(0,
+a.jsxs)("div",
+{className:"scroll-content h-full flex flex-col justify-center gap-8 py-12",
+children:[(0,
+a.jsx)("div",
+{className:"row-1 flex gap-8 pl-8 ml-0",
+children:h.map((e,
+t)=>"image"===e.type?(0,
+a.jsx)(r,
+{item:e},
+`${e.id}-${t}`):(0,
+a.jsx)(o,
+{item:e},
+`${e.id}-${t}`))}),
+(0,
+a.jsx)("div",
+{className:"row-2 flex gap-8 pl-8 ml-32",
+children:c.map((e,
+t)=>"image"===e.type?(0,
+a.jsx)(r,
+{item:e},
+`${e.id}-${t}`):(0,
+a.jsx)(o,
+{item:e},
+`${e.id}-${t}`))})]})})}}}]);
+
+// ==== dep 95155 (chunk 8732-c5e15bec09cf81d7.js) ====
+95155:(e,
+t,
+r)=>{"use strict";
+e.exports=r(86897)},
+
+// ==== dep 12115 (chunk 8732-c5e15bec09cf81d7.js) ====
+12115:(e,
+t,
+r)=>{"use strict";
+e.exports=r(61426)},
+
+// ==== dep 61426 (chunk 8732-c5e15bec09cf81d7.js) ====
+61426:(e,
+t,
+r)=>{"use strict";
+var n=r(52474),
+u=Symbol.for("react.transitional.element"),
+l=Symbol.for("react.portal"),
+a=Symbol.for("react.fragment"),
+o=Symbol.for("react.strict_mode"),
+i=Symbol.for("react.profiler"),
+s=Symbol.for("react.consumer"),
+c=Symbol.for("react.context"),
+f=Symbol.for("react.forward_ref"),
+d=Symbol.for("react.suspense"),
+p=Symbol.for("react.memo"),
+h=Symbol.for("react.lazy"),
+y=Symbol.for("react.activity"),
+_=Symbol.for("react.view_transition"),
+g=Symbol.iterator,
+v={isMounted:function(){return!1},
+enqueueForceUpdate:function(){},
+enqueueReplaceState:function(){},
+enqueueSetState:function(){}},
+b=Object.assign,
+m={};
+function R(e,
+t,
+r){this.props=e,
+this.context=t,
+this.refs=m,
+this.updater=r||v}function E(){}function P(e,
+t,
+r){this.props=e,
+this.context=t,
+this.refs=m,
+this.updater=r||v}R.prototype.isReactComponent={},
+R.prototype.setState=function(e,
+t){if("object"!=typeof e&&"function"!=typeof e&&null!=e)throw Error("takes an object of state variables to update or a function which returns an object of state variables.");
+this.updater.enqueueSetState(this,
+e,
+t,
+"setState")},
+R.prototype.forceUpdate=function(e){this.updater.enqueueForceUpdate(this,
+e,
+"forceUpdate")},
+E.prototype=R.prototype;
+var O=P.prototype=new E;
+O.constructor=P,
+b(O,
+R.prototype),
+O.isPureReactComponent=!0;
+var S=Array.isArray;
+function j(){}var T={H:null,
+A:null,
+T:null,
+S:null},
+M=Object.prototype.hasOwnProperty;
+function w(e,
+t,
+r){var n=r.ref;
+return{$$typeof:u,
+type:e,
+key:t,
+ref:void 0!==n?n:null,
+props:r}}function x(e){return"object"==typeof e&&null!==e&&e.$$typeof===u}var C=/\/+/g;
+function A(e,
+t){var r,
+n;
+return"object"==typeof e&&null!==e&&null!=e.key?(r=""+e.key,
+n={"=":"=0",
+":":"=2"},
+"$"+r.replace(/[=:]/g,
+function(e){return n[e]})):t.toString(36)}function N(e,
+t,
+r){if(null==e)return e;
+var n=[],
+a=0;
+return!function e(t,
+r,
+n,
+a,
+o){var i,
+s,
+c,
+f=typeof t;
+("undefined"===f||"boolean"===f)&&(t=null);
+var d=!1;
+if(null===t)d=!0;
+else switch(f){case"bigint":case"string":case"number":d=!0;
+break;
+case"object":switch(t.$$typeof){case u:case l:d=!0;
+break;
+case h:return e((d=t._init)(t._payload),
+r,
+n,
+a,
+o)}}if(d)return o=o(t),
+d=""===a?"."+A(t,
+0):a,
+S(o)?(n="",
+null!=d&&(n=d.replace(C,
+"$&/")+"/"),
+e(o,
+r,
+n,
+"",
+function(e){return e})):null!=o&&(x(o)&&(i=o,
+s=n+(null==o.key||t&&t.key===o.key?"":(""+o.key).replace(C,
+"$&/")+"/")+d,
+o=w(i.type,
+s,
+i.props)),
+r.push(o)),
+1;
+d=0;
+var p=""===a?".":a+":";
+if(S(t))for(var y=0;
+y<t.length;
+y++)f=p+A(a=t[y],
+y),
+d+=e(a,
+r,
+n,
+f,
+o);
+else if("function"==typeof(y=null===(c=t)||"object"!=typeof c?null:"function"==typeof(c=g&&c[g]||c["@@iterator"])?c:null))for(t=y.call(t),
+y=0;
+!(a=t.next()).done;)f=p+A(a=a.value,
+y++),
+d+=e(a,
+r,
+n,
+f,
+o);
+else if("object"===f){if("function"==typeof t.then)return e(function(e){switch(e.status){case"fulfilled":return e.value;
+case"rejected":throw e.reason;
+default:switch("string"==typeof e.status?e.then(j,
+j):(e.status="pending",
+e.then(function(t){"pending"===e.status&&(e.status="fulfilled",
+e.value=t)},
+function(t){"pending"===e.status&&(e.status="rejected",
+e.reason=t)})),
+e.status){case"fulfilled":return e.value;
+case"rejected":throw e.reason}}throw e}(t),
+r,
+n,
+a,
+o);
+throw Error("Objects are not valid as a React child (found: "+("[object Object]"===(r=String(t))?"object with keys {"+Object.keys(t).join(", ")+"}":r)+"). If you meant to render a collection of children, use an array instead.")}return d}(e,
+n,
+"",
+"",
+function(e){return t.call(r,
+e,
+a++)}),
+n}function U(e){if(-1===e._status){var t=e._result;
+(t=t()).then(function(t){(0===e._status||-1===e._status)&&(e._status=1,
+e._result=t)},
+function(t){(0===e._status||-1===e._status)&&(e._status=2,
+e._result=t)}),
+-1===e._status&&(e._status=0,
+e._result=t)}if(1===e._status)return e._result.default;
+throw e._result}var L="function"==typeof reportError?reportError:function(e){if("object"==typeof window&&"function"==typeof window.ErrorEvent){var t=new window.ErrorEvent("error",
+{bubbles:!0,
+cancelable:!0,
+message:"object"==typeof e&&null!==e&&"string"==typeof e.message?String(e.message):String(e),
+error:e});
+if(!window.dispatchEvent(t))return}else if("object"==typeof n&&"function"==typeof n.emit)return void n.emit("uncaughtException",
+e);
+console.error(e)};
+function I(e){var t=T.T,
+r={};
+r.types=null!==t?t.types:null,
+T.T=r;
+try{var n=e(),
+u=T.S;
+null!==u&&u(r,
+n),
+"object"==typeof n&&null!==n&&"function"==typeof n.then&&n.then(j,
+L)}catch(e){L(e)}finally{null!==t&&null!==r.types&&(t.types=r.types),
+T.T=t}}function D(e){var t=T.T;
+if(null!==t){var r=t.types;
+null===r?t.types=[e]:-1===r.indexOf(e)&&r.push(e)}else I(D.bind(null,
+e))}t.Activity=y,
+t.Children={map:N,
+forEach:function(e,
+t,
+r){N(e,
+function(){t.apply(this,
+arguments)},
+r)},
+count:function(e){var t=0;
+return N(e,
+function(){t++}),
+t},
+toArray:function(e){return N(e,
+function(e){return e})||[]},
+only:function(e){if(!x(e))throw Error("React.Children.only expected to receive a single React element child.");
+return e}},
+t.Component=R,
+t.Fragment=a,
+t.Profiler=i,
+t.PureComponent=P,
+t.StrictMode=o,
+t.Suspense=d,
+t.ViewTransition=_,
+t.__CLIENT_INTERNALS_DO_NOT_USE_OR_WARN_USERS_THEY_CANNOT_UPGRADE=T,
+t.__COMPILER_RUNTIME={__proto__:null,
+c:function(e){return T.H.useMemoCache(e)}},
+t.addTransitionType=D,
+t.cache=function(e){return function(){return e.apply(null,
+arguments)}},
+t.cacheSignal=function(){return null},
+t.cloneElement=function(e,
+t,
+r){if(null==e)throw Error("The argument must be a React element, but you passed "+e+".");
+var n=b({},
+e.props),
+u=e.key;
+if(null!=t)for(l in void 0!==t.key&&(u=""+t.key),
+t)M.call(t,
+l)&&"key"!==l&&"__self"!==l&&"__source"!==l&&("ref"!==l||void 0!==t.ref)&&(n[l]=t[l]);
+var l=arguments.length-2;
+if(1===l)n.children=r;
+else if(1<l){for(var a=Array(l),
+o=0;
+o<l;
+o++)a[o]=arguments[o+2];
+n.children=a}return w(e.type,
+u,
+n)},
+t.createContext=function(e){return(e={$$typeof:c,
+_currentValue:e,
+_currentValue2:e,
+_threadCount:0,
+Provider:null,
+Consumer:null}).Provider=e,
+e.Consumer={$$typeof:s,
+_context:e},
+e},
+t.createElement=function(e,
+t,
+r){var n,
+u={},
+l=null;
+if(null!=t)for(n in void 0!==t.key&&(l=""+t.key),
+t)M.call(t,
+n)&&"key"!==n&&"__self"!==n&&"__source"!==n&&(u[n]=t[n]);
+var a=arguments.length-2;
+if(1===a)u.children=r;
+else if(1<a){for(var o=Array(a),
+i=0;
+i<a;
+i++)o[i]=arguments[i+2];
+u.children=o}if(e&&e.defaultProps)for(n in a=e.defaultProps)void 0===u[n]&&(u[n]=a[n]);
+return w(e,
+l,
+u)},
+t.createRef=function(){return{current:null}},
+t.forwardRef=function(e){return{$$typeof:f,
+render:e}},
+t.isValidElement=x,
+t.lazy=function(e){return{$$typeof:h,
+_payload:{_status:-1,
+_result:e},
+_init:U}},
+t.memo=function(e,
+t){return{$$typeof:p,
+type:e,
+compare:void 0===t?null:t}},
+t.startTransition=I,
+t.unstable_useCacheRefresh=function(){return T.H.useCacheRefresh()},
+t.use=function(e){return T.H.use(e)},
+t.useActionState=function(e,
+t,
+r){return T.H.useActionState(e,
+t,
+r)},
+t.useCallback=function(e,
+t){return T.H.useCallback(e,
+t)},
+t.useContext=function(e){return T.H.useContext(e)},
+t.useDebugValue=function(){},
+t.useDeferredValue=function(e,
+t){return T.H.useDeferredValue(e,
+t)},
+t.useEffect=function(e,
+t){return T.H.useEffect(e,
+t)},
+t.useEffectEvent=function(e){return T.H.useEffectEvent(e)},
+t.useId=function(){return T.H.useId()},
+t.useImperativeHandle=function(e,
+t,
+r){return T.H.useImperativeHandle(e,
+t,
+r)},
+t.useInsertionEffect=function(e,
+t){return T.H.useInsertionEffect(e,
+t)},
+t.useLayoutEffect=function(e,
+t){return T.H.useLayoutEffect(e,
+t)},
+t.useMemo=function(e,
+t){return T.H.useMemo(e,
+t)},
+t.useOptimistic=function(e,
+t){return T.H.useOptimistic(e,
+t)},
+t.useReducer=function(e,
+t,
+r){return T.H.useReducer(e,
+t,
+r)},
+t.useRef=function(e){return T.H.useRef(e)},
+t.useState=function(e){return T.H.useState(e)},
+t.useSyncExternalStore=function(e,
+t,
+r){return T.H.useSyncExternalStore(e,
+t,
+r)},
+t.useTransition=function(){return T.H.useTransition()},
+t.version="19.3.0-canary-52684925-20251110"},
+
+// ==== dep 52474 (chunk 8732-c5e15bec09cf81d7.js) ====
+52474:(e,
+t,
+r)=>{"use strict";
+var n,
+u;
+e.exports=(null==(n=r.g.process)?void 0:n.env)&&"object"==typeof(null==(u=r.g.process)?void 0:u.env)?r.g.process:r(10483)},
+
+// ==== dep 54481 (chunk 54481.89d3aef8590c79a4.js) ====
+{54481:(t,
+i,
+e)=>{function s(t,
+i,
+e){return Math.max(t,
+Math.min(i,
+e))}e.r(i),
+e.d(i,
+{default:()=>p});
+var o=class{isRunning=!1;
+value=0;
+from=0;
+to=0;
+currentTime=0;
+lerp;
+duration;
+easing;
+onUpdate;
+advance(t){if(!this.isRunning)return;
+let i=!1;
+if(this.duration&&this.easing){this.currentTime+=t;
+let e=s(0,
+this.currentTime/this.duration,
+1),
+o=(i=e>=1)?1:this.easing(e);
+this.value=this.from+(this.to-this.from)*o}else if(this.lerp){var e,
+o,
+n,
+r;
+this.value=(e=this.value,
+o=this.to,
+n=60*this.lerp,
+(1-(r=1-Math.exp(-n*t)))*e+r*o),
+Math.round(this.value)===this.to&&(this.value=this.to,
+i=!0)}else this.value=this.to,
+i=!0;
+i&&this.stop(),
+this.onUpdate?.(this.value,
+i)}stop(){this.isRunning=!1}fromTo(t,
+i,
+{lerp:e,
+duration:s,
+easing:o,
+onStart:n,
+onUpdate:r}){this.from=this.value=t,
+this.to=i,
+this.lerp=e,
+this.duration=s,
+this.easing=o,
+this.currentTime=0,
+this.isRunning=!0,
+n?.(),
+this.onUpdate=r}},
+n=class{constructor(t,
+i,
+{autoResize:e=!0,
+debounce:s=250}={}){this.wrapper=t,
+this.content=i,
+e&&(this.debouncedResize=function(t,
+i){let e;
+return function(...s){let o=this;
+clearTimeout(e),
+e=setTimeout(()=>{e=void 0,
+t.apply(o,
+s)},
+i)}}(this.resize,
+s),
+this.wrapper instanceof Window?window.addEventListener("resize",
+this.debouncedResize,
+!1):(this.wrapperResizeObserver=new ResizeObserver(this.debouncedResize),
+this.wrapperResizeObserver.observe(this.wrapper)),
+this.contentResizeObserver=new ResizeObserver(this.debouncedResize),
+this.contentResizeObserver.observe(this.content)),
+this.resize()}width=0;
+height=0;
+scrollHeight=0;
+scrollWidth=0;
+debouncedResize;
+wrapperResizeObserver;
+contentResizeObserver;
+destroy(){this.wrapperResizeObserver?.disconnect(),
+this.contentResizeObserver?.disconnect(),
+this.wrapper===window&&this.debouncedResize&&window.removeEventListener("resize",
+this.debouncedResize,
+!1)}resize=()=>{this.onWrapperResize(),
+this.onContentResize()};
+onWrapperResize=()=>{this.wrapper instanceof Window?(this.width=window.innerWidth,
+this.height=window.innerHeight):(this.width=this.wrapper.clientWidth,
+this.height=this.wrapper.clientHeight)};
+onContentResize=()=>{this.wrapper instanceof Window?(this.scrollHeight=this.content.scrollHeight,
+this.scrollWidth=this.content.scrollWidth):(this.scrollHeight=this.wrapper.scrollHeight,
+this.scrollWidth=this.wrapper.scrollWidth)};
+get limit(){return{x:this.scrollWidth-this.width,
+y:this.scrollHeight-this.height}}},
+r=class{events={};
+emit(t,...i){let e=this.events[t]||[];
+for(let t=0,
+s=e.length;
+t<s;
+t++)e[t]?.(...i)}on(t,
+i){return this.events[t]?.push(i)||(this.events[t]=[i]),
+()=>{this.events[t]=this.events[t]?.filter(t=>i!==t)}}off(t,
+i){this.events[t]=this.events[t]?.filter(t=>i!==t)}destroy(){this.events={}}},
+l=100/6,
+h={passive:!1},
+a=class{constructor(t,
+i={wheelMultiplier:1,
+touchMultiplier:1}){this.element=t,
+this.options=i,
+window.addEventListener("resize",
+this.onWindowResize,
+!1),
+this.onWindowResize(),
+this.element.addEventListener("wheel",
+this.onWheel,
+h),
+this.element.addEventListener("touchstart",
+this.onTouchStart,
+h),
+this.element.addEventListener("touchmove",
+this.onTouchMove,
+h),
+this.element.addEventListener("touchend",
+this.onTouchEnd,
+h)}touchStart={x:0,
+y:0};
+lastDelta={x:0,
+y:0};
+window={width:0,
+height:0};
+emitter=new r;
+on(t,
+i){return this.emitter.on(t,
+i)}destroy(){this.emitter.destroy(),
+window.removeEventListener("resize",
+this.onWindowResize,
+!1),
+this.element.removeEventListener("wheel",
+this.onWheel,
+h),
+this.element.removeEventListener("touchstart",
+this.onTouchStart,
+h),
+this.element.removeEventListener("touchmove",
+this.onTouchMove,
+h),
+this.element.removeEventListener("touchend",
+this.onTouchEnd,
+h)}onTouchStart=t=>{let{clientX:i,
+clientY:e}=t.targetTouches?t.targetTouches[0]:t;
+this.touchStart.x=i,
+this.touchStart.y=e,
+this.lastDelta={x:0,
+y:0},
+this.emitter.emit("scroll",
+{deltaX:0,
+deltaY:0,
+event:t})};
+onTouchMove=t=>{let{clientX:i,
+clientY:e}=t.targetTouches?t.targetTouches[0]:t,
+s=-(i-this.touchStart.x)*this.options.touchMultiplier,
+o=-(e-this.touchStart.y)*this.options.touchMultiplier;
+this.touchStart.x=i,
+this.touchStart.y=e,
+this.lastDelta={x:s,
+y:o},
+this.emitter.emit("scroll",
+{deltaX:s,
+deltaY:o,
+event:t})};
+onTouchEnd=t=>{this.emitter.emit("scroll",
+{deltaX:this.lastDelta.x,
+deltaY:this.lastDelta.y,
+event:t})};
+onWheel=t=>{let{deltaX:i,
+deltaY:e,
+deltaMode:s}=t,
+o=1===s?l:2===s?this.window.width:1,
+n=1===s?l:2===s?this.window.height:1;
+i*=o,
+e*=n,
+i*=this.options.wheelMultiplier,
+e*=this.options.wheelMultiplier,
+this.emitter.emit("scroll",
+{deltaX:i,
+deltaY:e,
+event:t})};
+onWindowResize=()=>{this.window={width:window.innerWidth,
+height:window.innerHeight}}},
+c=t=>Math.min(1,
+1.001-Math.pow(2,
+-10*t)),
+p=class{_isScrolling=!1;
+_isStopped=!1;
+_isLocked=!1;
+_preventNextNativeScrollEvent=!1;
+_resetVelocityTimeout=null;
+__rafID=null;
+isTouching;
+time=0;
+userData={};
+lastVelocity=0;
+velocity=0;
+direction=0;
+options;
+targetScroll;
+animatedScroll;
+animate=new o;
+emitter=new r;
+dimensions;
+virtualScroll;
+constructor({wrapper:t=window,
+content:i=document.documentElement,
+eventsTarget:e=t,
+smoothWheel:s=!0,
+syncTouch:o=!1,
+syncTouchLerp:r=.075,
+touchInertiaExponent:l=1.7,
+duration:h,
+easing:p,
+lerp:d=.1,
+infinite:u=!1,
+orientation:m="vertical",
+gestureOrientation:v="horizontal"===m?"both":"vertical",
+touchMultiplier:S=1,
+wheelMultiplier:w=1,
+autoResize:g=!0,
+prevent:f,
+virtualScroll:y,
+overscroll:E=!0,
+autoRaf:T=!1,
+anchors:b=!1,
+autoToggle:z=!1,
+allowNestedScroll:_=!1,
+__experimental__naiveDimensions:L=!1}={}){window.lenisVersion="1.3.15",
+t&&t!==document.documentElement||(t=window),
+"number"==typeof h&&"function"!=typeof p?p=c:"function"==typeof p&&"number"!=typeof h&&(h=1),
+this.options={wrapper:t,
+content:i,
+eventsTarget:e,
+smoothWheel:s,
+syncTouch:o,
+syncTouchLerp:r,
+touchInertiaExponent:l,
+duration:h,
+easing:p,
+lerp:d,
+infinite:u,
+gestureOrientation:v,
+orientation:m,
+touchMultiplier:S,
+wheelMultiplier:w,
+autoResize:g,
+prevent:f,
+virtualScroll:y,
+overscroll:E,
+autoRaf:T,
+anchors:b,
+autoToggle:z,
+allowNestedScroll:_,
+__experimental__naiveDimensions:L},
+this.dimensions=new n(t,
+i,
+{autoResize:g}),
+this.updateClassName(),
+this.targetScroll=this.animatedScroll=this.actualScroll,
+this.options.wrapper.addEventListener("scroll",
+this.onNativeScroll,
+!1),
+this.options.wrapper.addEventListener("scrollend",
+this.onScrollEnd,
+{capture:!0}),
+this.options.anchors&&this.options.wrapper===window&&this.options.wrapper.addEventListener("click",
+this.onClick,
+!1),
+this.options.wrapper.addEventListener("pointerdown",
+this.onPointerDown,
+!1),
+this.virtualScroll=new a(e,
+{touchMultiplier:S,
+wheelMultiplier:w}),
+this.virtualScroll.on("scroll",
+this.onVirtualScroll),
+this.options.autoToggle&&this.rootElement.addEventListener("transitionend",
+this.onTransitionEnd,
+{passive:!0}),
+this.options.autoRaf&&(this.__rafID=requestAnimationFrame(this.raf))}destroy(){this.emitter.destroy(),
+this.options.wrapper.removeEventListener("scroll",
+this.onNativeScroll,
+!1),
+this.options.wrapper.removeEventListener("scrollend",
+this.onScrollEnd,
+{capture:!0}),
+this.options.wrapper.removeEventListener("pointerdown",
+this.onPointerDown,
+!1),
+this.options.anchors&&this.options.wrapper===window&&this.options.wrapper.removeEventListener("click",
+this.onClick,
+!1),
+this.virtualScroll.destroy(),
+this.dimensions.destroy(),
+this.cleanUpClassName(),
+this.__rafID&&cancelAnimationFrame(this.__rafID)}on(t,
+i){return this.emitter.on(t,
+i)}off(t,
+i){return this.emitter.off(t,
+i)}onScrollEnd=t=>{t instanceof CustomEvent||"smooth"!==this.isScrolling&&!1!==this.isScrolling||t.stopPropagation()};
+dispatchScrollendEvent=()=>{this.options.wrapper.dispatchEvent(new CustomEvent("scrollend",
+{bubbles:this.options.wrapper===window,
+detail:{lenisScrollEnd:!0}}))};
+onTransitionEnd=t=>{if(t.propertyName.includes("overflow")){let t=this.isHorizontal?"overflow-x":"overflow-y";
+["hidden",
+"clip"].includes(getComputedStyle(this.rootElement)[t])?this.internalStop():this.internalStart()}};
+setScroll(t){this.isHorizontal?this.options.wrapper.scrollTo({left:t,
+behavior:"instant"}):this.options.wrapper.scrollTo({top:t,
+behavior:"instant"})}onClick=t=>{let i=t.composedPath().find(t=>t instanceof HTMLAnchorElement&&t.getAttribute("href")?.includes("#"));
+if(i){let t=i.getAttribute("href");
+if(t){let i="object"==typeof this.options.anchors&&this.options.anchors?this.options.anchors:void 0,
+e=`#${t.split("#")[1]}`;
+this.scrollTo(e,
+i)}}};
+onPointerDown=t=>{1===t.button&&this.reset()};
+onVirtualScroll=t=>{if("function"==typeof this.options.virtualScroll&&!1===this.options.virtualScroll(t))return;
+let{deltaX:i,
+deltaY:e,
+event:s}=t;
+if(this.emitter.emit("virtual-scroll",
+{deltaX:i,
+deltaY:e,
+event:s}),
+s.ctrlKey||s.lenisStopPropagation)return;
+let o=s.type.includes("touch"),
+n=s.type.includes("wheel");
+this.isTouching="touchstart"===s.type||"touchmove"===s.type;
+let r=0===i&&0===e;
+if(this.options.syncTouch&&o&&"touchstart"===s.type&&r&&!this.isStopped&&!this.isLocked)return void this.reset();
+let l="vertical"===this.options.gestureOrientation&&0===e||"horizontal"===this.options.gestureOrientation&&0===i;
+if(r||l)return;
+let h=s.composedPath();
+h=h.slice(0,
+h.indexOf(this.rootElement));
+let a=this.options.prevent;
+if(h.find(t=>t instanceof HTMLElement&&("function"==typeof a&&a?.(t)||t.hasAttribute?.("data-lenis-prevent")||o&&t.hasAttribute?.("data-lenis-prevent-touch")||n&&t.hasAttribute?.("data-lenis-prevent-wheel")||this.options.allowNestedScroll&&this.checkNestedScroll(t,
+{deltaX:i,
+deltaY:e}))))return;
+if(this.isStopped||this.isLocked){s.cancelable&&s.preventDefault();
+return}if(!(this.options.syncTouch&&o||this.options.smoothWheel&&n)){this.isScrolling="native",
+this.animate.stop(),
+s.lenisStopPropagation=!0;
+return}let c=e;
+"both"===this.options.gestureOrientation?c=Math.abs(e)>Math.abs(i)?e:i:"horizontal"===this.options.gestureOrientation&&(c=i),
+(!this.options.overscroll||this.options.infinite||this.options.wrapper!==window&&this.limit>0&&(this.animatedScroll>0&&this.animatedScroll<this.limit||0===this.animatedScroll&&e>0||this.animatedScroll===this.limit&&e<0))&&(s.lenisStopPropagation=!0),
+s.cancelable&&s.preventDefault();
+let p=o&&this.options.syncTouch,
+d=o&&"touchend"===s.type;
+d&&(c=Math.sign(this.velocity)*Math.pow(Math.abs(this.velocity),
+this.options.touchInertiaExponent)),
+this.scrollTo(this.targetScroll+c,
+{programmatic:!1,...p?{lerp:d?this.options.syncTouchLerp:1}:{lerp:this.options.lerp,
+duration:this.options.duration,
+easing:this.options.easing}})};
+resize(){this.dimensions.resize(),
+this.animatedScroll=this.targetScroll=this.actualScroll,
+this.emit()}emit(){this.emitter.emit("scroll",
+this)}onNativeScroll=()=>{if(null!==this._resetVelocityTimeout&&(clearTimeout(this._resetVelocityTimeout),
+this._resetVelocityTimeout=null),
+this._preventNextNativeScrollEvent){this._preventNextNativeScrollEvent=!1;
+return}if(!1===this.isScrolling||"native"===this.isScrolling){let t=this.animatedScroll;
+this.animatedScroll=this.targetScroll=this.actualScroll,
+this.lastVelocity=this.velocity,
+this.velocity=this.animatedScroll-t,
+this.direction=Math.sign(this.animatedScroll-t),
+this.isStopped||(this.isScrolling="native"),
+this.emit(),
+0!==this.velocity&&(this._resetVelocityTimeout=setTimeout(()=>{this.lastVelocity=this.velocity,
+this.velocity=0,
+this.isScrolling=!1,
+this.emit()},
+400))}};
+reset(){this.isLocked=!1,
+this.isScrolling=!1,
+this.animatedScroll=this.targetScroll=this.actualScroll,
+this.lastVelocity=this.velocity=0,
+this.animate.stop()}start(){if(this.isStopped){if(this.options.autoToggle)return void this.rootElement.style.removeProperty("overflow");
+this.internalStart()}}internalStart(){this.isStopped&&(this.reset(),
+this.isStopped=!1,
+this.emit())}stop(){if(!this.isStopped){if(this.options.autoToggle)return void this.rootElement.style.setProperty("overflow",
+"clip");
+this.internalStop()}}internalStop(){this.isStopped||(this.reset(),
+this.isStopped=!0,
+this.emit())}raf=t=>{let i=t-(this.time||t);
+this.time=t,
+this.animate.advance(.001*i),
+this.options.autoRaf&&(this.__rafID=requestAnimationFrame(this.raf))};
+scrollTo(t,
+{offset:i=0,
+immediate:e=!1,
+lock:o=!1,
+duration:n=this.options.duration,
+easing:r=this.options.easing,
+lerp:l=this.options.lerp,
+onStart:h,
+onComplete:a,
+force:p=!1,
+programmatic:d=!0,
+userData:u}={}){if(!this.isStopped&&!this.isLocked||p){if("string"==typeof t&&["top",
+"left",
+"start",
+"#"].includes(t))t=0;
+else if("string"==typeof t&&["bottom",
+"right",
+"end"].includes(t))t=this.limit;
+else{let e;
+if("string"==typeof t?(e=document.querySelector(t))||("#top"===t?t=0:console.warn("Lenis: Target not found",
+t)):t instanceof HTMLElement&&t?.nodeType&&(e=t),
+e){if(this.options.wrapper!==window){let t=this.rootElement.getBoundingClientRect();
+i-=this.isHorizontal?t.left:t.top}let s=e.getBoundingClientRect();
+t=(this.isHorizontal?s.left:s.top)+this.animatedScroll}}if("number"==typeof t){if(t+=i,
+t=Math.round(t),
+this.options.infinite){if(d){this.targetScroll=this.animatedScroll=this.scroll;
+let i=t-this.animatedScroll;
+i>this.limit/2?t-=this.limit:i<-this.limit/2&&(t+=this.limit)}}else t=s(0,
+t,
+this.limit);
+if(t===this.targetScroll){h?.(this),
+a?.(this);
+return}if(this.userData=u??{},
+e){this.animatedScroll=this.targetScroll=t,
+this.setScroll(this.scroll),
+this.reset(),
+this.preventNextNativeScrollEvent(),
+this.emit(),
+a?.(this),
+this.userData={},
+requestAnimationFrame(()=>{this.dispatchScrollendEvent()});
+return}d||(this.targetScroll=t),
+"number"==typeof n&&"function"!=typeof r?r=c:"function"==typeof r&&"number"!=typeof n&&(n=1),
+this.animate.fromTo(this.animatedScroll,
+t,
+{duration:n,
+easing:r,
+lerp:l,
+onStart:()=>{o&&(this.isLocked=!0),
+this.isScrolling="smooth",
+h?.(this)},
+onUpdate:(t,
+i)=>{this.isScrolling="smooth",
+this.lastVelocity=this.velocity,
+this.velocity=t-this.animatedScroll,
+this.direction=Math.sign(this.velocity),
+this.animatedScroll=t,
+this.setScroll(this.scroll),
+d&&(this.targetScroll=t),
+i||this.emit(),
+i&&(this.reset(),
+this.emit(),
+a?.(this),
+this.userData={},
+requestAnimationFrame(()=>{this.dispatchScrollendEvent()}),
+this.preventNextNativeScrollEvent())}})}}}preventNextNativeScrollEvent(){this._preventNextNativeScrollEvent=!0,
+requestAnimationFrame(()=>{this._preventNextNativeScrollEvent=!1})}checkNestedScroll(t,
+{deltaX:i,
+deltaY:e}){let s,
+o,
+n,
+r,
+l,
+h,
+a,
+c,
+p,
+d,
+u,
+m,
+v,
+S,
+w=Date.now(),
+g=t._lenis??={},
+f=this.options.gestureOrientation;
+if(w-(g.time??0)>2e3){g.time=Date.now();
+let i=window.getComputedStyle(t);
+g.computedStyle=i;
+let e=i.overflowX,
+p=i.overflowY;
+if(s=["auto",
+"overlay",
+"scroll"].includes(e),
+o=["auto",
+"overlay",
+"scroll"].includes(p),
+g.hasOverflowX=s,
+g.hasOverflowY=o,
+!s&&!o||"vertical"===f&&!o||"horizontal"===f&&!s)return!1;
+l=t.scrollWidth,
+h=t.scrollHeight,
+a=t.clientWidth,
+c=t.clientHeight,
+n=l>a,
+r=h>c,
+g.isScrollableX=n,
+g.isScrollableY=r,
+g.scrollWidth=l,
+g.scrollHeight=h,
+g.clientWidth=a,
+g.clientHeight=c}else n=g.isScrollableX,
+r=g.isScrollableY,
+s=g.hasOverflowX,
+o=g.hasOverflowY,
+l=g.scrollWidth,
+h=g.scrollHeight,
+a=g.clientWidth,
+c=g.clientHeight;
+if(!s&&!o||!n&&!r||"vertical"===f&&(!o||!r)||"horizontal"===f&&(!s||!n)||("horizontal"===f?p="x":"vertical"===f?p="y":(0!==i&&s&&n&&(p="x"),
+0!==e&&o&&r&&(p="y")),
+!p))return!1;
+if("x"===p)d=t.scrollLeft,
+u=l-a,
+m=i,
+v=s,
+S=n;
+else{if("y"!==p)return!1;
+d=t.scrollTop,
+u=h-c,
+m=e,
+v=o,
+S=r}return(m>0?d<u:d>0)&&v&&S}get rootElement(){return this.options.wrapper===window?document.documentElement:this.options.wrapper}get limit(){return this.options.__experimental__naiveDimensions?this.isHorizontal?this.rootElement.scrollWidth-this.rootElement.clientWidth:this.rootElement.scrollHeight-this.rootElement.clientHeight:this.dimensions.limit[this.isHorizontal?"x":"y"]}get isHorizontal(){return"horizontal"===this.options.orientation}get actualScroll(){let t=this.options.wrapper;
+return this.isHorizontal?t.scrollX??t.scrollLeft:t.scrollY??t.scrollTop}get scroll(){var t;
+return this.options.infinite?(this.animatedScroll%(t=this.limit)+t)%t:this.animatedScroll}get progress(){return 0===this.limit?1:this.scroll/this.limit}get isScrolling(){return this._isScrolling}set isScrolling(t){this._isScrolling!==t&&(this._isScrolling=t,
+this.updateClassName())}get isStopped(){return this._isStopped}set isStopped(t){this._isStopped!==t&&(this._isStopped=t,
+this.updateClassName())}get isLocked(){return this._isLocked}set isLocked(t){this._isLocked!==t&&(this._isLocked=t,
+this.updateClassName())}get isSmooth(){return"smooth"===this.isScrolling}get className(){let t="lenis";
+return this.options.autoToggle&&(t+=" lenis-autoToggle"),
+this.isStopped&&(t+=" lenis-stopped"),
+this.isLocked&&(t+=" lenis-locked"),
+this.isScrolling&&(t+=" lenis-scrolling"),
+"smooth"===this.isScrolling&&(t+=" lenis-smooth"),
+t}updateClassName(){this.cleanUpClassName(),
+this.rootElement.className=`${this.rootElement.className} ${this.className}`.trim()}cleanUpClassName(){this.rootElement.className=this.rootElement.className.replace(/lenis(-\w+)?/g,
+"").trim()}}}}]);

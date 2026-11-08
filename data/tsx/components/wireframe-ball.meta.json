@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/wireframe-ball",
+ "slug": "wireframe-ball",
+ "name": "Wireframe Ball",
+ "description": "A rotating wireframe shape you can drag to spin",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "webgl",
+  "3d",
+  "wireframe",
+  "geometric"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/wireframe-ball",
+ "lang": "jsx",
+ "codeFile": "code/components/wireframe-ball.txt",
+ "codeLen": 24220,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

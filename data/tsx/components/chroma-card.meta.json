@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/chroma-card",
+ "slug": "chroma-card",
+ "name": "Chroma Card",
+ "description": "A tilting image card with an RGB glitch on hover",
+ "category": "card",
+ "tier": "starter",
+ "tags": [
+  "card",
+  "effect"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/chroma-card",
+ "lang": "jsx",
+ "codeFile": "code/components/chroma-card.txt",
+ "codeLen": 11924,
+ "needInline": [
+  "56388",
+  "48543",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "82637",
+  "90650"
+ ]
+}

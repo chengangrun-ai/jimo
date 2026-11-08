@@ -1,0 +1,41 @@
+{
+ "id": "pro:block/bento-15",
+ "slug": "bento-15",
+ "name": "Bento 15",
+ "description": "Cloud feeding three regional servers",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento15",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-15.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-15",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-15.txt",
+ "codeLen": 155743,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-15.tsx",
+ "needInline": [
+  "50969",
+  "75272",
+  "17192",
+  "32923"
+ ]
+}

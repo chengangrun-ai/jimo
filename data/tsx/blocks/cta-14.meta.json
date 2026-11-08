@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/cta-14",
+ "slug": "cta-14",
+ "name": "CTA 14",
+ "description": "Dark split CTA with a tag marquee",
+ "category": "Call To Action",
+ "categorySlug": "cta",
+ "exportName": "CTA14",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/cta/cta-14.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/cta-14",
+ "lang": "jsx",
+ "codeFile": "code/blocks/cta-14.txt",
+ "codeLen": 151150,
+ "role": "section",
+ "previewHeight": 850,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "cta",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/cta/cta-14.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

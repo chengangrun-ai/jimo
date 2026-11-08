@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/social-proof-14",
+ "slug": "social-proof-14",
+ "name": "Social Proof 14",
+ "description": "Masonry wall of love with a sticky intro",
+ "category": "Social Proof",
+ "categorySlug": "social-proof",
+ "exportName": "SocialProof14",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/social-proof/social-proof-14.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/social-proof-14",
+ "lang": "jsx",
+ "codeFile": "code/blocks/social-proof-14.txt",
+ "codeLen": 150741,
+ "role": "section",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "social-proof",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/social-proof/social-proof-14.tsx",
+ "needInline": []
+}

@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/glyph-sonar",
+ "slug": "glyph-sonar",
+ "name": "Glyph Sonar",
+ "description": "Sonar pings sweeping a field of glyphs, lighting up drifting shoals",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "sonar",
+  "radar",
+  "ascii",
+  "interactive",
+  "webgl"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/glyph-sonar",
+ "lang": "jsx",
+ "codeFile": "code/components/glyph-sonar.txt",
+ "codeLen": 37201,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

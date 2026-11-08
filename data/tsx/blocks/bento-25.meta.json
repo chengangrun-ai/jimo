@@ -1,0 +1,39 @@
+{
+ "id": "pro:block/bento-25",
+ "slug": "bento-25",
+ "name": "Bento 25",
+ "description": "File drop that converts into chips",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento25",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-25.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-25",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-25.txt",
+ "codeLen": 156689,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-25.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

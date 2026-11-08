@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/footer-6",
+ "slug": "footer-6",
+ "name": "Footer 6",
+ "description": "Two-row footer with large links",
+ "category": "Footer",
+ "categorySlug": "footer",
+ "exportName": "Footer6",
+ "deps": [
+  "lucide-react"
+ ],
+ "original": "ts-tailwind/blocks/footer/footer-6.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/footer-6",
+ "lang": "jsx",
+ "codeFile": "code/blocks/footer-6.txt",
+ "codeLen": 14836,
+ "role": "footer",
+ "previewHeight": 440,
+ "layout": {
+  "rootTag": "div",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/mock-logos/quotient.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "footer",
+ "dependencies": [
+  "lucide-react"
+ ],
+ "sourcePath": "ts-tailwind/blocks/footer/footer-6.tsx",
+ "needInline": []
+}

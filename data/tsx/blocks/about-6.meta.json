@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/about-6",
+ "slug": "about-6",
+ "name": "About 6",
+ "description": "Team section with founder cards",
+ "category": "About",
+ "categorySlug": "about",
+ "exportName": "About6",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/about/about-6.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/about-6",
+ "lang": "jsx",
+ "codeFile": "code/blocks/about-6.txt",
+ "codeLen": 148120,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "about",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/about/about-6.tsx",
+ "needInline": []
+}

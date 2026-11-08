@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/pricing-7",
+ "slug": "pricing-7",
+ "name": "Pricing 7",
+ "description": "Comparison table with a billing toggle",
+ "category": "Pricing",
+ "categorySlug": "pricing",
+ "exportName": "Pricing7",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/pricing/pricing-7.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/pricing-7",
+ "lang": "jsx",
+ "codeFile": "code/blocks/pricing-7.txt",
+ "codeLen": 152526,
+ "role": "section",
+ "previewHeight": 1000,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "pricing",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/pricing/pricing-7.tsx",
+ "needInline": []
+}

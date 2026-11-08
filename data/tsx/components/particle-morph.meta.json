@@ -1,0 +1,32 @@
+{
+ "id": "pro:component/particle-morph",
+ "slug": "particle-morph",
+ "name": "Particle Morph",
+ "description": "A halftone dot matrix that morphs from one image into the next",
+ "category": "particles",
+ "tier": "starter",
+ "tags": [
+  "particles",
+  "webgl",
+  "morph",
+  "image",
+  "logo",
+  "shader",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/particle-morph",
+ "lang": "jsx",
+ "codeFile": "code/components/particle-morph.txt",
+ "codeLen": 38231,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650",
+  "2",
+  "1"
+ ]
+}

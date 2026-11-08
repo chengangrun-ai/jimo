@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/scroll-portal",
+ "slug": "scroll-portal",
+ "name": "Scroll Portal",
+ "description": "Scroll through frames nested one inside the next",
+ "category": "scroll",
+ "tier": "starter",
+ "tags": [
+  "scroll",
+  "sticky",
+  "cinematic",
+  "3d",
+  "depth",
+  "storytelling"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/scroll-portal",
+ "lang": "jsx",
+ "codeFile": "code/components/scroll-portal.txt",
+ "codeLen": 12655,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "90650"
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "pro:block/pricing-14",
+ "slug": "pricing-14",
+ "name": "Pricing 14",
+ "description": "Plan builder with add-on toggles",
+ "category": "Pricing",
+ "categorySlug": "pricing",
+ "exportName": "Pricing14",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/pricing/pricing-14.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/pricing-14",
+ "lang": "jsx",
+ "codeFile": "code/blocks/pricing-14.txt",
+ "codeLen": 159971,
+ "role": "section",
+ "previewHeight": 1000,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "pricing",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/pricing/pricing-14.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

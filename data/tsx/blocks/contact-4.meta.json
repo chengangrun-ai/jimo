@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/contact-4",
+ "slug": "contact-4",
+ "name": "Contact 4",
+ "description": "Large image with a glass contact card",
+ "category": "Contact",
+ "categorySlug": "contact",
+ "exportName": "Contact4",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/contact/contact-4.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/contact-4",
+ "lang": "jsx",
+ "codeFile": "code/blocks/contact-4.txt",
+ "codeLen": 148648,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "contact",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/contact/contact-4.tsx",
+ "needInline": []
+}

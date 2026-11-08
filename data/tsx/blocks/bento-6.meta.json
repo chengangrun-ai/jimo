@@ -1,0 +1,39 @@
+{
+ "id": "pro:block/bento-6",
+ "slug": "bento-6",
+ "name": "Bento 6",
+ "description": "KPI cards with counters and sparklines",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento6",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-6.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-6",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-6.txt",
+ "codeLen": 157569,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-6.tsx",
+ "needInline": [
+  "87974",
+  "50969"
+ ]
+}

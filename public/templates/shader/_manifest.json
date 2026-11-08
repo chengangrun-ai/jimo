@@ -1,0 +1,183 @@
+{
+  "base": "https://rbp-shader-template.vercel.app",
+  "generatedAt": "2026-11-01T06:52:35.958Z",
+  "pages": [
+    "/"
+  ],
+  "assets": [
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/media/797e433ab948586e-s.p.479bea2b.woff2",
+      "path": "_next/static/media/797e433ab948586e-s.p.479bea2b.woff2"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2",
+      "path": "_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/157a48f922592414.css",
+      "path": "_next/static/chunks/157a48f922592414.css"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/dbe6a4218e9d115e.js",
+      "path": "_next/static/chunks/dbe6a4218e9d115e.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/aa0a7c5c022cbeb9.js",
+      "path": "_next/static/chunks/aa0a7c5c022cbeb9.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/d682c178a46cd99f.js",
+      "path": "_next/static/chunks/d682c178a46cd99f.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/756ddf5e8fd9bbb5.js",
+      "path": "_next/static/chunks/756ddf5e8fd9bbb5.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/turbopack-f54f01605031d076.js",
+      "path": "_next/static/chunks/turbopack-f54f01605031d076.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/d9ada2f1a90657f4.js",
+      "path": "_next/static/chunks/d9ada2f1a90657f4.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/661f36fd59ae07bc.js",
+      "path": "_next/static/chunks/661f36fd59ae07bc.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/ff1a16fafef87110.js",
+      "path": "_next/static/chunks/ff1a16fafef87110.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/7340adf74ff47ec0.js",
+      "path": "_next/static/chunks/7340adf74ff47ec0.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/1d85e172d634f290.js",
+      "path": "_next/static/chunks/1d85e172d634f290.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/a6dad97d9634a72d.js",
+      "path": "_next/static/chunks/a6dad97d9634a72d.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/157a48f922592414.css",
+      "path": "_next/static/chunks/157a48f922592414.css-79daff337045.css"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/dbe6a4218e9d115e.js",
+      "path": "_next/static/chunks/dbe6a4218e9d115e.js-08db657bf0f5.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/aa0a7c5c022cbeb9.js",
+      "path": "_next/static/chunks/aa0a7c5c022cbeb9.js-ab77b78b4878.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/d682c178a46cd99f.js",
+      "path": "_next/static/chunks/d682c178a46cd99f.js-8435c4b0b70f.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/756ddf5e8fd9bbb5.js",
+      "path": "_next/static/chunks/756ddf5e8fd9bbb5.js-aaba6f95fa04.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/turbopack-f54f01605031d076.js",
+      "path": "_next/static/chunks/turbopack-f54f01605031d076.js-0fb1ceb218c4.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/d9ada2f1a90657f4.js",
+      "path": "_next/static/chunks/d9ada2f1a90657f4.js-cd7eef810a59.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/661f36fd59ae07bc.js",
+      "path": "_next/static/chunks/661f36fd59ae07bc.js-f95c63e4c4f4.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/ff1a16fafef87110.js",
+      "path": "_next/static/chunks/ff1a16fafef87110.js-a006f73055f5.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/7340adf74ff47ec0.js",
+      "path": "_next/static/chunks/7340adf74ff47ec0.js-b3192fc51184.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/1d85e172d634f290.js",
+      "path": "_next/static/chunks/1d85e172d634f290.js-03b5dc62619e.js"
+    },
+    {
+      "url": "https://example.com",
+      "path": "https:/example.com"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/site.webmanifest",
+      "path": "site.webmanifest"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/favicon.ico?favicon.0b3bf435.ico",
+      "path": "favicon.ico-d7e3eac4fd7a.ico"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/favicon.ico",
+      "path": "favicon.ico"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/icon.svg",
+      "path": "icon.svg"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/apple-icon.svg",
+      "path": "apple-icon.svg"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/_next/static/chunks/a6dad97d9634a72d.js",
+      "path": "_next/static/chunks/a6dad97d9634a72d.js-1935f559ff30.js"
+    },
+    {
+      "url": "https://rbp-shader-template.vercel.app/",
+      "path": "index.html"
+    },
+    {
+      "url": "https://x.com",
+      "path": "https:/x.com"
+    },
+    {
+      "url": "https://linkedin.com",
+      "path": "https:/linkedin.com"
+    },
+    {
+      "url": "https://github.com",
+      "path": "https:/github.com"
+    },
+    {
+      "url": "https://youtube.com",
+      "path": "https:/youtube.com"
+    }
+  ],
+  "failures": [
+    {
+      "u": "https://example.com",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://rbp-shader-template.vercel.app/apple-icon.svg",
+      "s": 404
+    },
+    {
+      "u": "https://x.com",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://linkedin.com",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://github.com",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://youtube.com",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    }
+  ]
+}

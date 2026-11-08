@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/showcase-7",
+ "slug": "showcase-7",
+ "name": "Showcase 7",
+ "description": "Case study index with a sticky preview",
+ "category": "Showcase",
+ "categorySlug": "showcase",
+ "exportName": "Showcase7",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/showcase/showcase-7.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/showcase-7",
+ "lang": "jsx",
+ "codeFile": "code/blocks/showcase-7.txt",
+ "codeLen": 150549,
+ "role": "section",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "showcase",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/showcase/showcase-7.tsx",
+ "needInline": []
+}

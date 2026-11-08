@@ -1,0 +1,41 @@
+{
+ "id": "pro:block/bento-23",
+ "slug": "bento-23",
+ "name": "Bento 23",
+ "description": "Notification toasts that stack and expand",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento23",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-23.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-23",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-23.txt",
+ "codeLen": 156125,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "i.pravatar.cc"
+ ],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-23.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

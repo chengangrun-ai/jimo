@@ -1,0 +1,49 @@
+{
+ "id": "pro:block/showcase-3",
+ "slug": "showcase-3",
+ "name": "Showcase 3",
+ "description": "3D triangular carousel with drag",
+ "category": "Showcase",
+ "categorySlug": "showcase",
+ "exportName": "Showcase3",
+ "deps": [
+  "@react-three/drei",
+  "@react-three/fiber",
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/showcase/showcase-3.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/showcase-3",
+ "lang": "jsx",
+ "codeFile": "code/blocks/showcase-3.txt",
+ "codeLen": 1102862,
+ "role": "section",
+ "previewHeight": 720,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "cdn.dribbble.com"
+ ],
+ "categoryDir": "showcase",
+ "dependencies": [
+  "@react-three/drei",
+  "@react-three/fiber",
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/showcase/showcase-3.tsx",
+ "needInline": [
+  "81712",
+  "3907",
+  "9430",
+  "2253",
+  "75272",
+  "17192"
+ ]
+}

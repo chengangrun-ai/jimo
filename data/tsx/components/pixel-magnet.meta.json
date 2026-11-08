@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/pixel-magnet",
+ "slug": "pixel-magnet",
+ "name": "Pixel Magnet",
+ "description": "A swarm of pixels that follows the cursor",
+ "category": "cursor",
+ "tier": "starter",
+ "tags": [
+  "cursor",
+  "pixel",
+  "interactive",
+  "shader",
+  "webgl",
+  "trail"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/pixel-magnet",
+ "lang": "jsx",
+ "codeFile": "code/components/pixel-magnet.txt",
+ "codeLen": 14516,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

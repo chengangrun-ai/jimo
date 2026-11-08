@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/stats-11",
+ "slug": "stats-11",
+ "name": "Stats 11",
+ "description": "Pastel stat cards with timeframe badges",
+ "category": "Stats",
+ "categorySlug": "stats",
+ "exportName": "Stats11",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/stats/stats-11.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/stats-11",
+ "lang": "jsx",
+ "codeFile": "code/blocks/stats-11.txt",
+ "codeLen": 147442,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "stats",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/stats/stats-11.tsx",
+ "needInline": []
+}

@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/spin-shutter",
+ "slug": "spin-shutter",
+ "name": "Spin Shutter",
+ "description": "An orbit of photos that spins open and pulls focus where you point",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "images",
+  "carousel",
+  "3d",
+  "webgl",
+  "interactive",
+  "showcase"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/spin-shutter",
+ "lang": "jsx",
+ "codeFile": "code/components/spin-shutter.txt",
+ "codeLen": 34592,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

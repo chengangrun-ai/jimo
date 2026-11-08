@@ -1,0 +1,457 @@
+{
+  "base": "https://rbp-agentframe-template.vercel.app",
+  "generatedAt": "2026-11-01T06:44:20.332Z",
+  "pages": [
+    "/",
+    "/pricing",
+    "/notes",
+    "/notes/anatomy-of-a-durable-run",
+    "/notes/a-workspace-worth-coming-back-to",
+    "/notes/autonomy-needs-a-pause-button",
+    "/about"
+  ],
+  "assets": [
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/media/4035a0e7e8d7234c-s.p.07q1ylhvf9agl.woff2",
+      "path": "_next/static/immutable/media/4035a0e7e8d7234c-s.p.07q1ylhvf9agl.woff2"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/media/6eb4d44fc7245cf6-s.p.2tnh5gtzxh4fh.woff2",
+      "path": "_next/static/immutable/media/6eb4d44fc7245cf6-s.p.2tnh5gtzxh4fh.woff2"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/media/797e433ab948586e-s.p.1v5bejj26fx9h.woff2",
+      "path": "_next/static/immutable/media/797e433ab948586e-s.p.1v5bejj26fx9h.woff2"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/media/caa3a2e1cccd8315-s.p.0zr6hhvz-h9nw.woff2",
+      "path": "_next/static/immutable/media/caa3a2e1cccd8315-s.p.0zr6hhvz-h9nw.woff2"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/chunks/0889ttn7pl-wd.css",
+      "path": "_next/static/immutable/chunks/0889ttn7pl-wd.css"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/chunks/0b28p3lq0dqi6.css",
+      "path": "_next/static/immutable/chunks/0b28p3lq0dqi6.css"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/chunks/17tuxysuvqwd2.js",
+      "path": "_next/static/immutable/chunks/17tuxysuvqwd2.js"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/chunks/28fkf9f9btak4.js",
+      "path": "_next/static/immutable/chunks/28fkf9f9btak4.js"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/chunks/3sehtyhn4u4zd.js",
+      "path": "_next/static/immutable/chunks/3sehtyhn4u4zd.js"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/chunks/0yjki07z5sfuc.js",
+      "path": "_next/static/immutable/chunks/0yjki07z5sfuc.js"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/chunks/turbopack-34al6sgk-12zs.js",
+      "path": "_next/static/immutable/chunks/turbopack-34al6sgk-12zs.js"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/chunks/3tzmbx7f4irgm.js",
+      "path": "_next/static/immutable/chunks/3tzmbx7f4irgm.js"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/chunks/3dfavv0l2vour.js",
+      "path": "_next/static/immutable/chunks/3dfavv0l2vour.js"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/chunks/38jiyieg-_h7f.js",
+      "path": "_next/static/immutable/chunks/38jiyieg-_h7f.js"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/chunks/3f5e4jdakneyu.js",
+      "path": "_next/static/immutable/chunks/3f5e4jdakneyu.js"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/chunks/0c0hxoamwjsbw.js",
+      "path": "_next/static/immutable/chunks/0c0hxoamwjsbw.js"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-2d90af0e7137.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-4adc095b95e8.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-cb29f647ccd8.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-1cf004b927de.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-02a102e6dad0.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-30ea9a4d7620.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-bace79049d4a.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-64b619a3a429.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1752225494606-ae09aca08bea_auto_format_fit_crop_w_900_q_80-a20abc166a01.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1752225494606-ae09aca08bea_auto_format_fit_crop_w_900_q_80-c6cceb5129bd.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1752225494606-ae09aca08bea_auto_format_fit_crop_w_900_q_80-bf8a6eeac8d3.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1752225494606-ae09aca08bea_auto_format_fit_crop_w_900_q_80-4d70027f3280.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1752225494606-ae09aca08bea_auto_format_fit_crop_w_900_q_80-0d02b8006d3e.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1752225494606-ae09aca08bea_auto_format_fit_crop_w_900_q_80-a2de1bcc1d20.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1752225494606-ae09aca08bea_auto_format_fit_crop_w_900_q_80-7ae8c775858c.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1752225494606-ae09aca08bea_auto_format_fit_crop_w_900_q_80-e77f1db1dafd.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1752225494606-ae09aca08bea_auto_format_fit_crop_w_900_q_80-8960150cbec9.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1591336538143-3a8838472199_auto_format_fit_crop_w_900_q_80-144f2f96804e.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1591336538143-3a8838472199_auto_format_fit_crop_w_900_q_80-6f26d931b39e.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1591336538143-3a8838472199_auto_format_fit_crop_w_900_q_80-26470381a3fb.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1591336538143-3a8838472199_auto_format_fit_crop_w_900_q_80-165ccb4582ec.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1591336538143-3a8838472199_auto_format_fit_crop_w_900_q_80-5a5da1278916.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1591336538143-3a8838472199_auto_format_fit_crop_w_900_q_80-9f4e90cbbcf3.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1591336538143-3a8838472199_auto_format_fit_crop_w_900_q_80-c19e364f7cef.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1591336538143-3a8838472199_auto_format_fit_crop_w_900_q_80-9507ab64abbc.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1591336538143-3a8838472199_auto_format_fit_crop_w_900_q_80-38dc315b6279.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/images/agentframe-landscape.jpg?dpl=dpl_37AqHU7XD9r9L9URbvwvzboMEhwV",
+      "path": "images/agentframe-landscape.jpg-7692fe8b46c4.jpg"
+    },
+    {
+      "url": "https://example.com",
+      "path": "https:/example.com"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/site.webmanifest",
+      "path": "site.webmanifest"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/favicon.ico?favicon.2jtqg0944r_xt.ico",
+      "path": "favicon.ico-19180cb5fe5d.ico"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/icon.svg?icon.1_5ahzldxjs18.svg",
+      "path": "icon.svg-ff799e51a515.svg"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/apple-icon.png?apple-icon.1fh83d09dhtlw.png",
+      "path": "apple-icon.png-8bba84bc43b3.png"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/#top",
+      "path": "index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/#runtime",
+      "path": "index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/#quickstart",
+      "path": "index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/pricing",
+      "path": "pricing/index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/notes",
+      "path": "notes/index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/#playground",
+      "path": "index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/notes/anatomy-of-a-durable-run",
+      "path": "notes/anatomy-of-a-durable-run/index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/notes/a-workspace-worth-coming-back-to",
+      "path": "notes/a-workspace-worth-coming-back-to/index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/notes/autonomy-needs-a-pause-button",
+      "path": "notes/autonomy-needs-a-pause-button/index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/pricing#faq",
+      "path": "pricing/index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/#integrations",
+      "path": "index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/about",
+      "path": "about/index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/about#privacy",
+      "path": "about/index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/chunks/0hwhp5v9zq6yt.js",
+      "path": "_next/static/immutable/chunks/0hwhp5v9zq6yt.js"
+    },
+    {
+      "url": "https://example.com/pricing",
+      "path": "https:/example.com/pricing/index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/chunks/0kqc0bqw7nf1k.js",
+      "path": "_next/static/immutable/chunks/0kqc0bqw7nf1k.js"
+    },
+    {
+      "url": "https://example.com/notes",
+      "path": "https:/example.com/notes/index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-d5aaa340462b.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-7a3b61b2ca87.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-037412372a75.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-b605dc2feb13.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-7d77db61acc9.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-d29c45610b3d.bin"
+    },
+    {
+      "url": "https://example.com/notes/anatomy-of-a-durable-run",
+      "path": "https:/example.com/notes/anatomy-of-a-durable-run/index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/",
+      "path": "index.html"
+    },
+    {
+      "url": "https://unsplash.com/photos/stair-with-concrete-railings-sFw3vSW9kdk",
+      "path": "https:/unsplash.com/photos/stair-with-concrete-railings-sFw3vSW9kdk/index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1752225494606-ae09aca08bea_auto_format_fit_crop_w_900_q_80-0c3e05077ef1.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1752225494606-ae09aca08bea_auto_format_fit_crop_w_900_q_80-4858e598452a.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1752225494606-ae09aca08bea_auto_format_fit_crop_w_900_q_80-a4f34df9f503.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1752225494606-ae09aca08bea_auto_format_fit_crop_w_900_q_80-21b82d9fa100.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1752225494606-ae09aca08bea_auto_format_fit_crop_w_900_q_80-56acd2c7ac7b.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1752225494606-ae09aca08bea_auto_format_fit_crop_w_900_q_80-adf9a022000b.bin"
+    },
+    {
+      "url": "https://example.com/notes/a-workspace-worth-coming-back-to",
+      "path": "https:/example.com/notes/a-workspace-worth-coming-back-to/index.html"
+    },
+    {
+      "url": "https://unsplash.com/photos/laptop-mug-and-notebooks-on-a-dark-workspace-uxxGF7g754U",
+      "path": "https:/unsplash.com/photos/laptop-mug-and-notebooks-on-a-dark-workspace-uxxGF7g754U/index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1591336538143-3a8838472199_auto_format_fit_crop_w_900_q_80-3df828e38272.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1591336538143-3a8838472199_auto_format_fit_crop_w_900_q_80-a3a802ecc013.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1591336538143-3a8838472199_auto_format_fit_crop_w_900_q_80-2de8f49e9b3b.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1591336538143-3a8838472199_auto_format_fit_crop_w_900_q_80-160dd020954b.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1591336538143-3a8838472199_auto_format_fit_crop_w_900_q_80-4657542f1c24.bin"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_img/photo-1525173193108-4d11106157e8_auto_format_fit_crop_w_900_q_80-f5b162cab845.bin",
+      "path": "_img/photo-1591336538143-3a8838472199_auto_format_fit_crop_w_900_q_80-3ab39737297c.bin"
+    },
+    {
+      "url": "https://example.com/notes/autonomy-needs-a-pause-button",
+      "path": "https:/example.com/notes/autonomy-needs-a-pause-button/index.html"
+    },
+    {
+      "url": "https://unsplash.com/photos/black-and-white-concrete-stairs-KL63kujm9sU",
+      "path": "https:/unsplash.com/photos/black-and-white-concrete-stairs-KL63kujm9sU/index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable/chunks/03nlifkr_qn72.js",
+      "path": "_next/static/immutable/chunks/03nlifkr_qn72.js"
+    },
+    {
+      "url": "https://example.com/about",
+      "path": "https:/example.com/about/index.html"
+    },
+    {
+      "url": "https://unsplash.com/photos/landscape-photography-of-mountain-surrounded-by-pine-trees-and-body-of-water-4qKVQYOluDk",
+      "path": "https:/unsplash.com/photos/landscape-photography-of-mountain-surrounded-by-pine-trees-and-body-of-water-4qKVQYOluDk/index.html"
+    },
+    {
+      "url": "https://unsplash.com/license",
+      "path": "https:/unsplash.com/license/index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/_next/static/immutable",
+      "path": "_next/static/immutable/index.html"
+    },
+    {
+      "url": "https://rbp-agentframe-template.vercel.app/images/agentframe-landscape.jpg",
+      "path": "images/agentframe-landscape.jpg"
+    },
+    {
+      "url": "https://vercel.live/_next-live/feedback/feedback.js",
+      "path": "https:/vercel.live/_next-live/feedback/feedback.js"
+    }
+  ],
+  "failures": [
+    {
+      "u": "https://example.com",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://example.com/pricing",
+      "s": 404
+    },
+    {
+      "u": "https://example.com/notes",
+      "s": 404
+    },
+    {
+      "u": "https://example.com/notes/anatomy-of-a-durable-run",
+      "s": 404
+    },
+    {
+      "u": "https://unsplash.com/photos/stair-with-concrete-railings-sFw3vSW9kdk",
+      "s": 401
+    },
+    {
+      "u": "https://example.com/notes/a-workspace-worth-coming-back-to",
+      "s": 404
+    },
+    {
+      "u": "https://unsplash.com/photos/laptop-mug-and-notebooks-on-a-dark-workspace-uxxGF7g754U",
+      "s": 401
+    },
+    {
+      "u": "https://example.com/notes/autonomy-needs-a-pause-button",
+      "s": 404
+    },
+    {
+      "u": "https://unsplash.com/photos/black-and-white-concrete-stairs-KL63kujm9sU",
+      "s": 401
+    },
+    {
+      "u": "https://example.com/about",
+      "s": 404
+    },
+    {
+      "u": "https://unsplash.com/photos/landscape-photography-of-mountain-surrounded-by-pine-trees-and-body-of-water-4qKVQYOluDk",
+      "s": 401
+    },
+    {
+      "u": "https://unsplash.com/license",
+      "s": 401
+    }
+  ]
+}

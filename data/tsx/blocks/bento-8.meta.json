@@ -1,0 +1,39 @@
+{
+ "id": "pro:block/bento-8",
+ "slug": "bento-8",
+ "name": "Bento 8",
+ "description": "Code editor that types an SDK call",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento8",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-8.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-8",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-8.txt",
+ "codeLen": 160914,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-8.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

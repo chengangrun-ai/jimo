@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/bend-gallery",
+ "slug": "bend-gallery",
+ "name": "Bend Gallery",
+ "description": "A column of images that bends away as it scrolls",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "scroll",
+  "3d",
+  "images",
+  "infinite",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/bend-gallery",
+ "lang": "jsx",
+ "codeFile": "code/components/bend-gallery.txt",
+ "codeLen": 16639,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "90650"
+ ]
+}

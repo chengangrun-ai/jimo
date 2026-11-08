@@ -1,0 +1,21 @@
+{
+ "id": "pro:component/depth-card",
+ "slug": "depth-card",
+ "name": "Depth Card",
+ "description": "A card that tilts with depth as the cursor moves",
+ "category": "card",
+ "tier": "starter",
+ "tags": [
+  "card",
+  "3d"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/depth-card",
+ "lang": "jsx",
+ "codeFile": "code/components/depth-card.txt",
+ "codeLen": 12045,
+ "needInline": [
+  "56388",
+  "90761",
+  "90650"
+ ]
+}

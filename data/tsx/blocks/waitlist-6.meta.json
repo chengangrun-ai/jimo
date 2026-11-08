@@ -1,0 +1,45 @@
+{
+ "id": "pro:block/waitlist-6",
+ "slug": "waitlist-6",
+ "name": "Waitlist 6",
+ "description": "Waitlist with a glass pill over ripples",
+ "category": "Waitlist",
+ "categorySlug": "waitlist",
+ "exportName": "Waitlist6",
+ "deps": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/waitlist/waitlist-6.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/waitlist-6",
+ "lang": "jsx",
+ "codeFile": "code/blocks/waitlist-6.txt",
+ "codeLen": 907859,
+ "role": "section",
+ "previewHeight": 820,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "i.pravatar.cc"
+ ],
+ "categoryDir": "waitlist",
+ "dependencies": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/waitlist/waitlist-6.tsx",
+ "needInline": [
+  "50969",
+  "47962",
+  "2253",
+  "12246"
+ ]
+}

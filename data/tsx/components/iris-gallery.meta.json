@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/iris-gallery",
+ "slug": "iris-gallery",
+ "name": "Iris Gallery",
+ "description": "An oval of photos that turns into an iris",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "images",
+  "3d",
+  "webgl",
+  "interactive",
+  "showcase"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/iris-gallery",
+ "lang": "jsx",
+ "codeFile": "code/components/iris-gallery.txt",
+ "codeLen": 32391,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

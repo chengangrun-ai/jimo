@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/comparison-8",
+ "slug": "comparison-8",
+ "name": "Comparison 8",
+ "description": "Capability matrix with status chips",
+ "category": "Comparison",
+ "categorySlug": "comparison",
+ "exportName": "Comparison8",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/comparison/comparison-8.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/comparison-8",
+ "lang": "jsx",
+ "codeFile": "code/blocks/comparison-8.txt",
+ "codeLen": 153423,
+ "role": "section",
+ "previewHeight": 880,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "comparison",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/comparison/comparison-8.tsx",
+ "needInline": []
+}

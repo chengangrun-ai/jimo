@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/bento-24",
+ "slug": "bento-24",
+ "name": "Bento 24",
+ "description": "Live waveform with a typing transcript",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento24",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-24.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-24",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-24.txt",
+ "codeLen": 154501,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "i.pravatar.cc"
+ ],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-24.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/snapshot-trail",
+ "slug": "snapshot-trail",
+ "name": "Snapshot Trail",
+ "description": "A cursor trail of photos that lean, toss and settle like prints",
+ "category": "interactive",
+ "tier": "starter",
+ "tags": [
+  "interactive",
+  "cursor",
+  "images",
+  "gallery",
+  "webgl",
+  "3d"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/snapshot-trail",
+ "lang": "jsx",
+ "codeFile": "code/components/snapshot-trail.txt",
+ "codeLen": 35069,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

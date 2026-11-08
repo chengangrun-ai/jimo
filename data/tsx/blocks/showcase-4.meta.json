@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/showcase-4",
+ "slug": "showcase-4",
+ "name": "Showcase 4",
+ "description": "Filterable project grid",
+ "category": "Showcase",
+ "categorySlug": "showcase",
+ "exportName": "Showcase4",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/showcase/showcase-4.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/showcase-4",
+ "lang": "jsx",
+ "codeFile": "code/blocks/showcase-4.txt",
+ "codeLen": 154020,
+ "role": "section",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "showcase",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/showcase/showcase-4.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

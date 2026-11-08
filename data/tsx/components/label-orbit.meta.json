@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/label-orbit",
+ "slug": "label-orbit",
+ "name": "Label Orbit",
+ "description": "A label that becomes the cursor and trails a 3D stack",
+ "category": "cursor",
+ "tier": "starter",
+ "tags": [
+  "cursor",
+  "label",
+  "trail",
+  "text",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/label-orbit",
+ "lang": "jsx",
+ "codeFile": "code/components/label-orbit.txt",
+ "codeLen": 22428,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "90650"
+ ]
+}

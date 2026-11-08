@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/shadow-bars",
+ "slug": "shadow-bars",
+ "name": "Shadow Bars",
+ "description": "Vertical bars of shifting light and shadow",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/shadow-bars",
+ "lang": "jsx",
+ "codeFile": "code/components/shadow-bars.txt",
+ "codeLen": 13392,
+ "needInline": [
+  "56388",
+  "48543",
+  "90761",
+  "81712",
+  "3907",
+  "30701",
+  "2253"
+ ]
+}

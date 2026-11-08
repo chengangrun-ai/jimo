@@ -1,0 +1,18 @@
+{
+ "id": "pro:component/comparison-slider",
+ "slug": "comparison-slider",
+ "name": "Comparison Slider",
+ "description": "A before and after image slider",
+ "category": "interaction",
+ "tier": "starter",
+ "tags": [
+  "interaction",
+  "slider",
+  "ui"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/comparison-slider",
+ "lang": "jsx",
+ "codeFile": "code/components/comparison-slider.txt",
+ "codeLen": 65148,
+ "needInline": []
+}

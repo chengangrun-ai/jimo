@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/glowing-wave",
+ "slug": "glowing-wave",
+ "name": "Glowing Wave",
+ "description": "A single glowing wave rolling across the screen",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "glow",
+  "wave",
+  "webgl",
+  "ambient"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/glowing-wave",
+ "lang": "jsx",
+ "codeFile": "code/components/glowing-wave.txt",
+ "codeLen": 19254,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

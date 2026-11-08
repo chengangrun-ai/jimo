@@ -1,0 +1,42 @@
+{
+ "id": "pro:block/hero-21",
+ "slug": "hero-21",
+ "name": "Hero 21",
+ "description": "Aurora hero with a glowing orb mark",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero21",
+ "deps": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-21.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-21",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-21.txt",
+ "codeLen": 905225,
+ "role": "hero",
+ "previewHeight": 780,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "hero",
+ "dependencies": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-21.tsx",
+ "needInline": [
+  "50969",
+  "2253",
+  "12246"
+ ]
+}

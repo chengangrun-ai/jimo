@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/cloud-atlas",
+ "slug": "cloud-atlas",
+ "name": "Cloud Atlas",
+ "description": "Billowing clouds you can push around like wind",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "webgl",
+  "clouds",
+  "sky",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/cloud-atlas",
+ "lang": "jsx",
+ "codeFile": "code/components/cloud-atlas.txt",
+ "codeLen": 22125,
+ "needInline": [
+  "86049",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

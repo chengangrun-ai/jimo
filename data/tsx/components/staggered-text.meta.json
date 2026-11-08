@@ -1,0 +1,21 @@
+{
+ "id": "pro:component/staggered-text",
+ "slug": "staggered-text",
+ "name": "Staggered Text",
+ "description": "Text that staggers in by letter, word or line",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "text"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/staggered-text",
+ "lang": "jsx",
+ "codeFile": "code/components/staggered-text.txt",
+ "codeLen": 10376,
+ "needInline": [
+  "51114",
+  "56388",
+  "90761"
+ ]
+}

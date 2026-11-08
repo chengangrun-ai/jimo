@@ -1,0 +1,25 @@
+{
+ "id": "pro:app-ui/sorbet/kanban-2",
+ "slug": "kanban-2",
+ "name": "Kanban 2",
+ "description": "",
+ "category": "kanban",
+ "style": "sorbet",
+ "href": "https://pro.reactbits.dev/docs/app-ui/kanban-2",
+ "lang": "jsx",
+ "codeFile": "code/app-ui/kanban-2.txt",
+ "codeLen": 13902,
+ "needInline": [
+  "50969",
+  "47962",
+  "22728",
+  "89886",
+  "89289",
+  "60041",
+  "36586",
+  "48094",
+  "5042",
+  "90987",
+  "58661"
+ ]
+}

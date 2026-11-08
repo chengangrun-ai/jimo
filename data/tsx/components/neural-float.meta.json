@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/neural-float",
+ "slug": "neural-float",
+ "name": "Neural Float",
+ "description": "Soft neural filaments drifting through the dark",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "webgl",
+  "organic",
+  "abstract",
+  "ambient"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/neural-float",
+ "lang": "jsx",
+ "codeFile": "code/components/neural-float.txt",
+ "codeLen": 22995,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

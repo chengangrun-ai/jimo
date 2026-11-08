@@ -1,0 +1,23 @@
+{
+ "id": "pro:component/particle-text",
+ "slug": "particle-text",
+ "name": "Particle Text",
+ "description": "Text made of particles that scatter from the cursor",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "text",
+  "particles"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/particle-text",
+ "lang": "jsx",
+ "codeFile": "code/components/particle-text.txt",
+ "codeLen": 8582,
+ "needInline": [
+  "56388",
+  "90761",
+  "30701",
+  "10064"
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/shatter-type",
+ "slug": "shatter-type",
+ "name": "Shatter Type",
+ "description": "A headline cut into glass shards that assemble, crack under the cursor and shatter on click",
+ "category": "text",
+ "tier": "starter",
+ "tags": [
+  "text",
+  "3d",
+  "webgl",
+  "interactive",
+  "glass",
+  "shatter"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/shatter-type",
+ "lang": "jsx",
+ "codeFile": "code/components/shatter-type.txt",
+ "codeLen": 33936,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

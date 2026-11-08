@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/frame-border",
+ "slug": "frame-border",
+ "name": "Frame Border",
+ "description": "A crisp, glowing border that frames any content",
+ "category": "shader",
+ "tier": "starter",
+ "tags": [
+  "shader",
+  "effect",
+  "border",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/frame-border",
+ "lang": "jsx",
+ "codeFile": "code/components/frame-border.txt",
+ "codeLen": 32371,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

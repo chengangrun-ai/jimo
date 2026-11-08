@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/voxel-arc",
+ "slug": "voxel-arc",
+ "name": "Voxel Arc",
+ "description": "A curved horizon of square voxels rolling like a calm sea",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "webgl",
+  "3d",
+  "pixels",
+  "waves",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/voxel-arc",
+ "lang": "jsx",
+ "codeFile": "code/components/voxel-arc.txt",
+ "codeLen": 34608,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

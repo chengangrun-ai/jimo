@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/navigation-14",
+ "slug": "navigation-14",
+ "name": "Navigation 14",
+ "description": "Mega panel nav with a featured card",
+ "category": "Navigation",
+ "categorySlug": "navigation",
+ "exportName": "Navigation14",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/navigation/navigation-14.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/navigation-14",
+ "lang": "jsx",
+ "codeFile": "code/blocks/navigation-14.txt",
+ "codeLen": 163969,
+ "role": "navigation",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "header",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "navigation",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/navigation/navigation-14.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

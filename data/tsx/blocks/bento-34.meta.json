@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/bento-34",
+ "slug": "bento-34",
+ "name": "Bento 34",
+ "description": "Editorial carousel of monochrome artwork",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento34",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-34.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-34",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-34.txt",
+ "codeLen": 151548,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-34.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

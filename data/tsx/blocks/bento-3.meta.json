@@ -1,0 +1,41 @@
+{
+ "id": "pro:block/bento-3",
+ "slug": "bento-3",
+ "name": "Bento 3",
+ "description": "Avatars orbiting a pulsing hub",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento3",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-3.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-3",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-3.txt",
+ "codeLen": 160080,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "i.pravatar.cc"
+ ],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-3.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

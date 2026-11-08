@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/bento-40",
+ "slug": "bento-40",
+ "name": "Bento 40",
+ "description": "Ticker of metrics and changelog chips",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento40",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-40.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-40",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-40.txt",
+ "codeLen": 156127,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-40.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

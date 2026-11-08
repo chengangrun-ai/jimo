@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/bending-marquee",
+ "slug": "bending-marquee",
+ "name": "Bending Marquee",
+ "description": "A marquee that bends along a curve as it scrolls",
+ "category": "marquee",
+ "tier": "starter",
+ "tags": [
+  "marquee",
+  "curve",
+  "scroll",
+  "text",
+  "motion",
+  "kinetic"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/bending-marquee",
+ "lang": "jsx",
+ "codeFile": "code/components/bending-marquee.txt",
+ "codeLen": 12975,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "90650"
+ ]
+}

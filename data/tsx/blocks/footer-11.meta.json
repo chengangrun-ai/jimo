@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/footer-11",
+ "slug": "footer-11",
+ "name": "Footer 11",
+ "description": "Airy five-column sitemap footer",
+ "category": "Footer",
+ "categorySlug": "footer",
+ "exportName": "Footer11",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/footer/footer-11.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/footer-11",
+ "lang": "jsx",
+ "codeFile": "code/blocks/footer-11.txt",
+ "codeLen": 153002,
+ "role": "footer",
+ "previewHeight": 620,
+ "layout": {
+  "rootTag": "footer",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "footer",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/footer/footer-11.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

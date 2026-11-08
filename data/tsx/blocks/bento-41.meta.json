@@ -1,0 +1,39 @@
+{
+ "id": "pro:block/bento-41",
+ "slug": "bento-41",
+ "name": "Bento 41",
+ "description": "Voice assistant with a live waveform",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento41",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-41.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-41",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-41.txt",
+ "codeLen": 157051,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-41.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

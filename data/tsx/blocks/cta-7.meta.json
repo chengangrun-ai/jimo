@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/cta-7",
+ "slug": "cta-7",
+ "name": "CTA 7",
+ "description": "Download CTA with a phone mockup",
+ "category": "Call To Action",
+ "categorySlug": "cta",
+ "exportName": "Cta7",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/cta/cta-7.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/cta-7",
+ "lang": "jsx",
+ "codeFile": "code/blocks/cta-7.txt",
+ "codeLen": 147735,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "cta",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/cta/cta-7.tsx",
+ "needInline": []
+}

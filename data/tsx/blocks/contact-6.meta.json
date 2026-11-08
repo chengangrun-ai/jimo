@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/contact-6",
+ "slug": "contact-6",
+ "name": "Contact 6",
+ "description": "Centered contact card with a logo badge",
+ "category": "Contact",
+ "categorySlug": "contact",
+ "exportName": "Contact6",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/contact/contact-6.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/contact-6",
+ "lang": "jsx",
+ "codeFile": "code/blocks/contact-6.txt",
+ "codeLen": 146641,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "contact",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/contact/contact-6.tsx",
+ "needInline": []
+}

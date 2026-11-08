@@ -1,0 +1,42 @@
+{
+ "id": "pro:block/hero-34",
+ "slug": "hero-34",
+ "name": "Hero 34",
+ "description": "Surf forecast hero where each break reshapes a glittering particle ocean",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero34",
+ "deps": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-34.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-34",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-34.txt",
+ "codeLen": 913339,
+ "role": "hero",
+ "previewHeight": 860,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "hero",
+ "dependencies": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-34.tsx",
+ "needInline": [
+  "50969",
+  "2253",
+  "12246"
+ ]
+}

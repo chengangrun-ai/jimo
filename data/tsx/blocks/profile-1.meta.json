@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/profile-1",
+ "slug": "profile-1",
+ "name": "Profile 1",
+ "description": "Profile card with avatar and actions",
+ "category": "Profile",
+ "categorySlug": "profile",
+ "exportName": "Profile1",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/profile/profile-1.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/profile-1",
+ "lang": "jsx",
+ "codeFile": "code/blocks/profile-1.txt",
+ "codeLen": 150058,
+ "role": "section",
+ "previewHeight": 600,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "pbs.twimg.com"
+ ],
+ "categoryDir": "profile",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/profile/profile-1.tsx",
+ "needInline": []
+}

@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/ribbon-type",
+ "slug": "ribbon-type",
+ "name": "Ribbon Type",
+ "description": "Text printed on satin ribbons that twist and wave through 3D space",
+ "category": "text",
+ "tier": "starter",
+ "tags": [
+  "text",
+  "animation",
+  "3d",
+  "webgl",
+  "ribbon"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/ribbon-type",
+ "lang": "jsx",
+ "codeFile": "code/components/ribbon-type.txt",
+ "codeLen": 26900,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

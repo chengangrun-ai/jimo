@@ -1,0 +1,33 @@
+{
+ "id": "pro:app-ui/sorbet/feedback-1",
+ "slug": "feedback-1",
+ "name": "Feedback 1",
+ "description": "",
+ "category": "feedback",
+ "style": "sorbet",
+ "href": "https://pro.reactbits.dev/docs/app-ui/feedback-1",
+ "lang": "jsx",
+ "codeFile": "code/app-ui/feedback-1.txt",
+ "codeLen": 10238,
+ "needInline": [
+  "22728",
+  "93055",
+  "21835",
+  "47293",
+  "90987",
+  "89289",
+  "22776",
+  "12556",
+  "89886",
+  "66575",
+  "24513",
+  "36586",
+  "67812",
+  "78805",
+  "22670",
+  "59037",
+  "1497",
+  "37502",
+  "99199"
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": "pro:block/navigation-6",
+ "slug": "navigation-6",
+ "name": "Navigation 6",
+ "description": "Full-screen menu with image previews",
+ "category": "Navigation",
+ "categorySlug": "navigation",
+ "exportName": "Navigation6",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/navigation/navigation-6.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/navigation-6",
+ "lang": "jsx",
+ "codeFile": "code/blocks/navigation-6.txt",
+ "codeLen": 159511,
+ "role": "navigation",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "null",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": true
+ },
+ "localAssets": [
+  "/mock-logos/spherule.svg"
+ ],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "navigation",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/navigation/navigation-6.tsx",
+ "needInline": [
+  "75272",
+  "17192",
+  "47962"
+ ]
+}

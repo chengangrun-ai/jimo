@@ -1,0 +1,41 @@
+{
+ "id": "pro:block/hero-23",
+ "slug": "hero-23",
+ "name": "Hero 23",
+ "description": "Product hero with a framed water effect",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero23",
+ "deps": [
+  "@paper-design/shaders-react",
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-23.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-23",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-23.txt",
+ "codeLen": 178822,
+ "role": "hero",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "hero",
+ "dependencies": [
+  "@paper-design/shaders-react",
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-23.tsx",
+ "needInline": [
+  "50969",
+  "19370"
+ ]
+}

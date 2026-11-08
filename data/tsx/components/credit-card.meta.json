@@ -1,0 +1,21 @@
+{
+ "id": "pro:component/credit-card",
+ "slug": "credit-card",
+ "name": "Credit Card",
+ "description": "A credit card that tilts in 3D on hover",
+ "category": "ui",
+ "tier": "starter",
+ "tags": [
+  "ui",
+  "card"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/credit-card",
+ "lang": "jsx",
+ "codeFile": "code/components/credit-card.txt",
+ "codeLen": 16030,
+ "needInline": [
+  "56388",
+  "90761",
+  "90650"
+ ]
+}

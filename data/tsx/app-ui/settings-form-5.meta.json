@@ -1,0 +1,28 @@
+{
+ "id": "pro:app-ui/sorbet/settings-form-5",
+ "slug": "settings-form-5",
+ "name": "Settings Form 5",
+ "description": "",
+ "category": "settings-form",
+ "style": "sorbet",
+ "href": "https://pro.reactbits.dev/docs/app-ui/settings-form-5",
+ "lang": "jsx",
+ "codeFile": "code/app-ui/settings-form-5.txt",
+ "codeLen": 14458,
+ "needInline": [
+  "50969",
+  "22728",
+  "31517",
+  "90987",
+  "79715",
+  "6097",
+  "34951",
+  "27476",
+  "59649",
+  "89886",
+  "79698",
+  "56987",
+  "2301",
+  "62714"
+ ]
+}

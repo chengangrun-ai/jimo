@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/fading-stars",
+ "slug": "fading-stars",
+ "name": "Fading Stars",
+ "description": "Stars rising from beyond the frame on trails that fade behind them",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "stars",
+  "particles",
+  "trails",
+  "space",
+  "webgl"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/fading-stars",
+ "lang": "jsx",
+ "codeFile": "code/components/fading-stars.txt",
+ "codeLen": 34890,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

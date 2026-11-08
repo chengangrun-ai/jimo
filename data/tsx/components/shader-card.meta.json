@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/shader-card",
+ "slug": "shader-card",
+ "name": "Shader Card",
+ "description": "A content card with a luminous flame rising behind it",
+ "category": "card",
+ "tier": "starter",
+ "tags": [
+  "card",
+  "shader",
+  "flame",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/shader-card",
+ "lang": "jsx",
+ "codeFile": "code/components/shader-card.txt",
+ "codeLen": 36535,
+ "needInline": [
+  "56388",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

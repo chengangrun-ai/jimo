@@ -1,0 +1,18 @@
+{
+ "id": "pro:component/3d-text-reveal",
+ "slug": "3d-text-reveal",
+ "name": "3D Text Reveal",
+ "description": "Lines of text turning on a 3D cylinder as you scroll",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "text",
+  "3d"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/3d-text-reveal",
+ "lang": "jsx",
+ "codeFile": "code/components/3d-text-reveal.txt",
+ "codeLen": 55260,
+ "needInline": []
+}

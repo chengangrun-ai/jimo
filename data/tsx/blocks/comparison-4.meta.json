@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/comparison-4",
+ "slug": "comparison-4",
+ "name": "Comparison 4",
+ "description": "Us versus them with check and X marks",
+ "category": "Comparison",
+ "categorySlug": "comparison",
+ "exportName": "Comparison4",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/comparison/comparison-4.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/comparison-4",
+ "lang": "jsx",
+ "codeFile": "code/blocks/comparison-4.txt",
+ "codeLen": 147950,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "comparison",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/comparison/comparison-4.tsx",
+ "needInline": []
+}

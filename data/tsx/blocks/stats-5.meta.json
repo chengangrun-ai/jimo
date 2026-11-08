@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/stats-5",
+ "slug": "stats-5",
+ "name": "Stats 5",
+ "description": "Colored card with a world map and stats",
+ "category": "Stats",
+ "categorySlug": "stats",
+ "exportName": "Stats5",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/stats/stats-5.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/stats-5",
+ "lang": "jsx",
+ "codeFile": "code/blocks/stats-5.txt",
+ "codeLen": 145478,
+ "role": "section",
+ "previewHeight": 550,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/world-map.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "stats",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/stats/stats-5.tsx",
+ "needInline": []
+}

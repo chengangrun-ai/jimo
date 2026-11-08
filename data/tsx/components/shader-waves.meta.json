@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/shader-waves",
+ "slug": "shader-waves",
+ "name": "Shader Waves",
+ "description": "Smooth, flowing waves of color",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "shader",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/shader-waves",
+ "lang": "jsx",
+ "codeFile": "code/components/shader-waves.txt",
+ "codeLen": 11004,
+ "needInline": [
+  "56388",
+  "48543",
+  "90761",
+  "12246",
+  "2253",
+  "90650",
+  "30701"
+ ]
+}

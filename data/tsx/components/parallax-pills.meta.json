@@ -1,0 +1,31 @@
+{
+ "id": "pro:component/parallax-pills",
+ "slug": "parallax-pills",
+ "name": "Parallax Pills",
+ "description": "Bouncy labeled pills that drift with the cursor",
+ "category": "pills",
+ "tier": "starter",
+ "tags": [
+  "pills",
+  "parallax",
+  "spring",
+  "bounce",
+  "interactive",
+  "motion",
+  "cursor"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/parallax-pills",
+ "lang": "jsx",
+ "codeFile": "code/components/parallax-pills.txt",
+ "codeLen": 15820,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "17192",
+  "32923",
+  "75272",
+  "81106",
+  "90650"
+ ]
+}

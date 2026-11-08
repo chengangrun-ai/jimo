@@ -1,0 +1,49 @@
+{
+ "id": "pro:block/hero-7",
+ "slug": "hero-7",
+ "name": "Hero 7",
+ "description": "3D rotating carousel with a glow bar",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero7",
+ "deps": [
+  "@react-three/drei",
+  "@react-three/fiber",
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-7.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-7",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-7.txt",
+ "codeLen": 1103798,
+ "role": "hero",
+ "previewHeight": 750,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "hero",
+ "dependencies": [
+  "@react-three/drei",
+  "@react-three/fiber",
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-7.tsx",
+ "needInline": [
+  "81712",
+  "3907",
+  "22373",
+  "2253"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/album-rail",
+ "slug": "album-rail",
+ "name": "Album Rail",
+ "description": "A fan of album sleeves, each with a record tucked inside",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "images",
+  "carousel",
+  "3d",
+  "webgl",
+  "interactive",
+  "showcase"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/album-rail",
+ "lang": "jsx",
+ "codeFile": "code/components/album-rail.txt",
+ "codeLen": 49787,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

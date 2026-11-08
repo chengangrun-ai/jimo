@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/hero-10",
+ "slug": "hero-10",
+ "name": "Hero 10",
+ "description": "Centered text with three stacked cards",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero10",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-10.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-10",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-10.txt",
+ "codeLen": 147602,
+ "role": "hero",
+ "previewHeight": 775,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "hero",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-10.tsx",
+ "needInline": []
+}

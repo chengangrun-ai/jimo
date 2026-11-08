@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/comparison-1",
+ "slug": "comparison-1",
+ "name": "Comparison 1",
+ "description": "Two-column checklist comparison",
+ "category": "Comparison",
+ "categorySlug": "comparison",
+ "exportName": "Comparison1",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/comparison/comparison-1.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/comparison-1",
+ "lang": "jsx",
+ "codeFile": "code/blocks/comparison-1.txt",
+ "codeLen": 148255,
+ "role": "section",
+ "previewHeight": 560,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "comparison",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/comparison/comparison-1.tsx",
+ "needInline": []
+}

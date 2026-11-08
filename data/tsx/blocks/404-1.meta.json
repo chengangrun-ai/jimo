@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/404-1",
+ "slug": "404-1",
+ "name": "404 - 1",
+ "description": "Minimal 404 with a card grid",
+ "category": "404",
+ "categorySlug": "404",
+ "exportName": "NotFound1",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/404/404-1.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/404-1",
+ "lang": "jsx",
+ "codeFile": "code/blocks/404-1.txt",
+ "codeLen": 149606,
+ "role": "page",
+ "previewHeight": 770,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "www.w3.org"
+ ],
+ "categoryDir": "404",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/404/404-1.tsx",
+ "needInline": []
+}

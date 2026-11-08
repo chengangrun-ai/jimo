@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/tumble-wall",
+ "slug": "tumble-wall",
+ "name": "Tumble Wall",
+ "description": "A pile of photos, avatars or tags that rains in and can be thrown around",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "physics",
+  "drag",
+  "images",
+  "avatars",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/tumble-wall",
+ "lang": "jsx",
+ "codeFile": "code/components/tumble-wall.txt",
+ "codeLen": 50808,
+ "needInline": [
+  "56388",
+  "45949",
+  "86049",
+  "90761",
+  "47686",
+  "90650"
+ ]
+}

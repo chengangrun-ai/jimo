@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/dither-wave",
+ "slug": "dither-wave",
+ "name": "Dither Wave",
+ "description": "Flowing waves drawn in a retro dither",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/dither-wave",
+ "lang": "jsx",
+ "codeFile": "code/components/dither-wave.txt",
+ "codeLen": 10972,
+ "needInline": [
+  "56388",
+  "48543",
+  "90761",
+  "12246",
+  "2253",
+  "90650",
+  "30701"
+ ]
+}

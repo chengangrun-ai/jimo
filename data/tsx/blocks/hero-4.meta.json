@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/hero-4",
+ "slug": "hero-4",
+ "name": "Hero 4",
+ "description": "Infinite scrolling video marquee",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero4",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-4.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-4",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-4.txt",
+ "codeLen": 156518,
+ "role": "hero",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "commondatastorage.googleapis.com"
+ ],
+ "categoryDir": "hero",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-4.tsx",
+ "needInline": [
+  "21211"
+ ]
+}

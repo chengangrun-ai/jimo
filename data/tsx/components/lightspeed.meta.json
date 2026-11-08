@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/lightspeed",
+ "slug": "lightspeed",
+ "name": "Lightspeed",
+ "description": "A hyperspace jump of streaking stars",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/lightspeed",
+ "lang": "jsx",
+ "codeFile": "code/components/lightspeed.txt",
+ "codeLen": 12874,
+ "needInline": [
+  "56388",
+  "48543",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/pricing-11",
+ "slug": "pricing-11",
+ "name": "Pricing 11",
+ "description": "Light and dark cards bridged by a phone",
+ "category": "Pricing",
+ "categorySlug": "pricing",
+ "exportName": "Pricing11",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/pricing/pricing-11.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/pricing-11",
+ "lang": "jsx",
+ "codeFile": "code/blocks/pricing-11.txt",
+ "codeLen": 146236,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "pricing",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/pricing/pricing-11.tsx",
+ "needInline": []
+}

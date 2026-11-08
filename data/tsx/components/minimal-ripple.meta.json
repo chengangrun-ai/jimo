@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/minimal-ripple",
+ "slug": "minimal-ripple",
+ "name": "Minimal Ripple",
+ "description": "Concentric ripples spreading from the center",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "ripple",
+  "minimal",
+  "webgl",
+  "ambient"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/minimal-ripple",
+ "lang": "jsx",
+ "codeFile": "code/components/minimal-ripple.txt",
+ "codeLen": 14916,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

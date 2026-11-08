@@ -1,0 +1,43 @@
+{
+ "id": "pro:block/auth-1",
+ "slug": "auth-1",
+ "name": "Auth 1",
+ "description": "Split sign-in with a testimonial marquee",
+ "category": "Auth",
+ "categorySlug": "auth",
+ "exportName": "Auth1",
+ "deps": [
+  "lucide-react",
+  "motion",
+  "next-themes"
+ ],
+ "original": "ts-tailwind/blocks/auth/auth-1.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/auth-1",
+ "lang": "jsx",
+ "codeFile": "code/blocks/auth-1.txt",
+ "codeLen": 187702,
+ "role": "page",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "div",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "auth",
+ "dependencies": [
+  "lucide-react",
+  "motion",
+  "next-themes"
+ ],
+ "sourcePath": "ts-tailwind/blocks/auth/auth-1.tsx",
+ "needInline": [
+  "30701",
+  "77226"
+ ]
+}

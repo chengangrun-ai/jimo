@@ -1,0 +1,41 @@
+{
+ "id": "pro:block/social-proof-1",
+ "slug": "social-proof-1",
+ "name": "Social Proof 1",
+ "description": "Logo grid with bordered cells",
+ "category": "Social Proof",
+ "categorySlug": "social-proof",
+ "exportName": "SocialProof1",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/social-proof/social-proof-1.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/social-proof-1",
+ "lang": "jsx",
+ "codeFile": "code/blocks/social-proof-1.txt",
+ "codeLen": 144826,
+ "role": "section",
+ "previewHeight": 400,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/mock-logos/acmecorp.svg",
+  "/mock-logos/capsule.svg",
+  "/mock-logos/galileo.svg",
+  "/mock-logos/layers.svg",
+  "/mock-logos/luminous.svg",
+  "/mock-logos/quotient.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "social-proof",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/social-proof/social-proof-1.tsx",
+ "needInline": []
+}

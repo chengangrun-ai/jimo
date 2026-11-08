@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/cta-11",
+ "slug": "cta-11",
+ "name": "CTA 11",
+ "description": "Oversized product preview banner",
+ "category": "Call To Action",
+ "categorySlug": "cta",
+ "exportName": "CTA11",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/cta/cta-11.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/cta-11",
+ "lang": "jsx",
+ "codeFile": "code/blocks/cta-11.txt",
+ "codeLen": 151435,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "cta",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/cta/cta-11.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

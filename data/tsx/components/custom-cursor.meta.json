@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/custom-cursor",
+ "slug": "custom-cursor",
+ "name": "Custom Cursor",
+ "description": "A ring and dot cursor that morphs around hovered items",
+ "category": "cursor",
+ "tier": "starter",
+ "tags": [
+  "cursor",
+  "animation"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/custom-cursor",
+ "lang": "jsx",
+ "codeFile": "code/components/custom-cursor.txt",
+ "codeLen": 16081,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "75272",
+  "17192",
+  "30595",
+  "32923",
+  "47962",
+  "90650"
+ ]
+}

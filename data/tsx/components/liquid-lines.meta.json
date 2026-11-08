@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/liquid-lines",
+ "slug": "liquid-lines",
+ "name": "Liquid Lines",
+ "description": "Streaks of light flowing like liquid",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/liquid-lines",
+ "lang": "jsx",
+ "codeFile": "code/components/liquid-lines.txt",
+ "codeLen": 11021,
+ "needInline": [
+  "56388",
+  "48543",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "30701",
+  "90650"
+ ]
+}

@@ -1,0 +1,447 @@
+{
+  "base": "https://rbp-imageworks-template.vercel.app",
+  "generatedAt": "2026-11-01T06:46:44.916Z",
+  "pages": [
+    "/"
+  ],
+  "assets": [
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_next/static/immutable/media/797e433ab948586e-s.p.1v5bejj26fx9h.woff2",
+      "path": "_next/static/immutable/media/797e433ab948586e-s.p.1v5bejj26fx9h.woff2"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_next/static/immutable/media/caa3a2e1cccd8315-s.p.0zr6hhvz-h9nw.woff2",
+      "path": "_next/static/immutable/media/caa3a2e1cccd8315-s.p.0zr6hhvz-h9nw.woff2"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_next/static/immutable/media/e41d5df559864f9e-s.p.2rlzm4mj5kw8e.woff2",
+      "path": "_next/static/immutable/media/e41d5df559864f9e-s.p.2rlzm4mj5kw8e.woff2"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_next/static/immutable/chunks/2noedynyrum_r.css",
+      "path": "_next/static/immutable/chunks/2noedynyrum_r.css"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_next/static/immutable/chunks/1lor8e0tix90f.js",
+      "path": "_next/static/immutable/chunks/1lor8e0tix90f.js"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_next/static/immutable/chunks/1s-_81lndbn1g.js",
+      "path": "_next/static/immutable/chunks/1s-_81lndbn1g.js"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_next/static/immutable/chunks/3t9x-nc1xh6op.js",
+      "path": "_next/static/immutable/chunks/3t9x-nc1xh6op.js"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_next/static/immutable/chunks/turbopack-177t_4u4hqp6f.js",
+      "path": "_next/static/immutable/chunks/turbopack-177t_4u4hqp6f.js"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_next/static/immutable/chunks/0rhr1xcbryfmo.js",
+      "path": "_next/static/immutable/chunks/0rhr1xcbryfmo.js"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_next/static/immutable/chunks/3qvp_5ypc9t3s.js",
+      "path": "_next/static/immutable/chunks/3qvp_5ypc9t3s.js"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_next/static/immutable/chunks/0c0hxoamwjsbw.js",
+      "path": "_next/static/immutable/chunks/0c0hxoamwjsbw.js"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-3e694842856f.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-1b01007d2caa.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-dd2a202acd7f.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-2631404b8167.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-8e4b13eaf9c6.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-8ba1ef05dfc4.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-cefa9409f5d1.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_800_h_500_q_80_auto_format_fit_crop-5f2f7642ac53.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_800_h_500_q_80_auto_format_fit_crop-73e5222b416d.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_800_h_500_q_80_auto_format_fit_crop-c5016956f55c.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_800_h_500_q_80_auto_format_fit_crop-16df2a37e389.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_800_h_500_q_80_auto_format_fit_crop-38daab0d687f.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_800_h_500_q_80_auto_format_fit_crop-d830d5c16664.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_800_h_500_q_80_auto_format_fit_crop-2ceffd018161.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_800_h_500_q_80_auto_format_fit_crop-fbc428f425ac.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_800_h_500_q_80_auto_format_fit_crop-7cf7596af712.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_800_h_500_q_80_auto_format_fit_crop-b7d77bee96fe.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_2000_h_1250_q_80_auto_format_fit_crop-541cee9bc63c.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_2000_h_1250_q_80_auto_format_fit_crop-ac6274cb8d1a.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_2000_h_1250_q_80_auto_format_fit_crop-ba2c22473d9a.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_2000_h_1250_q_80_auto_format_fit_crop-23e353d15feb.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_2000_h_1250_q_80_auto_format_fit_crop-2b1d7553bda1.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_2000_h_1250_q_80_auto_format_fit_crop-c7744d24a63a.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_2000_h_1250_q_80_auto_format_fit_crop-9cb8d65d9d94.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_2000_h_1250_q_80_auto_format_fit_crop-0a1c14a6f227.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1752350434967-29fe9a749b37_w_1600_h_1000_q_80_auto_format_fit_crop-9d8e342ac4c2.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1752350434967-29fe9a749b37_w_1600_h_1000_q_80_auto_format_fit_crop-0ff9bf73ade4.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1752350434967-29fe9a749b37_w_1600_h_1000_q_80_auto_format_fit_crop-85752f164e3e.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1752350434967-29fe9a749b37_w_1600_h_1000_q_80_auto_format_fit_crop-0c6fd61adebc.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1752350434967-29fe9a749b37_w_1600_h_1000_q_80_auto_format_fit_crop-8c403f85ce38.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1752350434967-29fe9a749b37_w_1600_h_1000_q_80_auto_format_fit_crop-dbe1e5c91271.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1752350434967-29fe9a749b37_w_1600_h_1000_q_80_auto_format_fit_crop-fc5e6c39cf4a.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1752350434967-29fe9a749b37_w_1600_h_1000_q_80_auto_format_fit_crop-7337c6ba029e.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1752350434967-29fe9a749b37_w_1600_h_1000_q_80_auto_format_fit_crop-b1776e46262b.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1752350434967-29fe9a749b37_w_1600_h_1000_q_80_auto_format_fit_crop-3bfcb18623f1.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1785403241652-5289a59f6f86_w_1200_h_1400_q_80_auto_format_fit_crop-ff80f6bd7724.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1785403241652-5289a59f6f86_w_1200_h_1400_q_80_auto_format_fit_crop-8745b56cd5ed.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1785403241652-5289a59f6f86_w_1200_h_1400_q_80_auto_format_fit_crop-c271d1445b45.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1785403241652-5289a59f6f86_w_1200_h_1400_q_80_auto_format_fit_crop-ec4856434194.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1785403241652-5289a59f6f86_w_1200_h_1400_q_80_auto_format_fit_crop-dd040c168a30.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1785403241652-5289a59f6f86_w_1200_h_1400_q_80_auto_format_fit_crop-94116fcd54c5.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1785403241652-5289a59f6f86_w_1200_h_1400_q_80_auto_format_fit_crop-38b024cb6fd2.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1785403241652-5289a59f6f86_w_1200_h_1400_q_80_auto_format_fit_crop-dab85f1be1d3.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1785403241652-5289a59f6f86_w_1200_h_1400_q_80_auto_format_fit_crop-e4a64697ca6a.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1785403241652-5289a59f6f86_w_1200_h_1400_q_80_auto_format_fit_crop-44026c201d5b.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1756992293716-b843700b5ab0_w_112_h_112_q_75_auto_format_fit_crop-9bf5dd020fdd.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1756992293716-b843700b5ab0_w_112_h_112_q_75_auto_format_fit_crop-e8fdc4be2ae6.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_112_h_112_q_75_auto_format_fit_crop-5a39470e1420.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1776662958125-893f153f592a_w_112_h_112_q_75_auto_format_fit_crop-020209aeccd9.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1785403241660-b8ac924e9142_w_112_h_112_q_75_auto_format_fit_crop-f5da9abdf034.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1785403241660-b8ac924e9142_w_112_h_112_q_75_auto_format_fit_crop-fe125a0f8452.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1752350434967-29fe9a749b37_w_224_h_224_q_75_auto_format_fit_crop-e7e3d36f24bd.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1752350434967-29fe9a749b37_w_224_h_224_q_75_auto_format_fit_crop-b05f9c7f7b1b.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1660399618104-53cf6b33339f_w_224_h_224_q_75_auto_format_fit_crop-dd7943d31d59.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1660399618104-53cf6b33339f_w_224_h_224_q_75_auto_format_fit_crop-91c5673dbcd1.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1785403241652-5289a59f6f86_w_224_h_224_q_75_auto_format_fit_crop-bcbe7bcc1f92.bin"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_img/photo-1756992293716-b843700b5ab0_w_2400_h_1500_q_80_auto_format_fit_crop-e5dd96ecc6f3.bin",
+      "path": "_img/photo-1785403241652-5289a59f6f86_w_224_h_224_q_75_auto_format_fit_crop-6404ab03453f.bin"
+    },
+    {
+      "url": "https://imageworks.example.com",
+      "path": "https:/imageworks.example.com"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/site.webmanifest",
+      "path": "site.webmanifest"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/favicon.ico?favicon.3fpu2ql9ns1a0.ico",
+      "path": "favicon.ico-8ab8397b43b2.ico"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/icon.svg?icon.367ibcs50bgyl.svg",
+      "path": "icon.svg-9ac40e03477e.svg"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/apple-icon.png?apple-icon.1dm6qh4twj_am.png",
+      "path": "apple-icon.png-9f30c9848a70.png"
+    },
+    {
+      "url": "https://app.imageworks.example.com/sign-in",
+      "path": "https:/app.imageworks.example.com/sign-in/index.html"
+    },
+    {
+      "url": "https://app.imageworks.example.com/sign-up?plan=solo",
+      "path": "https:/app.imageworks.example.com/sign-up-c9dd08d430a9.bin"
+    },
+    {
+      "url": "https://app.imageworks.example.com/sign-up?plan=studio",
+      "path": "https:/app.imageworks.example.com/sign-up-b33aee8a13ed.bin"
+    },
+    {
+      "url": "https://app.imageworks.example.com/sign-up?plan=agency",
+      "path": "https:/app.imageworks.example.com/sign-up-377623a223b6.bin"
+    },
+    {
+      "url": "https://app.imageworks.example.com/sign-up",
+      "path": "https:/app.imageworks.example.com/sign-up/index.html"
+    },
+    {
+      "url": "https://imageworks.example.com/about",
+      "path": "https:/imageworks.example.com/about/index.html"
+    },
+    {
+      "url": "https://imageworks.example.com/blog",
+      "path": "https:/imageworks.example.com/blog/index.html"
+    },
+    {
+      "url": "https://imageworks.example.com/careers",
+      "path": "https:/imageworks.example.com/careers/index.html"
+    },
+    {
+      "url": "https://imageworks.example.com/contact",
+      "path": "https:/imageworks.example.com/contact/index.html"
+    },
+    {
+      "url": "https://x.com/imageworks",
+      "path": "https:/x.com/imageworks/index.html"
+    },
+    {
+      "url": "https://instagram.com/imageworks",
+      "path": "https:/instagram.com/imageworks/index.html"
+    },
+    {
+      "url": "https://discord.gg/imageworks",
+      "path": "https:/discord.gg/imageworks/index.html"
+    },
+    {
+      "url": "https://imageworks.example.com/terms",
+      "path": "https:/imageworks.example.com/terms/index.html"
+    },
+    {
+      "url": "https://imageworks.example.com/privacy",
+      "path": "https:/imageworks.example.com/privacy/index.html"
+    },
+    {
+      "url": "https://imageworks.example.com/cookies",
+      "path": "https:/imageworks.example.com/cookies/index.html"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/",
+      "path": "index.html"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/_next/static/immutable",
+      "path": "_next/static/immutable/index.html"
+    },
+    {
+      "url": "https://rbp-imageworks-template.vercel.app/og-image.png",
+      "path": "og-image.png"
+    },
+    {
+      "url": "https://vercel.live/_next-live/feedback/feedback.js",
+      "path": "https:/vercel.live/_next-live/feedback/feedback.js"
+    }
+  ],
+  "failures": [
+    {
+      "u": "https://imageworks.example.com",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://app.imageworks.example.com/sign-in",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://app.imageworks.example.com/sign-up?plan=solo",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://app.imageworks.example.com/sign-up?plan=studio",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://app.imageworks.example.com/sign-up?plan=agency",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://app.imageworks.example.com/sign-up",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://imageworks.example.com/about",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://imageworks.example.com/blog",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://imageworks.example.com/careers",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://imageworks.example.com/contact",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://x.com/imageworks",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://instagram.com/imageworks",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://discord.gg/imageworks",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://imageworks.example.com/terms",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://imageworks.example.com/privacy",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://imageworks.example.com/cookies",
+      "e": "TypeError: fetch failed"
+    }
+  ]
+}

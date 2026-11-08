@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/glue-dots",
+ "slug": "glue-dots",
+ "name": "Glue Dots",
+ "description": "Dots that stick together and stretch apart like glue",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "metaball",
+  "dots",
+  "canvas",
+  "organic",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/glue-dots",
+ "lang": "jsx",
+ "codeFile": "code/components/glue-dots.txt",
+ "codeLen": 14848,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "90650"
+ ]
+}

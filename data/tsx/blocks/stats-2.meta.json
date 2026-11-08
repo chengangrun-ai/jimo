@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/stats-2",
+ "slug": "stats-2",
+ "name": "Stats 2",
+ "description": "Stats card with circular charts",
+ "category": "Stats",
+ "categorySlug": "stats",
+ "exportName": "Stats2",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/stats/stats-2.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/stats-2",
+ "lang": "jsx",
+ "codeFile": "code/blocks/stats-2.txt",
+ "codeLen": 147965,
+ "role": "section",
+ "previewHeight": 450,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "stats",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/stats/stats-2.tsx",
+ "needInline": []
+}

@@ -1,0 +1,39 @@
+{
+ "id": "pro:block/bento-38",
+ "slug": "bento-38",
+ "name": "Bento 38",
+ "description": "Prompt composer with typed examples",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento38",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-38.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-38",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-38.txt",
+ "codeLen": 160375,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-38.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/page-flip",
+ "slug": "page-flip",
+ "name": "Page Flip",
+ "description": "A book-style page flip you can drag through",
+ "category": "book",
+ "tier": "starter",
+ "tags": [
+  "book",
+  "flip",
+  "3d",
+  "drag",
+  "pages",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/page-flip",
+ "lang": "jsx",
+ "codeFile": "code/components/page-flip.txt",
+ "codeLen": 12586,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "75272",
+  "32923",
+  "90650"
+ ]
+}

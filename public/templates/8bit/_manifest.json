@@ -1,0 +1,307 @@
+{
+  "base": "https://rbp-8-bit-template.vercel.app",
+  "generatedAt": "2026-11-01T06:47:55.470Z",
+  "pages": [
+    "/"
+  ],
+  "assets": [
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/media/797e433ab948586e-s.p.29207c2f.woff2",
+      "path": "_next/static/media/797e433ab948586e-s.p.29207c2f.woff2"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2",
+      "path": "_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/chunks/1188e3fce8a53517.css",
+      "path": "_next/static/chunks/1188e3fce8a53517.css"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/chunks/9509aec5d75af5f6.js",
+      "path": "_next/static/chunks/9509aec5d75af5f6.js"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/chunks/cc759f7c2413b7ff.js",
+      "path": "_next/static/chunks/cc759f7c2413b7ff.js"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/chunks/2fdf37f3a71720c4.js",
+      "path": "_next/static/chunks/2fdf37f3a71720c4.js"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/chunks/turbopack-9b5b0de45f38aec5.js",
+      "path": "_next/static/chunks/turbopack-9b5b0de45f38aec5.js"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/chunks/a48ac813db38b9e8.js",
+      "path": "_next/static/chunks/a48ac813db38b9e8.js"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/chunks/4fd93823156e59e8.js",
+      "path": "_next/static/chunks/4fd93823156e59e8.js"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/chunks/706d7889c6d02219.js",
+      "path": "_next/static/chunks/706d7889c6d02219.js"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/chunks/a6dad97d9634a72d.js",
+      "path": "_next/static/chunks/a6dad97d9634a72d.js"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/chunks/1188e3fce8a53517.css",
+      "path": "_next/static/chunks/1188e3fce8a53517.css-7c0da9125394.css"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/chunks/9509aec5d75af5f6.js",
+      "path": "_next/static/chunks/9509aec5d75af5f6.js-6cf03c628cd5.js"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/chunks/cc759f7c2413b7ff.js",
+      "path": "_next/static/chunks/cc759f7c2413b7ff.js-dddfdbe3edd8.js"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/chunks/2fdf37f3a71720c4.js",
+      "path": "_next/static/chunks/2fdf37f3a71720c4.js-0ad7421f6792.js"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/chunks/turbopack-9b5b0de45f38aec5.js",
+      "path": "_next/static/chunks/turbopack-9b5b0de45f38aec5.js-e22dfac45586.js"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/chunks/a48ac813db38b9e8.js",
+      "path": "_next/static/chunks/a48ac813db38b9e8.js-7cf5adee2528.js"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/chunks/4fd93823156e59e8.js",
+      "path": "_next/static/chunks/4fd93823156e59e8.js-78d899859131.js"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/chunks/706d7889c6d02219.js",
+      "path": "_next/static/chunks/706d7889c6d02219.js-4399ed1edd79.js"
+    },
+    {
+      "url": "https://pixelpush.app",
+      "path": "https:/pixelpush.app"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/site.webmanifest",
+      "path": "site.webmanifest"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/favicon.ico?favicon.0b3bf435.ico",
+      "path": "favicon.ico-7028532d0a7a.ico"
+    },
+    {
+      "url": "https://rbp-8-bit-template.vercel.app/_next/static/chunks/a6dad97d9634a72d.js",
+      "path": "_next/static/chunks/a6dad97d9634a72d.js-a53447313233.js"
+    },
+    {
+      "url": "https://i.pravatar.cc/96?img=5",
+      "path": "https:/i.pravatar.cc/96-fae41127a954.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/96?img=12",
+      "path": "https:/i.pravatar.cc/96-6c9ce0128e21.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/96?img=32",
+      "path": "https:/i.pravatar.cc/96-6d55a93a0dac.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/96?img=68",
+      "path": "https:/i.pravatar.cc/96-9971e91f6b9c.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/96?img=45",
+      "path": "https:/i.pravatar.cc/96-51407f47a48e.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/96?img=24",
+      "path": "https:/i.pravatar.cc/96-3044be38b037.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/96?img=15",
+      "path": "https:/i.pravatar.cc/96-4e82b9648871.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/96?img=52",
+      "path": "https:/i.pravatar.cc/96-55767583025b.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/96?img=60",
+      "path": "https:/i.pravatar.cc/96-45dbe753b401.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/96?img=64",
+      "path": "https:/i.pravatar.cc/96-8a6048e433e2.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/96?img=20",
+      "path": "https:/i.pravatar.cc/96-f1fe80c08d56.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/96?img=27",
+      "path": "https:/i.pravatar.cc/96-ba2161e1fbdc.bin"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&w=800&q=80",
+      "path": "https:/images.unsplash.com/photo-1574717024653-61fd2cf4d44d-3d73827f4ee5.bin"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1492619375914-88005aa9e8fb?auto=format&fit=crop&w=800&q=80",
+      "path": "https:/images.unsplash.com/photo-1492619375914-88005aa9e8fb-30cfc0496fbe.bin"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=800&q=80",
+      "path": "https:/images.unsplash.com/photo-1485846234645-a62644f84728-c9dcfe44aa03.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/160?img=5",
+      "path": "https:/i.pravatar.cc/160-cff3cd17b7ad.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/160?img=12",
+      "path": "https:/i.pravatar.cc/160-1472660f40c3.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/160?img=45",
+      "path": "https:/i.pravatar.cc/160-82d360dc8a7b.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/160?img=15",
+      "path": "https:/i.pravatar.cc/160-3bb80ad0de36.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/160?img=33",
+      "path": "https:/i.pravatar.cc/160-59057234ec15.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/80?img=5",
+      "path": "https:/i.pravatar.cc/80-a17f70a027c3.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/80?img=12",
+      "path": "https:/i.pravatar.cc/80-fbb53b6483c7.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/80?img=45",
+      "path": "https:/i.pravatar.cc/80-0d169354fa34.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/80?img=33",
+      "path": "https:/i.pravatar.cc/80-109a68176b15.bin"
+    },
+    {
+      "url": "https://i.pravatar.cc/80?img=15",
+      "path": "https:/i.pravatar.cc/80-dba19557d621.bin"
+    }
+  ],
+  "failures": [
+    {
+      "u": "https://pixelpush.app",
+      "e": "TypeError: fetch failed"
+    },
+    {
+      "u": "https://i.pravatar.cc/96?img=5",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/96?img=12",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/96?img=32",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/96?img=68",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/96?img=45",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/96?img=24",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/96?img=15",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/96?img=52",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/96?img=60",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/96?img=64",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/96?img=20",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/96?img=27",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&w=800&q=80",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.unsplash.com/photo-1492619375914-88005aa9e8fb?auto=format&fit=crop&w=800&q=80",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=800&q=80",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/160?img=5",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/160?img=12",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/160?img=45",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/160?img=15",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/160?img=33",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/80?img=5",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/80?img=12",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/80?img=45",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/80?img=33",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    },
+    {
+      "u": "https://i.pravatar.cc/80?img=15",
+      "e": "Error: ENOENT: no such file or directory, mkdir 'C:\\Cami chan\\dsh工作塔台\\reactbits-"
+    }
+  ]
+}

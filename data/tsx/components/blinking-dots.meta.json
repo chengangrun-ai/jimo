@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/blinking-dots",
+ "slug": "blinking-dots",
+ "name": "Blinking Dots",
+ "description": "A field of dots blinking on and off",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "dots",
+  "grid",
+  "webgl",
+  "minimal"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/blinking-dots",
+ "lang": "jsx",
+ "codeFile": "code/components/blinking-dots.txt",
+ "codeLen": 16655,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

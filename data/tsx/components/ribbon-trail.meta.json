@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/ribbon-trail",
+ "slug": "ribbon-trail",
+ "name": "Ribbon Trail",
+ "description": "A gymnast's ribbon that trails the cursor",
+ "category": "cursor",
+ "tier": "starter",
+ "tags": [
+  "cursor",
+  "ribbon",
+  "trail",
+  "physics",
+  "webgl",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/ribbon-trail",
+ "lang": "jsx",
+ "codeFile": "code/components/ribbon-trail.txt",
+ "codeLen": 21172,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

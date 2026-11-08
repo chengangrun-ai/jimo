@@ -1,0 +1,24 @@
+{
+ "id": "pro:component/circles",
+ "slug": "circles",
+ "name": "Circles",
+ "description": "Rings of images orbiting a center",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "ui"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/circles",
+ "lang": "jsx",
+ "codeFile": "code/components/circles.txt",
+ "codeLen": 42558,
+ "needInline": [
+  "56388",
+  "45949",
+  "90761",
+  "21211",
+  "90650"
+ ]
+}

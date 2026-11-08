@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/agentic-ball",
+ "slug": "agentic-ball",
+ "name": "Agentic Ball",
+ "description": "A glossy 3D orb with a slow swirl inside",
+ "category": "3d",
+ "tier": "starter",
+ "tags": [
+  "3d",
+  "shader",
+  "effect"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/agentic-ball",
+ "lang": "jsx",
+ "codeFile": "code/components/agentic-ball.txt",
+ "codeLen": 9574,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

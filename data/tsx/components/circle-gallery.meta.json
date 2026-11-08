@@ -1,0 +1,18 @@
+{
+ "id": "pro:component/circle-gallery",
+ "slug": "circle-gallery",
+ "name": "Circle Gallery",
+ "description": "A draggable circle of images that spins with inertia",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "animation",
+  "ui"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/circle-gallery",
+ "lang": "jsx",
+ "codeFile": "code/components/circle-gallery.txt",
+ "codeLen": 54648,
+ "needInline": []
+}

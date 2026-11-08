@@ -1,0 +1,28 @@
+{
+ "id": "pro:app-ui/sorbet/comments-1",
+ "slug": "comments-1",
+ "name": "Comments 1",
+ "description": "",
+ "category": "comments",
+ "style": "sorbet",
+ "href": "https://pro.reactbits.dev/docs/app-ui/comments-1",
+ "lang": "jsx",
+ "codeFile": "code/app-ui/comments-1.txt",
+ "codeLen": 17458,
+ "needInline": [
+  "22728",
+  "49322",
+  "39893",
+  "59649",
+  "90987",
+  "36586",
+  "3980",
+  "48094",
+  "89289",
+  "64132",
+  "17771",
+  "33786",
+  "2605",
+  "22830"
+ ]
+}

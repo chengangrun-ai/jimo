@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/stats-8",
+ "slug": "stats-8",
+ "name": "Stats 8",
+ "description": "Large stats with a chart",
+ "category": "Stats",
+ "categorySlug": "stats",
+ "exportName": "Stats8",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/stats/stats-8.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/stats-8",
+ "lang": "jsx",
+ "codeFile": "code/blocks/stats-8.txt",
+ "codeLen": 156454,
+ "role": "section",
+ "previewHeight": 600,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "www.w3.org"
+ ],
+ "categoryDir": "stats",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/stats/stats-8.tsx",
+ "needInline": []
+}

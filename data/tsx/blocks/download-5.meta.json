@@ -1,0 +1,34 @@
+{
+ "id": "pro:block/download-5",
+ "slug": "download-5",
+ "name": "Download 5",
+ "description": "Desktop app download hero",
+ "category": "Download",
+ "categorySlug": "download",
+ "exportName": "Download5",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/download/download-5.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/download-5",
+ "lang": "jsx",
+ "codeFile": "code/blocks/download-5.txt",
+ "codeLen": 146650,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "download",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/download/download-5.tsx",
+ "needInline": []
+}

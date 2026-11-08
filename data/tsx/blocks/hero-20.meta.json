@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/hero-20",
+ "slug": "hero-20",
+ "name": "Hero 20",
+ "description": "Statement hero with a metric strip",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero20",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-20.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-20",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-20.txt",
+ "codeLen": 149915,
+ "role": "hero",
+ "previewHeight": 820,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "hero",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-20.tsx",
+ "needInline": []
+}

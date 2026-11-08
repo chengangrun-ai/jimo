@@ -1,0 +1,44 @@
+{
+ "id": "pro:block/social-proof-5",
+ "slug": "social-proof-5",
+ "name": "Social Proof 5",
+ "description": "Auto-cycling testimonials with avatars",
+ "category": "Social Proof",
+ "categorySlug": "social-proof",
+ "exportName": "SocialProof5",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/social-proof/social-proof-5.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/social-proof-5",
+ "lang": "jsx",
+ "codeFile": "code/blocks/social-proof-5.txt",
+ "codeLen": 152242,
+ "role": "section",
+ "previewHeight": 650,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/mock-logos/altshift.svg",
+  "/mock-logos/commandr.svg",
+  "/mock-logos/focalpoint.svg",
+  "/mock-logos/interlock.svg",
+  "/mock-logos/polymath.svg"
+ ],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "social-proof",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/social-proof/social-proof-5.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

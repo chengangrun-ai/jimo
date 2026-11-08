@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/footer-12",
+ "slug": "footer-12",
+ "name": "Footer 12",
+ "description": "Dark newsletter panel with status vitals",
+ "category": "Footer",
+ "categorySlug": "footer",
+ "exportName": "Footer12",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/footer/footer-12.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/footer-12",
+ "lang": "jsx",
+ "codeFile": "code/blocks/footer-12.txt",
+ "codeLen": 153637,
+ "role": "footer",
+ "previewHeight": 860,
+ "layout": {
+  "rootTag": "footer",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "footer",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/footer/footer-12.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

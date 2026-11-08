@@ -1,0 +1,26 @@
+{
+ "id": "pro:app-ui/sorbet/agent-activity-6",
+ "slug": "agent-activity-6",
+ "name": "Agent Activity 6",
+ "description": "",
+ "category": "agent-activity",
+ "style": "sorbet",
+ "href": "https://pro.reactbits.dev/docs/app-ui/agent-activity-6",
+ "lang": "jsx",
+ "codeFile": "code/app-ui/agent-activity-6.txt",
+ "codeLen": 5039,
+ "needInline": [
+  "22728",
+  "63163",
+  "90987",
+  "99199",
+  "5042",
+  "59157",
+  "50969",
+  "54345",
+  "46772",
+  "42734",
+  "89289",
+  "92752"
+ ]
+}

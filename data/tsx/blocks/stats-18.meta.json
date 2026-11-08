@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/stats-18",
+ "slug": "stats-18",
+ "name": "Stats 18",
+ "description": "Ridgeline of daily checkout traffic with Black Friday as the peak",
+ "category": "Stats",
+ "categorySlug": "stats",
+ "exportName": "Stats18",
+ "deps": [
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/stats/stats-18.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/stats-18",
+ "lang": "jsx",
+ "codeFile": "code/blocks/stats-18.txt",
+ "codeLen": 906374,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "stats",
+ "dependencies": [
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/stats/stats-18.tsx",
+ "needInline": [
+  "50969",
+  "12246",
+  "2253"
+ ]
+}

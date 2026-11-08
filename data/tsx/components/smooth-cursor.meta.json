@@ -1,0 +1,21 @@
+{
+ "id": "pro:component/smooth-cursor",
+ "slug": "smooth-cursor",
+ "name": "Smooth Cursor",
+ "description": "A smooth, springy trail that follows the cursor",
+ "category": "cursor",
+ "tier": "starter",
+ "tags": [
+  "cursor",
+  "animation"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/smooth-cursor",
+ "lang": "jsx",
+ "codeFile": "code/components/smooth-cursor.txt",
+ "codeLen": 9626,
+ "needInline": [
+  "56388",
+  "90761",
+  "30701"
+ ]
+}

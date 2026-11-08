@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/spectral-clouds",
+ "slug": "spectral-clouds",
+ "name": "Spectral Clouds",
+ "description": "Soft clouds lit by drifting spectral color",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "clouds",
+  "volumetric",
+  "webgl",
+  "ambient"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/spectral-clouds",
+ "lang": "jsx",
+ "codeFile": "code/components/spectral-clouds.txt",
+ "codeLen": 20691,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

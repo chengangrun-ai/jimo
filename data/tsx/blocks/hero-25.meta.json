@@ -1,0 +1,42 @@
+{
+ "id": "pro:block/hero-25",
+ "slug": "hero-25",
+ "name": "Hero 25",
+ "description": "Giant headline mirrored in a rolling voxel sea",
+ "category": "Hero Section",
+ "categorySlug": "hero-section",
+ "exportName": "Hero25",
+ "deps": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/hero/hero-25.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/hero-25",
+ "lang": "jsx",
+ "codeFile": "code/blocks/hero-25.txt",
+ "codeLen": 920395,
+ "role": "hero",
+ "previewHeight": 860,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "min-h-screen",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "hero",
+ "dependencies": [
+  "lucide-react",
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/hero/hero-25.tsx",
+ "needInline": [
+  "50969",
+  "12246",
+  "2253"
+ ]
+}

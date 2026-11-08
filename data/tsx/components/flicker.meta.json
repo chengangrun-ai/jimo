@@ -1,0 +1,23 @@
+{
+ "id": "pro:component/flicker",
+ "slug": "flicker",
+ "name": "Flicker",
+ "description": "A grid of particles that flicker on and off",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/flicker",
+ "lang": "jsx",
+ "codeFile": "code/components/flicker.txt",
+ "codeLen": 10164,
+ "needInline": [
+  "30701",
+  "56388",
+  "48543",
+  "90761",
+  "77226"
+ ]
+}

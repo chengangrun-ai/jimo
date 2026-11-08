@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/tumble-carousel",
+ "slug": "tumble-carousel",
+ "name": "Tumble Carousel",
+ "description": "Cards that tumble end over end as the carousel advances",
+ "category": "carousel",
+ "tier": "starter",
+ "tags": [
+  "carousel",
+  "3d",
+  "rotate",
+  "gallery",
+  "showcase",
+  "motion"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/tumble-carousel",
+ "lang": "jsx",
+ "codeFile": "code/components/tumble-carousel.txt",
+ "codeLen": 14997,
+ "needInline": [
+  "56388",
+  "90761",
+  "32923",
+  "50969",
+  "75272",
+  "87974",
+  "90650"
+ ]
+}

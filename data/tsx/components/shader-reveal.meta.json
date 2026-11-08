@@ -1,0 +1,22 @@
+{
+ "id": "pro:component/shader-reveal",
+ "slug": "shader-reveal",
+ "name": "Shader Reveal",
+ "description": "A liquid cursor trail that reveals a second image",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "shader"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/shader-reveal",
+ "lang": "jsx",
+ "codeFile": "code/components/shader-reveal.txt",
+ "codeLen": 33808,
+ "needInline": [
+  "56388",
+  "90761",
+  "12246",
+  "2253"
+ ]
+}

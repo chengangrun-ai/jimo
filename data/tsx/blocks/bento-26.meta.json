@@ -1,0 +1,41 @@
+{
+ "id": "pro:block/bento-26",
+ "slug": "bento-26",
+ "name": "Bento 26",
+ "description": "Rotating testimonial cards with ratings",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento26",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-26.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-26",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-26.txt",
+ "codeLen": 155277,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "i.pravatar.cc"
+ ],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-26.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

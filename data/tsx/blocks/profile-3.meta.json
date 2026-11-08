@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/profile-3",
+ "slug": "profile-3",
+ "name": "Profile 3",
+ "description": "Minimal profile card with a soft fade",
+ "category": "Profile",
+ "categorySlug": "profile",
+ "exportName": "Profile3",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/profile/profile-3.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/profile-3",
+ "lang": "jsx",
+ "codeFile": "code/blocks/profile-3.txt",
+ "codeLen": 148496,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [
+  "/svg/placeholder.svg"
+ ],
+ "remoteHosts": [],
+ "categoryDir": "profile",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/profile/profile-3.tsx",
+ "needInline": []
+}

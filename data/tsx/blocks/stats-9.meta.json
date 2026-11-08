@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/stats-9",
+ "slug": "stats-9",
+ "name": "Stats 9",
+ "description": "Revenue calculator with a slider",
+ "category": "Stats",
+ "categorySlug": "stats",
+ "exportName": "Stats9",
+ "deps": [
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/stats/stats-9.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/stats-9",
+ "lang": "jsx",
+ "codeFile": "code/blocks/stats-9.txt",
+ "codeLen": 153551,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "stats",
+ "dependencies": [
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/stats/stats-9.tsx",
+ "needInline": [
+  "87974"
+ ]
+}

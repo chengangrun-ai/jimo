@@ -1,0 +1,30 @@
+{
+ "id": "pro:app-ui/sorbet/empty-state-1",
+ "slug": "empty-state-1",
+ "name": "Empty State 1",
+ "description": "",
+ "category": "empty-state",
+ "style": "sorbet",
+ "href": "https://pro.reactbits.dev/docs/app-ui/empty-state-1",
+ "lang": "jsx",
+ "codeFile": "code/app-ui/empty-state-1.txt",
+ "codeLen": 8788,
+ "needInline": [
+  "22728",
+  "99519",
+  "10342",
+  "86829",
+  "55299",
+  "89886",
+  "66575",
+  "89289",
+  "90987",
+  "36474",
+  "59157",
+  "79715",
+  "52975",
+  "8051",
+  "6097",
+  "33786"
+ ]
+}

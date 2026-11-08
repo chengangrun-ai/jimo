@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/thinking-dots",
+ "slug": "thinking-dots",
+ "name": "Thinking Dots",
+ "description": "A grid of dots that swell under a drifting cloud",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "dots",
+  "grid",
+  "webgl",
+  "ai"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/thinking-dots",
+ "lang": "jsx",
+ "codeFile": "code/components/thinking-dots.txt",
+ "codeLen": 20581,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

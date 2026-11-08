@@ -1,0 +1,30 @@
+{
+ "id": "pro:component/ravine",
+ "slug": "ravine",
+ "name": "Ravine",
+ "description": "An endless flight down a dark canyon",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "webgl",
+  "raymarch",
+  "terrain",
+  "monochrome"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/ravine",
+ "lang": "jsx",
+ "codeFile": "code/components/ravine.txt",
+ "codeLen": 12955,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "50969",
+  "2253",
+  "90650"
+ ]
+}

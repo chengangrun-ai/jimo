@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/about-12",
+ "slug": "about-12",
+ "name": "About 12",
+ "description": "Founder quote with numbered values",
+ "category": "About",
+ "categorySlug": "about",
+ "exportName": "About12",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/about/about-12.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/about-12",
+ "lang": "jsx",
+ "codeFile": "code/blocks/about-12.txt",
+ "codeLen": 150499,
+ "role": "section",
+ "previewHeight": 860,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "i.pravatar.cc"
+ ],
+ "categoryDir": "about",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/about/about-12.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

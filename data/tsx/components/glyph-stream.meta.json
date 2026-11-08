@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/glyph-stream",
+ "slug": "glyph-stream",
+ "name": "Glyph Stream",
+ "description": "A liquid stream of glyph tiles that pours after the cursor and splashes on click",
+ "category": "cursor",
+ "tier": "starter",
+ "tags": [
+  "cursor",
+  "trail",
+  "liquid",
+  "glyph",
+  "interactive",
+  "glyph stream"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/glyph-stream",
+ "lang": "jsx",
+ "codeFile": "code/components/glyph-stream.txt",
+ "codeLen": 32590,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "90650"
+ ]
+}

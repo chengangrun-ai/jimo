@@ -1,0 +1,29 @@
+{
+ "id": "pro:component/aura-blob",
+ "slug": "aura-blob",
+ "name": "Aura Blob",
+ "description": "A soft glowing blob surrounded by a shifting aura",
+ "category": "background",
+ "tier": "starter",
+ "tags": [
+  "background",
+  "shader",
+  "blob",
+  "glow",
+  "webgl",
+  "ambient"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/aura-blob",
+ "lang": "jsx",
+ "codeFile": "code/components/aura-blob.txt",
+ "codeLen": 18222,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "2253",
+  "90650"
+ ]
+}

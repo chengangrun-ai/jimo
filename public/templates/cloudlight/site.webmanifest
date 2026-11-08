@@ -1,0 +1,19 @@
+{
+  "name": "Cloudlight",
+  "short_name": "Cloudlight",
+  "description": "Send files up to 200 GB behind links that never expire, and keep everything in a library your team can search.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#a7effe",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    {
+      "src": "/icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

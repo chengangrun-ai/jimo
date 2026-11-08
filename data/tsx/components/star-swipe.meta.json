@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/star-swipe",
+ "slug": "star-swipe",
+ "name": "Star Swipe",
+ "description": "Streaks of light sweeping into a warp",
+ "category": "shader",
+ "tier": "starter",
+ "tags": [
+  "shader",
+  "3d",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/star-swipe",
+ "lang": "jsx",
+ "codeFile": "code/components/star-swipe.txt",
+ "codeLen": 12176,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "81712",
+  "3907",
+  "90650",
+  "2253"
+ ]
+}

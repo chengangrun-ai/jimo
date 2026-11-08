@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/smoke-type",
+ "slug": "smoke-type",
+ "name": "Smoke Type",
+ "description": "A headline that condenses out of drifting smoke, letter by letter",
+ "category": "text",
+ "tier": "starter",
+ "tags": [
+  "text",
+  "animation",
+  "reveal",
+  "smoke",
+  "webgl"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/smoke-type",
+ "lang": "jsx",
+ "codeFile": "code/components/smoke-type.txt",
+ "codeLen": 25758,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

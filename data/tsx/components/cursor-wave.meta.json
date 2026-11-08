@@ -1,0 +1,25 @@
+{
+ "id": "pro:component/cursor-wave",
+ "slug": "cursor-wave",
+ "name": "Cursor Wave",
+ "description": "A grid of shapes that ripples with the cursor",
+ "category": "interactive",
+ "tier": "starter",
+ "tags": [
+  "interactive",
+  "cursor",
+  "background",
+  "canvas",
+  "effect"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/cursor-wave",
+ "lang": "jsx",
+ "codeFile": "code/components/cursor-wave.txt",
+ "codeLen": 13226,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "90650"
+ ]
+}

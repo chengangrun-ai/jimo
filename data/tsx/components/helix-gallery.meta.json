@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/helix-gallery",
+ "slug": "helix-gallery",
+ "name": "Helix Gallery",
+ "description": "Photos spiraling out from a dense core",
+ "category": "gallery",
+ "tier": "starter",
+ "tags": [
+  "gallery",
+  "images",
+  "webgl",
+  "interactive",
+  "spiral",
+  "showcase"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/helix-gallery",
+ "lang": "jsx",
+ "codeFile": "code/components/helix-gallery.txt",
+ "codeLen": 34555,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "12246",
+  "2253",
+  "90650"
+ ]
+}

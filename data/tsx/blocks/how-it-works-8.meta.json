@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/how-it-works-8",
+ "slug": "how-it-works-8",
+ "name": "How It Works 8",
+ "description": "Three steps with a drawing connector",
+ "category": "How It Works",
+ "categorySlug": "how-it-works",
+ "exportName": "HowItWorks8",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/how-it-works/how-it-works-8.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/how-it-works-8",
+ "lang": "jsx",
+ "codeFile": "code/blocks/how-it-works-8.txt",
+ "codeLen": 152018,
+ "role": "section",
+ "previewHeight": 900,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "how-it-works",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/how-it-works/how-it-works-8.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

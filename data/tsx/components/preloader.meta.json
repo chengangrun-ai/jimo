@@ -1,0 +1,23 @@
+{
+ "id": "pro:component/preloader",
+ "slug": "preloader",
+ "name": "Preloader",
+ "description": "Loading screens in five styles",
+ "category": "loading",
+ "tier": "starter",
+ "tags": [
+  "loading",
+  "animation",
+  "ui"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/preloader",
+ "lang": "jsx",
+ "codeFile": "code/components/preloader.txt",
+ "codeLen": 16190,
+ "needInline": [
+  "56388",
+  "90761",
+  "47962",
+  "90650"
+ ]
+}

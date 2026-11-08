@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/warp-twister",
+ "slug": "warp-twister",
+ "name": "Warp Twister",
+ "description": "A twisting tube of haze and drifting dust",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/warp-twister",
+ "lang": "jsx",
+ "codeFile": "code/components/warp-twister.txt",
+ "codeLen": 13417,
+ "needInline": [
+  "56388",
+  "48543",
+  "90761",
+  "81712",
+  "3907",
+  "30701",
+  "2253"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/faq-4",
+ "slug": "faq-4",
+ "name": "FAQ 4",
+ "description": "Centered FAQ with plus toggles",
+ "category": "FAQ",
+ "categorySlug": "faq",
+ "exportName": "Faq4",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/faq/faq-4.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/faq-4",
+ "lang": "jsx",
+ "codeFile": "code/blocks/faq-4.txt",
+ "codeLen": 154199,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "faq",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/faq/faq-4.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

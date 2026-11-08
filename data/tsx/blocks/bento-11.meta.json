@@ -1,0 +1,39 @@
+{
+ "id": "pro:block/bento-11",
+ "slug": "bento-11",
+ "name": "Bento 11",
+ "description": "Phone with a live deployments list",
+ "category": "Bento",
+ "categorySlug": "bento",
+ "exportName": "Bento11",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/bento/bento-11.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/bento-11",
+ "lang": "jsx",
+ "codeFile": "code/blocks/bento-11.txt",
+ "codeLen": 161559,
+ "role": "section",
+ "previewHeight": 700,
+ "layout": {
+  "rootTag": "article",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "bento",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/bento/bento-11.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

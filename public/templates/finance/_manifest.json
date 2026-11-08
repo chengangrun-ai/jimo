@@ -1,0 +1,451 @@
+{
+  "base": "https://rbp-finance-template.vercel.app",
+  "generatedAt": "2026-11-01T06:47:27.301Z",
+  "pages": [
+    "/"
+  ],
+  "assets": [
+    {
+      "url": "https://rbp-finance-template.vercel.app/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2",
+      "path": "_next/static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "path": "_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_next/static/chunks/41147bf9dce138a2.css",
+      "path": "_next/static/chunks/41147bf9dce138a2.css"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_next/static/chunks/e157419ec018148e.js",
+      "path": "_next/static/chunks/e157419ec018148e.js"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_next/static/chunks/30ea11065999f7ac.js",
+      "path": "_next/static/chunks/30ea11065999f7ac.js"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_next/static/chunks/aa0c7c8fb89a4472.js",
+      "path": "_next/static/chunks/aa0c7c8fb89a4472.js"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_next/static/chunks/turbopack-f9d9105dfb07aef1.js",
+      "path": "_next/static/chunks/turbopack-f9d9105dfb07aef1.js"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_next/static/chunks/effecdbb17e151b2.js",
+      "path": "_next/static/chunks/effecdbb17e151b2.js"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_next/static/chunks/79e8a6494dbedc7c.js",
+      "path": "_next/static/chunks/79e8a6494dbedc7c.js"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_next/static/chunks/ff1a16fafef87110.js",
+      "path": "_next/static/chunks/ff1a16fafef87110.js"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_next/static/chunks/7340adf74ff47ec0.js",
+      "path": "_next/static/chunks/7340adf74ff47ec0.js"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_next/static/chunks/4b76770807c71b28.js",
+      "path": "_next/static/chunks/4b76770807c71b28.js"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_next/static/chunks/a6dad97d9634a72d.js",
+      "path": "_next/static/chunks/a6dad97d9634a72d.js"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-c43142316efd.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-b8b97830a351.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-066327b98a0e.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-308abab01d5e.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-56dc02b20900.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-08aa6f0961d0.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-3856d4cc1756.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-cdb9609d9675.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-75fe9baed2cc.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1507003211169-0a1dd7228f2d_w_400_h_500_fit_crop_crop_face-e033b7a83f56.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1507003211169-0a1dd7228f2d_w_400_h_500_fit_crop_crop_face-a6a3c9245609.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1507003211169-0a1dd7228f2d_w_400_h_500_fit_crop_crop_face-a045567a4879.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1507003211169-0a1dd7228f2d_w_400_h_500_fit_crop_crop_face-40061b287515.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1507003211169-0a1dd7228f2d_w_400_h_500_fit_crop_crop_face-e2f2b2df2447.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1507003211169-0a1dd7228f2d_w_400_h_500_fit_crop_crop_face-438c83341f62.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1507003211169-0a1dd7228f2d_w_400_h_500_fit_crop_crop_face-4cc11d87c22f.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1507003211169-0a1dd7228f2d_w_400_h_500_fit_crop_crop_face-9932b1d0b74a.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1507003211169-0a1dd7228f2d_w_400_h_500_fit_crop_crop_face-e51f267a5e42.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1507003211169-0a1dd7228f2d_w_400_h_500_fit_crop_crop_face-0170d868a1c1.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1534528741775-53994a69daeb_w_400_h_500_fit_crop_crop_face-6d73395f3f48.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1534528741775-53994a69daeb_w_400_h_500_fit_crop_crop_face-f244242d50f0.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1534528741775-53994a69daeb_w_400_h_500_fit_crop_crop_face-dae1a8523689.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1534528741775-53994a69daeb_w_400_h_500_fit_crop_crop_face-ac065a83bbab.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1534528741775-53994a69daeb_w_400_h_500_fit_crop_crop_face-cea57d844d85.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1534528741775-53994a69daeb_w_400_h_500_fit_crop_crop_face-6759f00c49fc.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1534528741775-53994a69daeb_w_400_h_500_fit_crop_crop_face-6cc219ac0405.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1534528741775-53994a69daeb_w_400_h_500_fit_crop_crop_face-3c169732f803.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1534528741775-53994a69daeb_w_400_h_500_fit_crop_crop_face-17d6896c1ca7.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1534528741775-53994a69daeb_w_400_h_500_fit_crop_crop_face-0eff6e05d219.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1494790108377-be9c29b29330_w_400_h_500_fit_crop_crop_face-9cca44d9f0c5.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1494790108377-be9c29b29330_w_400_h_500_fit_crop_crop_face-762d1936d834.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1494790108377-be9c29b29330_w_400_h_500_fit_crop_crop_face-b7eeae867e53.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1494790108377-be9c29b29330_w_400_h_500_fit_crop_crop_face-e356b6f14f25.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1494790108377-be9c29b29330_w_400_h_500_fit_crop_crop_face-5e39b3257f66.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1494790108377-be9c29b29330_w_400_h_500_fit_crop_crop_face-b3d3abdf486e.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1494790108377-be9c29b29330_w_400_h_500_fit_crop_crop_face-3789897389ae.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1494790108377-be9c29b29330_w_400_h_500_fit_crop_crop_face-987baf17c99a.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1494790108377-be9c29b29330_w_400_h_500_fit_crop_crop_face-3a165ec97dca.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1494790108377-be9c29b29330_w_400_h_500_fit_crop_crop_face-b9667bb68c23.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1472099645785-5658abf4ff4e_w_400_h_500_fit_crop_crop_face-bd630c7c0d22.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1472099645785-5658abf4ff4e_w_400_h_500_fit_crop_crop_face-8e9451660b64.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1472099645785-5658abf4ff4e_w_400_h_500_fit_crop_crop_face-69dc8ba5c289.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1472099645785-5658abf4ff4e_w_400_h_500_fit_crop_crop_face-e7bf0d00c995.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1472099645785-5658abf4ff4e_w_400_h_500_fit_crop_crop_face-c7e021848161.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1472099645785-5658abf4ff4e_w_400_h_500_fit_crop_crop_face-cdba8e08794a.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1472099645785-5658abf4ff4e_w_400_h_500_fit_crop_crop_face-14bbe8554ac9.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1472099645785-5658abf4ff4e_w_400_h_500_fit_crop_crop_face-96b34a79e366.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1472099645785-5658abf4ff4e_w_400_h_500_fit_crop_crop_face-8e6eddaa6eeb.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1472099645785-5658abf4ff4e_w_400_h_500_fit_crop_crop_face-577f0301b533.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1551288049-bebda4e38f71_w_800_h_600_fit_crop-b997c4529d5a.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1551288049-bebda4e38f71_w_800_h_600_fit_crop-86dc1520c8dc.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1551288049-bebda4e38f71_w_800_h_600_fit_crop-db6b064e893b.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1551288049-bebda4e38f71_w_800_h_600_fit_crop-90575dd9898c.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1551288049-bebda4e38f71_w_800_h_600_fit_crop-a7827dcc0b3e.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1551288049-bebda4e38f71_w_800_h_600_fit_crop-0c7e070cd4ea.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1551288049-bebda4e38f71_w_800_h_600_fit_crop-a91819c34746.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1551288049-bebda4e38f71_w_800_h_600_fit_crop-45dbe63c7ce3.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1551288049-bebda4e38f71_w_800_h_600_fit_crop-9a77d2317b49.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1551288049-bebda4e38f71_w_800_h_600_fit_crop-36f88fd08e5e.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1579621970563-ebec7560ff3e_w_800_h_600_fit_crop-61576f03eda0.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1579621970563-ebec7560ff3e_w_800_h_600_fit_crop-3c6a0b9421b1.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1579621970563-ebec7560ff3e_w_800_h_600_fit_crop-40ce3e3fb7f3.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1579621970563-ebec7560ff3e_w_800_h_600_fit_crop-bc5e26669d08.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1579621970563-ebec7560ff3e_w_800_h_600_fit_crop-bc3ba05a9321.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1579621970563-ebec7560ff3e_w_800_h_600_fit_crop-d8e63e5e1b50.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1579621970563-ebec7560ff3e_w_800_h_600_fit_crop-f064cb0cc80c.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1579621970563-ebec7560ff3e_w_800_h_600_fit_crop-47f54e376eef.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1579621970563-ebec7560ff3e_w_800_h_600_fit_crop-46d63b19aa46.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1579621970563-ebec7560ff3e_w_800_h_600_fit_crop-97f56add86df.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1563013544-824ae1b704d3_w_800_h_600_fit_crop-6445d528e7de.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1563013544-824ae1b704d3_w_800_h_600_fit_crop-89e87cd2c8a6.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1563013544-824ae1b704d3_w_800_h_600_fit_crop-49dcd63314c4.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1563013544-824ae1b704d3_w_800_h_600_fit_crop-eebb60188a2c.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1563013544-824ae1b704d3_w_800_h_600_fit_crop-24b5c9d8125b.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1563013544-824ae1b704d3_w_800_h_600_fit_crop-60ca1d265fee.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1563013544-824ae1b704d3_w_800_h_600_fit_crop-c11343819e6a.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1563013544-824ae1b704d3_w_800_h_600_fit_crop-babb9bd022cf.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1563013544-824ae1b704d3_w_800_h_600_fit_crop-48b28a2ecc98.bin"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/_img/photo-1438761681033-6461ffad8d80_w_400_h_500_fit_crop_crop_face-e87fe23dabc1.bin",
+      "path": "_img/photo-1563013544-824ae1b704d3_w_800_h_600_fit_crop-5936d8988a9f.bin"
+    },
+    {
+      "url": "https://finaro.com",
+      "path": "https:/finaro.com"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/site.webmanifest",
+      "path": "site.webmanifest"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/favicon-16x16.png",
+      "path": "favicon-16x16.png"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/favicon.ico?favicon.0b3bf435.ico",
+      "path": "favicon.ico-cc6c95b3f187.ico"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/favicon.ico",
+      "path": "favicon.ico"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/apple-icon.png",
+      "path": "apple-icon.png"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/mock-logos/acmecorp.svg",
+      "path": "mock-logos/acmecorp.svg"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/mock-logos/altshift.svg",
+      "path": "mock-logos/altshift.svg"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/mock-logos/globalbank.svg",
+      "path": "mock-logos/globalbank.svg"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/mock-logos/boltshift.svg",
+      "path": "mock-logos/boltshift.svg"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/mock-logos/capsule.svg",
+      "path": "mock-logos/capsule.svg"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/mock-logos/catalog.svg",
+      "path": "mock-logos/catalog.svg"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/mock-logos/commandr.svg",
+      "path": "mock-logos/commandr.svg"
+    },
+    {
+      "url": "https://rbp-finance-template.vercel.app/mock-logos/interlock.svg",
+      "path": "mock-logos/interlock.svg"
+    }
+  ],
+  "failures": [
+    {
+      "u": "https://finaro.com",
+      "s": 429
+    },
+    {
+      "u": "https://rbp-finance-template.vercel.app/favicon-16x16.png",
+      "s": 404
+    },
+    {
+      "u": "https://rbp-finance-template.vercel.app/apple-icon.png",
+      "s": 404
+    }
+  ]
+}

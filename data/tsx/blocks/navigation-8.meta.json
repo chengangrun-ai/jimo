@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/navigation-8",
+ "slug": "navigation-8",
+ "name": "Navigation 8",
+ "description": "Blurred bottom nav with image previews",
+ "category": "Navigation",
+ "categorySlug": "navigation",
+ "exportName": "Navigation8",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/navigation/navigation-8.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/navigation-8",
+ "lang": "jsx",
+ "codeFile": "code/blocks/navigation-8.txt",
+ "codeLen": 153780,
+ "role": "navigation",
+ "previewHeight": 500,
+ "layout": {
+  "rootTag": "div",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": true
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "images.unsplash.com"
+ ],
+ "categoryDir": "navigation",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/navigation/navigation-8.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

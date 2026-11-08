@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/navigation-2",
+ "slug": "navigation-2",
+ "name": "Navigation 2",
+ "description": "Rounded glass nav with card dropdowns",
+ "category": "Navigation",
+ "categorySlug": "navigation",
+ "exportName": "Navigation2",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/navigation/navigation-2.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/navigation-2",
+ "lang": "jsx",
+ "codeFile": "code/blocks/navigation-2.txt",
+ "codeLen": 160948,
+ "role": "navigation",
+ "previewHeight": 500,
+ "layout": {
+  "rootTag": "div",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "navigation",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/navigation/navigation-2.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/faq-3",
+ "slug": "faq-3",
+ "name": "FAQ 3",
+ "description": "Tabbed FAQ by category",
+ "category": "FAQ",
+ "categorySlug": "faq",
+ "exportName": "FAQ3",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/faq/faq-3.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/faq-3",
+ "lang": "jsx",
+ "codeFile": "code/blocks/faq-3.txt",
+ "codeLen": 155641,
+ "role": "section",
+ "previewHeight": 850,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "faq",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/faq/faq-3.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

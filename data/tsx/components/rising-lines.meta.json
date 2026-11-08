@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/rising-lines",
+ "slug": "rising-lines",
+ "name": "Rising Lines",
+ "description": "Lines of light rising from a glowing horizon",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "shader",
+  "background",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/rising-lines",
+ "lang": "jsx",
+ "codeFile": "code/components/rising-lines.txt",
+ "codeLen": 34103,
+ "needInline": [
+  "56388",
+  "90761",
+  "86049",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

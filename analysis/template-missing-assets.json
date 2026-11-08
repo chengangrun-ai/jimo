@@ -1,0 +1,126 @@
+[
+  {
+    "slug": "8bit",
+    "refCount": 12,
+    "missing": [],
+    "missingCount": 0
+  },
+  {
+    "slug": "agency",
+    "refCount": 19,
+    "missing": [
+      "favicon-16x16.png",
+      "apple-icon.png"
+    ],
+    "missingCount": 2
+  },
+  {
+    "slug": "agentframe",
+    "refCount": 31,
+    "missing": [
+      "/#top",
+      "/#runtime",
+      "/#quickstart",
+      "/#playground",
+      "/pricing#faq",
+      "/#integrations",
+      "/about#privacy"
+    ],
+    "missingCount": 7
+  },
+  {
+    "slug": "ai-app",
+    "refCount": 14,
+    "missing": [],
+    "missingCount": 0
+  },
+  {
+    "slug": "ai-saas",
+    "refCount": 19,
+    "missing": [
+      "favicon-16x16.png",
+      "apple-icon.png"
+    ],
+    "missingCount": 2
+  },
+  {
+    "slug": "cloudlight",
+    "refCount": 12,
+    "missing": [],
+    "missingCount": 0
+  },
+  {
+    "slug": "finance",
+    "refCount": 26,
+    "missing": [
+      "favicon-16x16.png",
+      "apple-icon.png"
+    ],
+    "missingCount": 2
+  },
+  {
+    "slug": "imageworks",
+    "refCount": 13,
+    "missing": [],
+    "missingCount": 0
+  },
+  {
+    "slug": "minimal",
+    "refCount": 20,
+    "missing": [
+      "favicon-16x16.png",
+      "apple-icon.png"
+    ],
+    "missingCount": 2
+  },
+  {
+    "slug": "portfolio",
+    "refCount": 24,
+    "missing": [
+      "favicon-16x16.png",
+      "apple-icon.png"
+    ],
+    "missingCount": 2
+  },
+  {
+    "slug": "saas",
+    "refCount": 28,
+    "missing": [
+      "favicon-16x16.png",
+      "apple-icon.png"
+    ],
+    "missingCount": 2
+  },
+  {
+    "slug": "security",
+    "refCount": 17,
+    "missing": [
+      "favicon-16x16.png",
+      "apple-icon.png"
+    ],
+    "missingCount": 2
+  },
+  {
+    "slug": "shader",
+    "refCount": 19,
+    "missing": [
+      "apple-icon.svg"
+    ],
+    "missingCount": 1
+  },
+  {
+    "slug": "sparkdesign",
+    "refCount": 14,
+    "missing": [],
+    "missingCount": 0
+  },
+  {
+    "slug": "wireframe",
+    "refCount": 17,
+    "missing": [
+      "favicon-16x16.png",
+      "apple-icon.png"
+    ],
+    "missingCount": 2
+  }
+]

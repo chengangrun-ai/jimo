@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/blurred-rays",
+ "slug": "blurred-rays",
+ "name": "Blurred Rays",
+ "description": "Soft vertical beams of light that flicker through the spectrum",
+ "category": "shader",
+ "tier": "starter",
+ "tags": [
+  "shader",
+  "effect",
+  "background",
+  "light",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/blurred-rays",
+ "lang": "jsx",
+ "codeFile": "code/components/blurred-rays.txt",
+ "codeLen": 35333,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

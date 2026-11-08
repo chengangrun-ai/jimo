@@ -1,0 +1,26 @@
+{
+ "id": "pro:component/circle-stack",
+ "slug": "circle-stack",
+ "name": "Circle Stack",
+ "description": "A tilted stack of circles that cycles through your images",
+ "category": "carousel",
+ "tier": "starter",
+ "tags": [
+  "carousel",
+  "stack",
+  "3d",
+  "motion",
+  "rotating",
+  "showcase"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/circle-stack",
+ "lang": "jsx",
+ "codeFile": "code/components/circle-stack.txt",
+ "codeLen": 7193,
+ "needInline": [
+  "30701",
+  "56388",
+  "90761",
+  "90650"
+ ]
+}

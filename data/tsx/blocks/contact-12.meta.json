@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/contact-12",
+ "slug": "contact-12",
+ "name": "Contact 12",
+ "description": "Six animated support option cards",
+ "category": "Contact",
+ "categorySlug": "contact",
+ "exportName": "Contact12",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/contact/contact-12.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/contact-12",
+ "lang": "jsx",
+ "codeFile": "code/blocks/contact-12.txt",
+ "codeLen": 151419,
+ "role": "section",
+ "previewHeight": 920,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "contact",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/contact/contact-12.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

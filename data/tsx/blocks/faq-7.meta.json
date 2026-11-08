@@ -1,0 +1,39 @@
+{
+ "id": "pro:block/faq-7",
+ "slug": "faq-7",
+ "name": "FAQ 7",
+ "description": "Help center FAQ with a category rail",
+ "category": "FAQ",
+ "categorySlug": "faq",
+ "exportName": "FAQ7",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/faq/faq-7.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/faq-7",
+ "lang": "jsx",
+ "codeFile": "code/blocks/faq-7.txt",
+ "codeLen": 157465,
+ "role": "section",
+ "previewHeight": 880,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "faq",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/faq/faq-7.tsx",
+ "needInline": [
+  "50969",
+  "47962"
+ ]
+}

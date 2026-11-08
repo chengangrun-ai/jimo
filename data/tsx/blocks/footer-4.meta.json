@@ -1,0 +1,36 @@
+{
+ "id": "pro:block/footer-4",
+ "slug": "footer-4",
+ "name": "Footer 4",
+ "description": "Newsletter signup with a big logo",
+ "category": "Footer",
+ "categorySlug": "footer",
+ "exportName": "Footer4",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/footer/footer-4.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/footer-4",
+ "lang": "jsx",
+ "codeFile": "code/blocks/footer-4.txt",
+ "codeLen": 149204,
+ "role": "footer",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "footer",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "footer",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/footer/footer-4.tsx",
+ "needInline": []
+}

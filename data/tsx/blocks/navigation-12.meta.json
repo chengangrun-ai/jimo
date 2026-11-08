@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/navigation-12",
+ "slug": "navigation-12",
+ "name": "Navigation 12",
+ "description": "Glass pill nav with a sliding indicator",
+ "category": "Navigation",
+ "categorySlug": "navigation",
+ "exportName": "Navigation12",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/navigation/navigation-12.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/navigation-12",
+ "lang": "jsx",
+ "codeFile": "code/blocks/navigation-12.txt",
+ "codeLen": 154805,
+ "role": "navigation",
+ "previewHeight": 600,
+ "layout": {
+  "rootTag": "header",
+  "heightMode": "contract-min-h",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "navigation",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/navigation/navigation-12.tsx",
+ "needInline": [
+  "47962"
+ ]
+}

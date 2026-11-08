@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/stats-17",
+ "slug": "stats-17",
+ "name": "Stats 17",
+ "description": "Searchlight fan where each beam's reach is a year of volume",
+ "category": "Stats",
+ "categorySlug": "stats",
+ "exportName": "Stats17",
+ "deps": [
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/stats/stats-17.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/stats-17",
+ "lang": "jsx",
+ "codeFile": "code/blocks/stats-17.txt",
+ "codeLen": 905820,
+ "role": "section",
+ "previewHeight": 768,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "stats",
+ "dependencies": [
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/stats/stats-17.tsx",
+ "needInline": [
+  "50969",
+  "2253",
+  "12246"
+ ]
+}

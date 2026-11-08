@@ -1,0 +1,21 @@
+{
+ "id": "pro:app-ui/sorbet/agent-approval-1",
+ "slug": "agent-approval-1",
+ "name": "Agent Approval 1",
+ "description": "",
+ "category": "agent-approval",
+ "style": "sorbet",
+ "href": "https://pro.reactbits.dev/docs/app-ui/agent-approval-1",
+ "lang": "jsx",
+ "codeFile": "code/app-ui/agent-approval-1.txt",
+ "codeLen": 13561,
+ "needInline": [
+  "50969",
+  "22728",
+  "90987",
+  "5042",
+  "99199",
+  "92752",
+  "66575"
+ ]
+}

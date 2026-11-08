@@ -1,0 +1,40 @@
+{
+ "id": "pro:block/features-17",
+ "slug": "features-17",
+ "name": "Features 17",
+ "description": "Follow-the-sun section where dawn breaks over the planet under each office",
+ "category": "Features",
+ "categorySlug": "features",
+ "exportName": "Features17",
+ "deps": [
+  "motion",
+  "three"
+ ],
+ "original": "ts-tailwind/blocks/features/features-17.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/features-17",
+ "lang": "jsx",
+ "codeFile": "code/blocks/features-17.txt",
+ "codeLen": 911868,
+ "role": "section",
+ "previewHeight": 740,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "features",
+ "dependencies": [
+  "motion",
+  "three"
+ ],
+ "sourcePath": "ts-tailwind/blocks/features/features-17.tsx",
+ "needInline": [
+  "50969",
+  "12246",
+  "2253"
+ ]
+}

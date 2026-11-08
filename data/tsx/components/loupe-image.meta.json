@@ -1,0 +1,27 @@
+{
+ "id": "pro:component/loupe-image",
+ "slug": "loupe-image",
+ "name": "Loupe Image",
+ "description": "A loupe that glides over a photo and magnifies its finest details",
+ "category": "image",
+ "tier": "starter",
+ "tags": [
+  "image",
+  "magnifier",
+  "zoom",
+  "lens",
+  "hover",
+  "interactive"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/loupe-image",
+ "lang": "jsx",
+ "codeFile": "code/components/loupe-image.txt",
+ "codeLen": 35841,
+ "needInline": [
+  "56388",
+  "45949",
+  "86049",
+  "90761",
+  "90650"
+ ]
+}

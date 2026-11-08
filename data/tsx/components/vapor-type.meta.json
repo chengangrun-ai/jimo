@@ -1,0 +1,28 @@
+{
+ "id": "pro:component/vapor-type",
+ "slug": "vapor-type",
+ "name": "Vapor Type",
+ "description": "Words that condense out of vapor and drift away",
+ "category": "text",
+ "tier": "starter",
+ "tags": [
+  "text",
+  "animation",
+  "particles",
+  "webgl",
+  "interactive",
+  "reveal"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/vapor-type",
+ "lang": "jsx",
+ "codeFile": "code/components/vapor-type.txt",
+ "codeLen": 34500,
+ "needInline": [
+  "56388",
+  "86049",
+  "90761",
+  "2253",
+  "12246",
+  "90650"
+ ]
+}

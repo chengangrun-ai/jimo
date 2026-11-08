@@ -1,0 +1,22 @@
+{
+ "id": "pro:app-ui/sorbet/paywall-4",
+ "slug": "paywall-4",
+ "name": "Paywall 4",
+ "description": "",
+ "category": "paywall",
+ "style": "sorbet",
+ "href": "https://pro.reactbits.dev/docs/app-ui/paywall-4",
+ "lang": "jsx",
+ "codeFile": "code/app-ui/paywall-4.txt",
+ "codeLen": 8280,
+ "needInline": [
+  "22728",
+  "67358",
+  "90987",
+  "27151",
+  "89289",
+  "27476",
+  "95735",
+  "17601"
+ ]
+}

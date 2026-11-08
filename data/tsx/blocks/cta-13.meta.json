@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/cta-13",
+ "slug": "cta-13",
+ "name": "CTA 13",
+ "description": "Serif CTA panel with a halftone texture",
+ "category": "Call To Action",
+ "categorySlug": "cta",
+ "exportName": "CTA13",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/cta/cta-13.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/cta-13",
+ "lang": "jsx",
+ "codeFile": "code/blocks/cta-13.txt",
+ "codeLen": 149553,
+ "role": "section",
+ "previewHeight": 800,
+ "layout": {
+  "rootTag": "section",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [],
+ "categoryDir": "cta",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/cta/cta-13.tsx",
+ "needInline": [
+  "50969"
+ ]
+}

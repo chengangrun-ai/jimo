@@ -1,0 +1,24 @@
+{
+ "id": "pro:component/silk-waves",
+ "slug": "silk-waves",
+ "name": "Silk Waves",
+ "description": "Flowing waves like draped silk",
+ "category": "animation",
+ "tier": "starter",
+ "tags": [
+  "animation",
+  "effect",
+  "background"
+ ],
+ "href": "https://pro.reactbits.dev/docs/components/silk-waves",
+ "lang": "jsx",
+ "codeFile": "code/components/silk-waves.txt",
+ "codeLen": 11912,
+ "needInline": [
+  "2253",
+  "12246",
+  "90650",
+  "56388",
+  "90761"
+ ]
+}

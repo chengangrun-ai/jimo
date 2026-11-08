@@ -1,0 +1,38 @@
+{
+ "id": "pro:block/footer-1",
+ "slug": "footer-1",
+ "name": "Footer 1",
+ "description": "Four columns with large background text",
+ "category": "Footer",
+ "categorySlug": "footer",
+ "exportName": "Footer1",
+ "deps": [
+  "lucide-react",
+  "motion"
+ ],
+ "original": "ts-tailwind/blocks/footer/footer-1.tsx",
+ "href": "https://pro.reactbits.dev/docs/blocks/footer-1",
+ "lang": "jsx",
+ "codeFile": "code/blocks/footer-1.txt",
+ "codeLen": 151861,
+ "role": "footer",
+ "previewHeight": 820,
+ "layout": {
+  "rootTag": "footer",
+  "heightMode": "auto",
+  "isOpaque": true,
+  "rootIsFixed": false,
+  "containsFixedPositioning": false
+ },
+ "localAssets": [],
+ "remoteHosts": [
+  "www.w3.org"
+ ],
+ "categoryDir": "footer",
+ "dependencies": [
+  "lucide-react",
+  "motion"
+ ],
+ "sourcePath": "ts-tailwind/blocks/footer/footer-1.tsx",
+ "needInline": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "pro:app-ui/sorbet/analytics-11",
+ "slug": "analytics-11",
+ "name": "Analytics 11",
+ "description": "",
+ "category": "analytics",
+ "style": "sorbet",
+ "href": "https://pro.reactbits.dev/docs/app-ui/analytics-11",
+ "lang": "jsx",
+ "codeFile": "code/app-ui/analytics-11.txt",
+ "codeLen": 9384,
+ "needInline": [
+  "46667",
+  "4670",
+  "40144",
+  "22728",
+  "88366",
+  "44647",
+  "57466",
+  "37576",
+  "1497",
+  "37502",
+  "5042",
+  "67133",
+  "44439",
+  "33126",
+  "70255",
+  "50098",
+  "62859",
+  "34177"
+ ]
+}
