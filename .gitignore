@@ -84,3 +84,6 @@ scripts/check-album*
 # 文档里的大图
 preview-manifest.csv
 preview-download-errors.txt
+
+# Local Netlify folder
+.netlify

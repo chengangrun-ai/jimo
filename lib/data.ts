@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import zlib from 'zlib';
 
 /**
  * 数据层。
@@ -64,11 +65,20 @@ export function loadIndex(): Index {
   return cache;
 }
 
-/** 读某个条目的源码（按需，详情页才调用） */
+/**
+ * 读某个条目的源码（按需，详情页才调用）。
+ *
+ * data/code 下的源码在部署时压缩成 .gz（体积从 87MB 降到约 10MB，
+ * Netlify 单函数包上限 250MB）。这里优先读 .gz 并解压，读不到再退回原始 .txt。
+ */
 export function readCode(item: Item | null | undefined): string {
   if (!item?.codeFile) return '';
+  const base = path.join(DATA_DIR, item.codeFile);
   try {
-    return fs.readFileSync(path.join(DATA_DIR, item.codeFile), 'utf8');
+    if (fs.existsSync(base + '.gz')) {
+      return zlib.gunzipSync(fs.readFileSync(base + '.gz')).toString('utf8');
+    }
+    return fs.readFileSync(base, 'utf8');
   } catch {
     return '';
   }

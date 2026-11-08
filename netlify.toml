@@ -9,5 +9,19 @@
   package = "@netlify/plugin-nextjs"
 
 [functions]
-  "app/render/**" = { maxDuration = 60 }
-  "app/api/bundle/**" = { maxDuration = 60 }
+  included_files = [
+    "data/index.json",
+    "data/agent-kit.json",
+    "data/code/**",
+    "data/tsx/components/**",
+    "data/tsx/blocks/**",
+    "data/tsx/app-ui/**",
+    "data/tsx/_helpers/**"
+  ]
+  node_bundler = "esbuild"
+
+[functions."app/render/**"]
+  maxDuration = 60
+
+[functions."app/api/bundle/**"]
+  maxDuration = 60

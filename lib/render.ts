@@ -1,7 +1,30 @@
 import fs from 'fs';
 import path from 'path';
+import zlib from 'zlib';
 import { build } from 'esbuild';
 import { RenderCache } from './render-cache';
+
+/**
+ * 云端 Linux 下的 esbuild 二进制兜底。
+ *
+ * 本地是 Windows，node_modules 里只有 @esbuild/win32-x64；部署到 Netlify
+ * 的 Linux 函数后原生 esbuild 会报「平台不匹配」。vendor/ 下放了一份
+ * Linux 二进制，随代码一起上传；这里在模块加载时把 ESBUILD_BINARY_PATH
+ * 指过去，绕过 esbuild 的自动平台检测。
+ */
+if (process.platform === 'linux' && !process.env.ESBUILD_BINARY_PATH) {
+  const candidates = [
+    path.join(process.cwd(), 'vendor', 'esbuild-linux-x64', 'bin', 'esbuild'),
+    path.join(__dirname, '..', 'vendor', 'esbuild-linux-x64', 'bin', 'esbuild'),
+    path.join('/var/task', 'vendor', 'esbuild-linux-x64', 'bin', 'esbuild'),
+  ];
+  for (const p of candidates) {
+    if (fs.existsSync(p)) {
+      process.env.ESBUILD_BINARY_PATH = p;
+      break;
+    }
+  }
+}
 
 /**
  * 本地渲染编译管线。
@@ -79,12 +102,23 @@ function helperStamp(): number {
  * 源码位置：
  *   components / blocks / app-ui : data/tsx/<kind>/<slug>.tsx（反编译还原版）
  *   free                         : data/code/free/<slug>.txt（原始 TSX，改后缀）
+ *
+ * 部署时这些源码被压缩成 .gz（省体积，Netlify 单函数包上限 250MB），
+ * 所以优先找 .gz，找不到再退回原始文件。
  */
 function tsxPath(kind: RenderKind, slug: string): string {
   if (kind === 'free') {
     return path.join(ROOT, 'data', 'code', 'free', `${slug}.txt`);
   }
   return path.join(TSX_DIR, kind, `${slug}.tsx`);
+}
+
+/** 读取源码文件，自动处理 .gz 压缩版本 */
+function readSource(abs: string): string {
+  if (fs.existsSync(abs + '.gz')) {
+    return zlib.gunzipSync(fs.readFileSync(abs + '.gz')).toString('utf8');
+  }
+  return fs.readFileSync(abs, 'utf8');
 }
 
 /** 从源码里粗略提取第三方依赖名（用于给用户提示缺什么） */
@@ -106,11 +140,12 @@ export function extractDeps(code: string): string[] {
  */
 export async function compileRender(kind: RenderKind, slug: string, noCache = false): Promise<RenderResult> {
   const abs = tsxPath(kind, slug);
-  if (!fs.existsSync(abs)) {
+  const absGz = abs + '.gz';
+  if (!fs.existsSync(abs) && !fs.existsSync(absGz)) {
     return { ok: false, code: '', error: `找不到源码: data/tsx/${kind}/${slug}.tsx`, deps: [] };
   }
 
-  const stat = fs.statSync(abs);
+  const stat = fs.statSync(fs.existsSync(absGz) ? absGz : abs);
   const key = `${kind}/${slug}`;
   const stamp = helperStamp();
   // 缓存只在「源码没变」「helper 没变」且「不强制刷新」时命中。
@@ -121,8 +156,31 @@ export async function compileRender(kind: RenderKind, slug: string, noCache = fa
     }
   }
 
-  const source = fs.readFileSync(abs, 'utf8');
+  const source = readSource(abs);
   const deps = extractDeps(source);
+
+  /**
+   * 源码注入插件。
+   *
+   * wrapper 里用 `import * as __mod from './<basename>'` 引入组件源码。
+   * data/code 下的 free 源码部署时被压成 .gz（省体积），磁盘上没有 .txt，
+   * 所以这里拦截这个特定路径、直接把解压后的内容喂给 esbuild。
+   */
+  const sourceInjectPlugin = {
+    name: 'rb-source-inject',
+    setup(buildApi: any) {
+      const marker = './' + path.basename(abs);
+      buildApi.onResolve({ filter: new RegExp('^\\./' + path.basename(abs).replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '$') }, () => ({
+        path: marker,
+        namespace: 'rb-source',
+      }));
+      buildApi.onLoad({ filter: /.*/, namespace: 'rb-source' }, () => ({
+        contents: source,
+        loader: kind === 'free' ? ('tsx' as const) : ('tsx' as const),
+        resolveDir: path.dirname(abs),
+      }));
+    },
+  };
 
   /**
    * 导出形态因类别而异：
@@ -676,7 +734,7 @@ export default __shell();
         'process.env.NODE_ENV': '"production"',
       },
       outfile: 'out.js',
-      plugins: [helperStubPlugin],
+      plugins: [sourceInjectPlugin, helperStubPlugin],
       logLimit: 5,
     });
     let code = out.outputFiles[0].text;
