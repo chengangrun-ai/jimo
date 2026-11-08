@@ -16,7 +16,18 @@
     "data/tsx/components/**",
     "data/tsx/blocks/**",
     "data/tsx/app-ui/**",
-    "data/tsx/_helpers/**"
+    "data/tsx/_helpers/**",
+    "vendor/**",
+    "node_modules/three/**",
+    "node_modules/@react-three/fiber/**",
+    "node_modules/@react-three/drei/**",
+    "node_modules/gsap/**",
+    "node_modules/motion/**",
+    "node_modules/lucide-react/**",
+    "node_modules/ogl/**",
+    "node_modules/react/**",
+    "node_modules/react-dom/**",
+    "node_modules/scheduler/**"
   ]
   node_bundler = "esbuild"
 

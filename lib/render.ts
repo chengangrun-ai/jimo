@@ -1,7 +1,6 @@
 import fs from 'fs';
 import path from 'path';
 import zlib from 'zlib';
-import { build } from 'esbuild';
 import { RenderCache } from './render-cache';
 
 /**
@@ -9,13 +8,15 @@ import { RenderCache } from './render-cache';
  *
  * 本地是 Windows，node_modules 里只有 @esbuild/win32-x64；部署到 Netlify
  * 的 Linux 函数后原生 esbuild 会报「平台不匹配」。vendor/ 下放了一份
- * Linux 二进制，随代码一起上传；这里在模块加载时把 ESBUILD_BINARY_PATH
- * 指过去，绕过 esbuild 的自动平台检测。
+ * Linux 二进制随代码上传。
+ *
+ * 关键：必须在 require('esbuild') **之前** 设好 ESBUILD_BINARY_PATH，
+ * 因为 esbuild 在模块加载时就把二进制路径缓存了。所以这里用 require
+ * 而不是顶层 import。
  */
 if (process.platform === 'linux' && !process.env.ESBUILD_BINARY_PATH) {
   const candidates = [
     path.join(process.cwd(), 'vendor', 'esbuild-linux-x64', 'bin', 'esbuild'),
-    path.join(__dirname, '..', 'vendor', 'esbuild-linux-x64', 'bin', 'esbuild'),
     path.join('/var/task', 'vendor', 'esbuild-linux-x64', 'bin', 'esbuild'),
   ];
   for (const p of candidates) {
@@ -25,6 +26,9 @@ if (process.platform === 'linux' && !process.env.ESBUILD_BINARY_PATH) {
     }
   }
 }
+
+// 必须在上面的环境变量设置之后再加载 esbuild
+const { build } = require('esbuild') as typeof import('esbuild');
 
 /**
  * 本地渲染编译管线。
