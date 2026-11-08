@@ -11,11 +11,11 @@ export function FaqList({ items }: { items: { q: string; a: string }[] }) {
   const [open, setOpen] = useState<number | null>(0);
 
   return (
-    <div className="mt-8 divide-y divide-border rounded-2xl border border-border bg-card">
+    <div className="mt-8 grid gap-3">
       {items.map((item, i) => {
         const isOpen = open === i;
         return (
-          <div key={item.q}>
+          <div key={item.q} className="rounded-2xl border border-border bg-card">
             <h3>
               <button
                 type="button"

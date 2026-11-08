@@ -7,7 +7,7 @@ import { Logo } from './logo';
  */
 export function SiteFooter() {
   return (
-    <footer className="w-full border-t border-border">
+    <footer className="w-full">
       <div className="mx-auto flex w-full max-w-[1280px] flex-col gap-8 px-6 py-16 sm:px-8 md:flex-row md:items-center md:justify-between">
         <div className="flex items-center">
           <Logo />

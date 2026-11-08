@@ -110,7 +110,7 @@ export default function Home() {
             </Link>
           </div>
 
-          <dl className="mt-16 grid grid-cols-1 gap-6 border-y border-border py-6 sm:grid-cols-3">
+          <dl className="mt-16 grid grid-cols-1 gap-6 rounded-2xl border border-border bg-card px-6 py-6 sm:grid-cols-3">
             <div>
               <dd className="text-3xl font-bold tracking-tight">{totalComponents}</dd>
               <dt className="mt-2 text-sm text-muted-foreground">个界面组件</dt>
